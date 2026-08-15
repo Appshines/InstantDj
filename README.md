@@ -1,8 +1,8 @@
-# Instant DJ
+# InstantDj
 
-Instant DJ is a DJ application for parties, events and mobile DJs. Organize your music by genre and dance style, mix with audio effects and control everything remotely — so you can focus on the party.
+InstantDj is a DJ application for parties, events and mobile DJs. Organize your music by genre and dance style, mix with audio effects and control everything remotely — so you can focus on the party.
 
-![Instant DJ main window](Assets/screenshots/screenshot-1.jpg)
+![InstantDj main window](Assets/screenshots/screenshot-1.jpg)
 
 <p>
   <img src="Assets/screenshots/screenshot-2.jpg" width="49%" alt="Screenshot 2" />
@@ -17,7 +17,7 @@ Instant DJ is a DJ application for parties, events and mobile DJs. Organize your
   <img src="Assets/screenshots/screenshot-7.jpg" width="49%" alt="Screenshot 7" />
 </p>
 
-## Get Instant DJ
+## Get InstantDj
 
 | Platform | Availability |
 |----------|--------------|
@@ -75,4 +75,4 @@ Questions, bug reports and feature requests: please use the **[issue tracker](..
 
 ## License
 
-Instant DJ is proprietary software. The Linux binaries provided here are free of charge and may be redistributed unmodified. All other rights reserved.
+InstantDj is proprietary software. The Linux binaries provided here are free of charge and may be redistributed unmodified. All other rights reserved.
