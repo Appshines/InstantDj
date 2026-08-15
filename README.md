@@ -1,11 +1,31 @@
-# InstantDj for Linux
+# Instant DJ
 
-InstantDj is a DJ application for parties, events and mobile DJs.
-**The Linux version is free of charge.** (InstantDj for Windows and macOS is available in the respective app stores.)
+Instant DJ is a DJ application for parties, events and mobile DJs. Organize your music by genre and dance style, mix with audio effects and control everything remotely — so you can focus on the party.
 
-This repository is the official distribution point for the Linux builds. It does not contain source code — you will find the downloadable binaries under **[Releases](../../releases)**.
+![Instant DJ main window](Assets/screenshots/screenshot-1.jpg)
 
-## Download
+<p>
+  <img src="Assets/screenshots/screenshot-2.jpg" width="49%" alt="Screenshot 2" />
+  <img src="Assets/screenshots/screenshot-3.jpg" width="49%" alt="Screenshot 3" />
+</p>
+<p>
+  <img src="Assets/screenshots/screenshot-4.jpg" width="49%" alt="Screenshot 4" />
+  <img src="Assets/screenshots/screenshot-5.jpg" width="49%" alt="Screenshot 5" />
+</p>
+<p>
+  <img src="Assets/screenshots/screenshot-6.jpg" width="49%" alt="Screenshot 6" />
+  <img src="Assets/screenshots/screenshot-7.jpg" width="49%" alt="Screenshot 7" />
+</p>
+
+## Get Instant DJ
+
+| Platform | Availability |
+|----------|--------------|
+| **Windows** | [Microsoft Store](https://apps.microsoft.com/detail/9phr4qq9jgc7) |
+| **macOS** | App Store — coming soon |
+| **Linux** | **Free of charge** — download below from [Releases](../../releases/latest) |
+
+## Linux downloads
 
 Get the latest version from the **[Releases page](../../releases/latest)**. The following packages are provided:
 
@@ -15,8 +35,6 @@ Get the latest version from the **[Releases page](../../releases/latest)**. The 
 | `instantdj_x.y.z_amd64.deb` | Debian, Ubuntu, Linux Mint |
 | `instantdj-x.y.z.x86_64.rpm` | Fedora, openSUSE |
 | `InstantDj-x.y.z-linux-x64.tar.gz` | Generic archive for all other distributions |
-
-## Installation
 
 ### AppImage (recommended)
 
@@ -45,7 +63,7 @@ cd InstantDj
 ./InstantDj
 ```
 
-## System requirements
+### System requirements
 
 - 64-bit Linux (x86_64)
 - X11 or Wayland desktop session
@@ -57,4 +75,4 @@ Questions, bug reports and feature requests: please use the **[issue tracker](..
 
 ## License
 
-InstantDj is proprietary software. The Linux binaries provided here are free of charge and may be redistributed unmodified. All other rights reserved.
+Instant DJ is proprietary software. The Linux binaries provided here are free of charge and may be redistributed unmodified. All other rights reserved.
