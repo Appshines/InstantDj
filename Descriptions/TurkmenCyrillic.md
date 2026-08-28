@@ -1,71 +1,72 @@
-InstantDj ulanyjy üçin amatly DJ programmasyny döretmek maksady bilen, yhlasly ballroom DJ-i, tansçy we programma üpjünçiligini işläp düzüji tarapyndan döredildi — professional DJ programma üpjünçiliginiň çylşyrymlylygy we çykdajylary bolmazdan, ýönekeý saz ýa-da akym pleýerinden has köp mümkinçilik bilen.  
-Programmanyñ içinde ses sazlamasy, depgini uýgunlaşdyrma, kompressor, limiter, başdaky/soňky dymyklygy ýüze çykarmak we dürli effektler bilen professional ses işlenişi işleýär — aýdymdan aýdyma deň derejede güýçli we deňagramly ýaňlanýan ses üçin.  
-Tomaşaçylar eýýäm çalynýan aýdymy diňläp durka, gulaklyk arkaly indiki aýdymy özüňiz arkaýyn taýýarlap bilersiňiz ýa-da bütin agşamlary ýumşak, emma aýdyň geçişler bilen doly awtomatiki geçirip bilersiňiz.
+InstantDj уланыжы үчин аматлы DJ гошундысыны дөретмек максады билен, хөвесжең балрум DJ-си, тансчы ве программа үпжүнчилигини ишләп дүзүжи тарапындан дөредилди — профессионал DJ программаларының чылшырымлыгы ве чыкдажылары болмаздан, йөне йөнекей саз я-да акым плейеринден эп-эсли көп мүмкинчиликлер билен.
+Гошундың ичинде сес сазлайжы, темп сазламасы, компрессор, лимитер, башлангычдакы ве ахыркы сессизлиги кесгитлемек хем-де дүрли эффектлер билен профессионал сес ишлениш улгасы ишлейәр — айдымдан айдыма денг дереҗеде гүйчли ве сазлашыклы эшидилйән сес үчин.
+Тамашачылар эййәм чалынян айдымы диңләп дуран махалы, индики айдымы наушник аркалы аркайын өзүңиз сазлан я-да тутуш агшамлары йумшак, йөне айдың гечишлер билен долы автоматик гечирин.
 
-Şular üçin amatly:
-- Öýde ajaýyp ses hili we smartfon arkaly ykjam dolandyryş bilen şahsy saz diňlemek
-- Öz kompýuteriňiziň başynda oturmazdan, pult arkaly saz çalmak üçin şahsy dabaralar
-- Aýdymlary aýdyň bölünen ballroom tans çäreleriniň ähli görnüşleri
-- Jübüt çalşygy bolan kiçi we orta göwrümli tans oturylyşyklary we sosial tans çäreleri
-- Toýlar, doglan günler, birleşik çäreleri we ş.m.
-- Aýdym saýlawynyň, depginiň, ses derejesiniň we ş.m. çeýe sazlanmaly tans sapaklary, okuw maslahatlary we türgenleşik agşamlary
-- Tans meýdançasyndan çalmagy we ses derejesini uzakdan dolandyrmak isleýän mugallymlar  
-🡆 Bu programma sazy mümkin boldugyça asyl görnüşinde tans etmegi ýa-da diňlemegi isleýän, şeýle hem her aýdymy aýdyň bölünen bolmaly bolan tomaşaçylar üçin döredildi. Şonuň üçin bu programmada beatmatching bilen göni remiks etmäge bilkastlaýyn ýer berilmedi.
-
-
-Möhüm funksiýalara syn
-
-🎛️ Giňişleýin ses we effekt işlenişi — her aýdym üçin aýratynlykda saklap bolýar  
-🎧 Iki sany aýry ses çykyşy: tomaşaçylar üçin esasy çykyş, öňünden diňlemek üçin gulaklyk çykyşy  
-🎚️ Başdaky/soňky dymyklygy ýüze çykarmak arkaly doly awtomatiki çalmak we şonuň netijesinde takyk geçişler (awtoçalma)  
-🔊 Yzygiderli birmeňzeş ses derejesi üçin dinamiki normalizator we gözegçilik edilýän ses üçin kompressor  
-📈 Tolkun şekili, spektr we BPM görkezijileri hakyky wagtda  
-📂 Gözlegi we BPM, baha, soňky gezek çalnan wagty we ş.m. boýunça tertiplemegi öz içine alýan saz brauzeri  
-📱 Çalşyp bolýan göni ses akymy (esasy çykyş ýa-da öňünden diňleme) bilen smartfon arkaly uzakdan dolandyryş  
-⭐ Saz ýygyndyňyzy tertiplemek üçin bahalar, şeýle hem žanrlar/tanslar we kategoriýalar  
-💾 Her aýdym üçin aýratyn sazlamalary bolan çalgy sanawlaryny saklamak, ýüklemek we awtomatiki ätiýaçlyk nusgasyny döretmek  
-✨ Dowamlylyk, BPM, dereje, dinamika, ýygylyk paýlanyşy we başga-da köp zadyň akylly fon seljermesi  
-🎵 Ähli giňden ulanylýan we ýokary hilli ses formatlaryny goldamak  
-⌚ Öňde duran ähli aýdymlaryň başlanjak çalynma wagtyny takyk öňünden hasaplamak
+Шулар үчин аматлы:
+- Өйде ажайып сес хили ве смартфон аркалы якжам доландырыш билен шәхси саз диңлемек
+- Компьютеринг башында өзүңиз отурмаздан, узакдан доландырыш аркалы саз чалмак үчин шәхси дабаралар
+- Айдын бөлүнен айдымлары болан әхли гөрнүшли балрум танс чәрелери
+- Йолдаш чалшылян кичи ве орта танс гечелери хем-де социал танс чәрелери
+- Тойлар, доглан гүнлер, бирлешик дабаралары ве ш.м.
+- Айдым сайлавы, темп, сес гүйҗи ве ш.м. эркин сазланмалы танс сапаклары, воркшоплар ве машгала агшамлары
+- Танс мәйданчасындан башлатмагы ве сес гүйҗини узакдан доландырасылары гелйән курс рәһберлери
+🡆 Бу гошунды сазы мүмкин болдугыча асыл гөрнүшинде танс этмек я-да диңлемек ислеян, хер бир айдың айдын бөлүнүп дурмалы болмагыны ислеян тамашачылар үчин дөредилди. Шонуң үчин бу гошундыда бит-мэтчинг билен җанлы ремикслешдирме билкастлайын уланыла берилмеди.
 
 
-Esasy aýratynlyklar
+Мөһүм функсиялара гысгача серет
 
-🎧 Hakyky DJ ýaly paralel öňünden diňlemek  
-InstantDj iki sany doly aýry ses çykyşyny ýa-da enjamyny goldaýar. Esasy çykyş arkaly tomaşaçylaryňyz üçin saz çalynýar, gulaklyk çykyşy arkaly bolsa indiki aýdymy başgalara eşitdirmän paralel öňünden diňläp, laýyk başlangyç ýerini gözläp we geçişi taýýarlap bilersiňiz. Hut şu iş tertibi ýönekeý pleýer bilen hakyky DJ-ligiň arasyndaky tapawudy döredýär.
+🎛️ Гиңишлейин сес ве эффект ишлениши — хер айдым үчин айратынлыкда саклап боляр
+🎧 Ики саны айратын сес чыхышы: тамашачылар үчин эсасы чыхыш, өңүнден диңлемек үчин наушник чыхышы
+🎚️ Башлангычдакы ве ахыркы сессизлиги кесгитлемекли долы автоматик чалма ве шу веҗе такык кроссфейдлер (автоматик чалма)
+🔊 Үзнүксиз бир хили сес гүйҗи үчин динамики нормализатор ве көзегчили сес үчин компрессор
+✀ AI сес ёлларыны бөлмек — вокалы, депреглери, басы ве бейлеки саз гуралларыны динамики гүйҗетмек я-да сессизлешдирмек
+📈 Толкун гөрнүши, спектр ве BPM гөркезижиси реал вагтда
+📂 Гөзлег, BPM бойунча тертиплемек, баһа, соңкы чалан айдым ве ш.м. функсиялары болан бирикдирилен айдым браузери
+📱 Өзгердип болян җанлы сес акымы (эсасы чыхыш я-да өңүнден диңлемек) билен смартфон аркалы узакдан доландырыш
+⭐ Саз топлумыңызы тертиплемек үчин бахалар хем-де жанрлар/танслар ве категориалар
+💾 Хер айдым үчин айратын сазламалары болан плейлистлери сакламак, йүклемек ве автоматик әтиячлык нусгасыны дөретмек
+✨ Узынлыгы, BPM-и, дереҗеси, динамикасы, йыгыылык пайланышы ве бейлеки затлар барда акыллы фон анализи
+🎵 Әхли кенгден уланылян ве йокары хили сес форматларыны голдамак
+⌚ Нобата дуран әхли айдымларың башланма вагтыны такык өңүнден хасапламак
 
-🎚️ Doly awtomatiki ýa-da el bilen  
-Awtoçalma bilen çalgy sanawyňyz özbaşdak dowam edýär we her aýdymy ýuwaşlyk bilen indiki aýdyma geçirýär — başga işler bilen meşgullanmak isleýän dabaralar üçin örän amatly. Islän wagtyňyz dolandyryşy ýene özüňiz ele alyp bilersiňiz: girizme we çykaryş geçişleriniň dowamlylygyny, aýdymlaryň üst-üstüne düşmesini we indiki aýdymy has ir başlamagy erkin sazlap, hatda bu sazlamalary her aýdym üçin aýratynlykda saklap bilersiňiz.
 
-🎛️ Çuňňur mümkinçilikli professional ses  
-Aýdyň interfeýsiň aňyrsynda güýçli ses işlenişi gizlenýär: nusgawy üç zolakly ses sazlamasy (bas, orta ýygylyklar, ýokary ýygylyklar), temp we tonal beýiklik üçin aýry dolandyryş, kompressor, limiter/maksimizator, garmonik eksaýter, stereo giňeltme, transient şekillendiriji, köp sanly presetli eho, şeýle hem chorus, flanger we phaser. Dinamiki normalizator dürli derejede ýazylan aýdym bölekleriniň sesini awtomatiki deňleşdirýär, şeýdip hiç zat aşa öňe çykmaýar ýa-da ýitip gitmeýär. Ähli sazlamalary her aýdym üçin hemişelik saklap bolýar.
+Эсасы угурлар
 
-🥁 BPM hemişe göz öňünde  
-Awtomatiki BPM kesgitlemesi aýdymlaryňyzyň depginini — bütin aýdym üçin statiki görnüşde we häzirki çalynýan ýeriň töwereginde hakyky wagtda dinamiki görnüşde — kesgitleýär. Žanry ýa-da görnüşi görkezilen aýdymlar üçin, bellenen BPM aralyklaryna görä reňkli tizlik zolaklary we "örän haýal"-dan "örän çalt"-a çenli düşnükli derejelendirme görkezilýär. Şeýlelikde, aýdymyň tans görnüşine we tans edýän tomaşaçylaryňyza laýyk çalynma tizligini optimal sazlap bilersiňiz.
+🎧 Хакыкы DJ ялы параллел өңүнден диңлемек
+InstantDj ики саны долы айры сес чыхышыны я-да энжамыны голдайяр. Эсасы чыхыш аркалы сес тамашачыларыңыз үчин чалыняр, наушник чыхышы аркалы болса бейлекилере эшитдирмезден индики айдымы параллел өңүнден диңләп, лайык гириш ерини гөзләп ве гечиши тайярлап билерсиңиз. Хут шу иш тәртиби йөнекей плейер билен хакыкы DJлик этмегиң арасындагы тапавуды дөредйәр.
 
-📂 Sazyňyz kämil tertipde  
-Aýdym brauzeri diskleriňizi we bukjalaryňyzy örän çalt gözden geçirýär — isleseňiz Explorer tertibinde ýa-da özüňiz saýlap bilýän bukjalaryňyz arkaly, islegiňize görä kiçi bukjalary hem goşup, rekursiw görnüşde. Ady, üýtgedilen senesi, soňky gezek çalnan wagty, BPM, dowamlylygy ýa-da bahasy boýunça tertipläň. Bukja gözegçiligi sebäpli täze faýllar awtomatiki peýda bolýar, süýräp goýmak arkaly bolsa aýdymlary göni ýygyndyňyza ýa-da çalgy sanawyňyza goşup bilersiňiz. Ýyldyz bahalary we reňkli žanrlar hem-de kategoriýalar bilen uly kitaphanalary hem aňsatlyk bilen tertipde saklap bilersiňiz. Aýdyş faýlynyň jikme-jik häsiýetleri formaty, bitreýti, derejesi, dinamikasy, ýygylyk häsiýetnamasy we doly çalynma taryhyny görkezýär.
+🎚️ Долы автоматик я-да эл билен
+Автоматик чалма режими билен плейлистиниз өзбашдак довам эдйәр ве хер бир айдым индики айдыма йумшак гечиш билен гечирилйәр — бейлеки ишлер билен мешгулланмак ислеян дабараларыңыз үчин өрән аматлы. Ислән вагтыңызы доландырышы йене өз элиңизе алып билерсиңиз: гириш ве чыхышдакы сөнме вагтларыны, айдымларың үсте-үсте дүшйән бөлегини ве индики айдымы эртерек башлатмагы эркин сазлап, хетде бу сазламалары хер айдым үчин айратын саклап билерсиңиз.
 
-💾 Özüňiz bilen alyp gidýän çalgy sanawlary  
-Islendik mukdarda atlandyrylan çalgy sanawlaryny saklap, olary bir gezek basmak bilen ýüküň. Sanawlaryňyz sazlaryň ýerleşýän şol bir maglumat göterijilerinde awtomatiki saklanýar — şonuň üçin USB taýajygyňyz ýa-da daşarky gaty diskiňiz arkaly, sanawyň haýsy kompýuterde döredilendigine garamazdan, hemme ýerde olara girip bilersiňiz. Häzirki çalgy sanawyny programma ýapylanda awtomatiki ätiýaçlyk nusgalamak we indiki işe girizilende dikeltmek mümkin.
+🎛️ Дерең мүмкинчиликли профессионал сес
+Садда ве дүшнүкли интерфейсинг артында гүйчли аудионы ишлемек улгасы ерлешйәр: классики үч золаглы сес сазлайжы (бас, орта ве йокары йыгыылыклар), темпи ве сес бииклигини айратын доландырыш, эхо, реверберация, компрессор, лимитер/максимайзер, гармоник эксайтер, стереоны геңелтмек, көп санлы тайяр сазламалы транзиент формалагыч, шонуң ялы-да хорус, фленжер ве фазер. Динамики нормализатор сес гүйҗи дүрли болан айдым бөлеклерини автоматик гөрнүшде денглешдирйәр, шонуң үчин хич бир зат ёкары чыкмаяр я-да эшидилмән галмаяр. Әхли сазламалары хер айдым үчин довамлы саклап боляр.
 
-📱 Smartfonyňyz uzakdan dolandyryş we akym çykaryş enjamyna öwrülýär  
-Goşmaça programma gurmazdan, islendik ykjam enjamdan integrirlenen uzakdan dolandyryşy işjeňleşdiriň. QR-kody skanirläp, InstantDj-i islendik ýerden dolandyryň: çalynmany başladyň we durzuň, aýdymlary çalşyň, ses derejesini sazlaň, çalgy sanawyny täzeden tertipläň we ykjam aýdym brauzeri arkaly täze aýdymlary nobata goşuň. Isleseňiz, çäre geçirilýän ýerden çykmaly bolsaňyz hem, oturylyşyk dowam eder ýaly, göni sesi göni smartfonyňyza akdyryp bilersiňiz.
+✀ 6-а ченли сес ёлы үчин AI аркалы аудио ёлларыны бөлмек
+Герекли AI модели йүклененден соң, 6-а ченли аудио ёлы автоматик гөрнүшде бөлүнүп билер: вокал, депреглер, бас ве бейлеки саз гураллары. Шейле-де айратын ёллары динамики гүйҗетмек я-да сессизлешдирмек мүмкин. Windows ве Linux системаларында AI аудио ёлларыны бөлмек NVIDIA CUDA-ны голдайяр; бу болса ишлениши CPU-дакыдан такмынан он ессе чалтлашдыряр.
 
-⌚ Başlanjak çalynma wagtyny takyk öňünden hasaplamak  
-Çalgy sanawynda öňde duran ähli aýdymlaryň başlanjak wagty awtomatiki hasaplanyp görkezilýär. Şeýlelikde, aýdymyň haçan başlanjakdygyny hemişe bilýärsiňiz we çäräniň wagt tertibini optimal meýilleşdirip bilersiňiz. Wagt hasaplamasy sekunt takyklygyndadyr hem-de bellenen girizme we çykaryş geçişleriniň dowamlylygyny, boş wagt aralyklaryny, temp uýgunlaşdyrmalaryny we ş.m. göz öňünde tutýar.
+🥁 BPM хемише гөз өңүнде
+Автоматик BPM кесгитлеме функсиясы айдымларыңызың темпини — туташ айдым үчин статики гөрнүшде ве хәзирки чалынма ериниң этегинде реал вагтда динамики гөрнүшде — кесгитлейәр. Жанры я-да гөрнүши гөркезилен айдымлар үчин сакланан BPM аралыклары эсасында реңкли тизлик зоналары ве «өрән хаял»дан «өрән чалт»а ченли дүшнүкли дереҗелендирме берилйәр. Шейле-де чалынма тизлигини айдымның танс гөрнүшине ве танс эдйән тамашачыларыңыңа лайык иң аматлы дереҗеде сазлап билерсиңиз.
 
-🔌 Her çykyşda durnukly  
-Esasy we gulaklyk çykyşlaryny aýry-aýrylykda kesgitli enjamlara bellemek, öz enjam atlaryňyzy bermek we enjam elýeter bolanda awtomatiki täzeden işjeňleşdirmek bolýar. Ses enjamy tötänden aýrylsa, InstantDj ony fonda gözlemegini dowam etdirýär we enjam täzeden elýeter bolanda çalynmany dowam etdirýär — ýa-da siziň saýlan başga enjamyňyza geçýär. Mundan başga-da, programma ses enjamlaryny izolirlenen ulgam prosesleri arkaly dolandyrýar, şonuň üçin ses çykyşy hatda ulgam güýçli ýüklenen wagty hem takyk we üznüksiz amala aşyrylýar — möhüm pursatda hiç zat dymmaz ýaly.
+📂 Сазыңыз кәмил тертипде
+Айдым браузери дисклериңизи ве папкаларыңызы өрән чалт гөзден гечирйәр — ислеңиз Эксплорер тәртибинде я-да өзүңиз сайлаян папкаларыңыз аркалы, зерур болса кичи папкалары хем гошуп, рекурсив гөрнүшде. Ады, өзгертме сенеси, соңкы чалан вагты, BPM-и, узынлыгы я-да бахасы бойунча тертипләң. Папкалар гөзегчилиги аркалы тайяр болмадык тәзе файллар автоматик гөрнүшде пейда боляр, Drag & Drop аркалы болса айдымлары гөниден-гөни топлумыңыза я-да плейлистинизе гечирип билерсиңиз. Йылдыз бахалары, реңкли жанрлар ве категориалар билен улы китапханалары хем оңайлык билен элиңизде саклап билерсиңиз. Сес файлының чәкли хасиетлери формат, битрейт, дереҗе, динамика, йыгыылык жавабы ве долы чалынма тарихини гөркезйәр.
 
-⌨️ Klawiatura bilen çalt  
-Ýygy ulanylýan hereketleri erkin bellenip bilinýän klawiatura gysga ýollaryna baglap bolýar — gulaklykdaky çalynmada öňünden diňlemekden we bökdürmekden başlap, saýlanan aýdymlary çalgy sanawyna goşmaga çenli. Programmirlenýän düwmeler paneli bilen hem DJ-lik etmek rahat amala aşýar.
+💾 Сиз билен биле гечйән плейлистлер
+Ислендик санлы атландырылан плейлистлери саклаң ве олары бир басышда йүкләң. Санавларыңыз сазың гелип чыкян шол бир дисклеринде автоматик сакланяр — шейле-де USB флешкаңызың я-да дашкы гаты дискиңизиң аркалы, санавың хайсы компьютерде дөредиленине баглы болмаздан, олары хер ерде уланмага мүмкинчилик боляр. Хәзирки плейлист ислеңиз, программадан чыкыланда автоматик сакланяр ве индики ише гиризиленде йене дикелдилйәр.
 
-💡 Tertipli we derrew işlemäge taýýar  
-Döwrebap, gara interfeýs aýdyň gurluşly, aňsat düşnükli we akgynly işlemäge niýetlenendir. Doly ekran tertibi hiç hili ünsüňizi bölmezden sazy öňe çykarýar.
+📱 Смартфонуңыз узакдан доландырыш пультуна ве акым чыхарыш энжамына өвүрилйәр
+Бирикдирилен узакдан доландырышы (гошмача илова гурулмаздан) ислендик мобил энжамдан ишҗенлешдириниң. QR-коды сканерләң ве InstantDj-и хер ерден доландырың: чалмагы башладырың ве дурдуруң, айдымлары чалшырың, сес гүйҗини сазлаң, плейлистиң тертибини өзгәрдиң ве мобил айдым браузери аркалы йене айдымлары нобата гошуң. Ислеңиз, чәре ериден чыкмалы болсаңызыңыз хем, дабара довам этсин ялы җанлы сеси догрудан-догры смартфонуңыза акдырып билерсиңиз.
 
-🔒 Doly ýerli  
-InstantDj diňe enjamyňyzdaky öz faýllaryňyz bilen işleýär. Ýükleme ýok, hasaba girmek ýok, yzarlama ýok, hasap ýok — internet birikmesi hem zerur däl. Bellik: ykjam giriş üçin, ykjam girişi nähili sazlandygyňyza baglylykda, elbetde, ýerli tor we/ýa-da internet girişi gerek bolar.
+⌚ Башланма вагты такык өңүнден хасапламак
+Плейлистде хениз нобата дуран әхли айдымларың чалнып башланжак вагты автоматик хасапланяр ве гөркезилйәр. Шейле-де айдымың хачан башланжагыны хемише билерсиңиз ве чäрäниң вагт тертибини иң аматлы гөрнүшде меýиллешдирип билерсиңиз. Вагт хасапламасы секунд сайын такык болуп, сазланан гириш ве чыхышдакы сөнме вагтларыны, бош вагтларыны, темп сазламаларыны ве ш.м. гөз өңүнде тутяр.
 
-🔇 Professional DJ-lik däl  
-Bu programma birnäçe dekli, samplerli, looply, MIDI kontrolýorly, daşarky enjamly professional DJ mikslemesi, göni remiks, scratch, beatmatching, key-matching we ş.m. üçin niýetlenmändir.
+🔌 Хер бир чäре-де дурыклы
+Эсасы ве наушник чыхышларыны айратынлыкда берк энжамлара беллемек, энжамлара өз атларыңызы бермек ве энжам елетирли боланда олары автоматик йене ишҗенлешдирмек боляр. Аудио энжамы тётәнден үзүлсе, InstantDj фонда энжамы гөзлемеги довам эдйәр ве ол йене бирлешенде чалмагы довам этдирйәр — я-да сизиң сайлан бейлеки энжамыңыза гечйәр. Мундан башга-да, программа аудио энжамларыны айратын система процессери аркалы доландырып, сес чыхышының такык ве система гүйчли йүклененде-де үзүлмезден болмагыны упжүн эдйәр — иң зерур вагтда сес кесилмез ялы.
+
+⌨️ Клавиатура аркалы чалт
+Көп уланылян херекетлери эркин белленип болян клавиатура гысга ёлларына бирлешдирип боляр — наушникдәки чалманы өңүнден диңлемекден ве онуң ичинде сыкрамакдан башлап, сайлан айдымлары плейлисте гошмага ченли. Шейле-де DJ иши программалашдырылян дүйме панели билен-де акымлы гечйәр.
+
+💡 Тертипли ве деррев башламага тайяр
+Дөвребап гара интерфейс айдын дүзүлен, дүшнүкли ве акымлы ишлемек үчин ниетленен. Долы экран тәртиби хич хили үниңизи бөлмезден сазы меркезе чыхаряр.
+
+🔇 Профессионал DJлик дәл
+Бу гошунды бирнече деклер, сэмплерлер, луплар, MIDI-контроллерлер, дашкы энжамлар, җанлы ремикслешдирме, скретч, бит-мэтчинг, тон мослашдырма ве ш.м. билен профессионал DJ миксирлемеси үчин ниетленен дәл.

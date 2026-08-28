@@ -1,71 +1,72 @@
-InstantDj var þróað af áhugasömum ballroom-DJ, dansara og hugbúnaðarhönnuði með það að markmiði að skapa notendavænt DJ-forrit – án þess flækjustigs og kostnaðar sem fylgir faglegum DJ-hugbúnaði, en með mun fleiri eiginleikum en einfaldur tónlistar- eða streymisspilari.  
-Í kjarna forritsins er fagleg hljóðvinnsla með tónjafnara, hraðaaðlögun, þjöppu, takmarkara, greiningu á þögn í upphafi og lokum og fjölmörgum effekti – fyrir kraftmikinn og jafnvægisgóðan hljóm sem hljómar jafn vel lag eftir lag.  
-Stilltu næsta lag í rólegheitum í heyrnartólunum á meðan áhorfendur hlusta þegar á lagið sem er í spilun, eða láttu heilu kvöldin ganga sjálfvirkt með mjúkum en skýrt afmörkuðum yfirfærslum.
+InstantDj var þróað af áhugasömum ballroom-DJ, dansara og hugbúnaðarframleiðanda með það markmið að búa til notendavænt DJ-forrit — án flækjustigs og kostnaðar faglegra DJ-forrita, en með mun fleiri eiginleikum en einfaldur tónlistar- eða streymisafspilari.
+Innra með appinu starfar fagleg hljóðvinnsla með tónjafnara, tempóstillingu, þjöppu, takmarkara, greiningu á þögn í upphafi og lokum og fjölda hljóðbrella — fyrir kraftmikinn og jafnvægisríkan hljóm sem hljómar jafn vel frá lagi til lags.
+Stilltu næsta lag í rólegheitum í gegnum heyrnartólin á meðan áhorfendur heyra enn lagið sem er í spilun, eða láttu heilu kvöldin ganga sjálfvirkt með mjúkum en skýrt afmörkuðum yfirfærslum.
 
 Tilvalið fyrir:
-- Persónulega tónlistarupplifun heima við með framúrskarandi hljómgæðum og fjarstýringu úr snjallsíma
-- Einkasamkvæmi þar sem tónlist er spiluð með fjarstýringu svo þú þurfir ekki sjálf(ur) að sitja við tölvuna
-- Alls konar ballroom-dansviðburði með skýrt afmörkuðum lögum
-- Litlar og meðalstórar dansveislur og social dance-viðburði með dansfélagaskiptum
-- Brúðkaup, afmæli, félagsfagnaði o.s.frv.
-- Dansnámskeið, vinnustofur og æfingakvöld þar sem hægt á að vera að laga lagaval, hraða, hljóðstyrk o.s.frv. aðstæðum
-- Kennara sem vilja geta fjarstýrt ræsingu og hljóðstyrk af dansgólfinu  
-🡆 Þetta forrit er ætlað áhorfendum sem vilja dansa eða hlusta á tónlistina eins upprunalega og mögulegt er og þar sem hvert lag á að vera skýrt afmarkað. Þess vegna var vísvitandi sleppt lifandi endurblöndun með taktjasamræmingu í þessu forriti.
+- Persónulega tónlistarupplifun heima með framúrskarandi hljóðgæðum og þægilegri fjarstýringu með snjallsíma
+- Einkasamkvæmi þar sem hægt er að spila tónlist með fjarstýringu án þess að þú þurfir sjálf/ur að sitja við tölvuna
+- Alls kyns ballroom-dansviðburði með skýrt afmörkuðum lögum
+- Smærri og meðalstór danspartý og félagsdansviðburði þar sem skipt er um dansfélaga
+- Brúðkaup, afmæli, félagsveislur o.s.frv.
+- Dansnámskeið, vinnustofur og æfingakvöld þar sem hægt á að vera að aðlaga lagaval, tempo, hljóðstyrk o.s.frv. á sveigjanlegan hátt
+- Leiðbeinendur sem vilja fjarstýra upphafi og hljóðstyrk frá dansgólfinu
+🡆 Þetta app er ætlað fólki sem vill dansa við eða hlusta á tónlistina eins upprunalega og mögulegt er og láta hvert lag vera skýrt afmarkað. Þess vegna var vísvitandi sleppt lifandi endurhljóðblöndun með taktasanröðun í þessu appi.
 
 
 Yfirlit yfir helstu eiginleika
 
-🎛️ Víðtæk hljóð- og effektsvinnsla – hægt að vista sérstaklega fyrir hvert lag  
-🎧 Tvö aðskilin hljóðúttök: aðalúttakið fyrir áhorfendur og heyrnartólaúttakið til forhlustunar  
-🎚️ Sjálfvirk spilun með greiningu á þögn í upphafi og lokum og þar með nákvæmum yfirfæringum (sjálfvirk spilun)  
-🔊 Dýnamískur normalizer fyrir jafnan hljóðstyrk í gegnum allt og þjappa fyrir stýrðan hljóm  
-📈 Bylgjuforms-, litrófs- og BPM-sýning í rauntíma  
-📂 Innbyggður lagavafri með leit, röðun eftir BPM, einkunn, síðast spilað o.s.frv.  
-📱 Fjarstýring úr snjallsíma með skiptanlegum lifandi hljóðstraumi (aðalúttak eða forhlustun)  
-⭐ Einkunnir ásamt tegundum/danstegundum og flokkum til að skipuleggja tónlistarsafnið þitt  
-💾 Vistaðu, hlaðaðu inn og taktu sjálfvirkt afrit af spilunarlistum með sérstökum stillingum fyrir hvert lag  
-✨ Greindar bakgrunnsgreiningar á lengd, BPM, styrk, hljóðsveiflum, tíðnidreifingu og fleiru  
-🎵 Stuðningur við öll algeng og hágæða hljóðsnið  
-⌚ Nákvæmur fyrirframútreikningur á upphafstíma allra laga sem eru næst í röðinni
+🎛️ Umfangsmikil hljóð- og hljóðbrelluvinnsla — hægt að vista sérstaklega fyrir hvert lag
+🎧 Tveir aðskildir hljóðútgangar: aðalútgangur fyrir áhorfendur, heyrnartólsútgangur til forhlustunar
+🎚️ Sjálfvirk afspilun með greiningu á þögn í upphafi og lokum og þar með nákvæmum yfirfærslum (sjálfvirk afspilun)
+🔊 Dýnamískur hljóðstyrksjafnari fyrir stöðugan hljóðstyrk og þjappa fyrir stjórnaðan hljóm
+✀ Gervigreindardreifing hljóðrása — söngur, trommur, bassi og önnur hljóðfæri dregin fram eða þögguð á dýnamískan hátt
+📈 Rauntímaskjár fyrir bylgjuform, tíðniróf og BPM
+📂 Innbyggður lagavafri með leit, flokkun eftir BPM, einkunn, síðustu spilun o.s.frv.
+📱 Fjarstýring með snjallsíma og skiptanlegu hljóðstreymi í beinni (aðalútgangur eða forhlustun)
+⭐ Einkunnir ásamt tónlistarstefnum/dönsum og flokkum til að skipuleggja tónlistarsafnið þitt
+💾 Vistaðu, hlaðaðu og taktu sjálfvirkt afrit af lagalistum með sérstökum stillingum fyrir hvert lag
+✨ Greindarleg bakgrunnsgreining á lengd, BPM, hljóðstyrksstigi, styrkleikasviði, tíðnidreifingu og fleiru
+🎵 Stuðningur við öll algeng og hágæða hljóðsnið
+⌚ Nákvæmur forútreikningur á upphafstíma allra laga sem eru næst í röðinni
 
 
 Helstu atriði
 
-🎧 Forhlustaðu samhliða eins og alvöru DJ  
-InstantDj styður tvö algjörlega aðskilin hljóðúttök eða tæki. Í gegnum aðalúttakið hljómar tónlistin fyrir áhorfendur, en í gegnum heyrnartólaúttakið getur þú hlustað á næsta lag samtímis án þess að hinir heyri, fundið heppilegan upphafspunkt og undirbúið yfirfærsluna. Nákvæmlega þetta vinnuferli skilur einfaldan spilara frá alvöru plötusnúðastarfi.
+🎧 Forhlustun samhliða eins og alvöru DJ
+InstantDj styður tvo algjörlega aðskilda hljóðútganga eða tæki. Í gegnum aðalútganginn heyra áhorfendur tónlistina, en í gegnum heyrnartólsútganginn getur þú á sama tíma, án þess að aðrir heyri, forhlustað á næsta lag, fundið hentugan upphafspunkt og undirbúið yfirfærsluna. Nákvæmlega þetta vinnuferli greinir venjulegan afspilara frá alvöru plötusnúðastarfi.
 
-🎚️ Algjörlega sjálfvirkt eða handvirkt  
-Með sjálfvirkri spilun spilar spilunarlistinn sjálfur áfram og hvert lag dofnar mjúklega inn í það næsta – tilvalið fyrir veislur þar sem þú vilt sinna öðru. Hvenær sem þú vilt getur þú tekið aftur við stjórninni: hægt er að stilla inn- og útdeyfingartíma, skörun laga og að næsta lag byrji fyrr, allt eftir þörfum, og jafnvel vista þetta sérstaklega fyrir hvert lag.
+🎚️ Sjálfvirkt eða handvirkt
+Með sjálfvirkri afspilun spilar lagalistinn áfram af sjálfu sér og hvert lag deyfist mjúklega inn í það næsta — tilvalið fyrir veislur þar sem þú vilt sinna öðru. Hvenær sem þú vilt getur þú tekið við aftur: inn- og útdeyfingartímar, skörun laga og hversu snemma næsta lag byrjar er hægt að stilla að vild og jafnvel vista sérstaklega fyrir hvert lag.
 
-🎛️ Faglegur hljómur með dýpt  
-Bak við skýrt viðmót liggur öflug hljóðvinnsla: klassísk þriggja banda tónjafning (bassi, miðsvið, diskantur), aðskilin stjórn á hraða og tónhæð, þjappa, takmarkari/maximizer, Harmonic Exciter, steríóbreikkun, transient-mótari, bergmál með fjölmörgum forstillingum auk chorus, flanger og phaser. Dýnamíski normalizerinn jafnar sjálfkrafa mismunandi hátt stillta kafla laganna þannig að ekkert skeri sig úr eða sökkvi í hljóðmyndina. Hægt er að vista allar stillingar varanlega fyrir hvert lag.
+🎛️ Fagmannlegur hljómur með dýpt
+Á bak við skýrt viðmótið er öflug hljóðvinnsla: klassískur þriggja banda tónjafnari (bassi, miðtíðni og diskant), aðskilin stjórn á tempo og tónhæð, bergmál, rýmishljómur, þjappa, takmarkari/maximizer, Harmonic Exciter, stereóvíkkun, Transient-mótari með fjölmörgum forstillingum ásamt Chorus, Flanger og Phaser. Dýnamíski hljóðstyrksjafnarinn samræmir sjálfkrafa kafla laga sem hafa verið stilltir á mismunandi hljóðstyrk, þannig að ekkert sker sig úr eða hverfur. Hægt er að vista allar stillingar varanlega fyrir hvert lag.
 
-🥁 Hafðu BPM alltaf fyrir augunum  
-Sjálfvirk BPM-greining ákvarðar hraða laganna – kyrrstætt fyrir allt lagið og dýnamískt í rauntíma í kringum núverandi spilunarstaðsetningu. Fyrir lög með skráða tegund eða gerð eru birt lituð hraðasvæði út frá skilgreindum BPM-bilum og skiljanleg flokkun frá „mjög hægt“ til „mjög hratt“. Þannig getur þú stillt spilunarhraðann eftir viðeigandi danstegund lagsins og dansáhorfendum þínum.
+✀ Gervigreindardreifing hljóðrása fyrir allt að 6 rásir
+Eftir að viðeigandi gervigreindarlíkan hefur verið hlaðið niður er hægt að aðgreina allt að 6 hljóðrásir sjálfkrafa: söng, trommur, bassa og önnur hljóðfæri. Þannig getur þú dregið einstakar rásir fram á dýnamískan hátt eða þaggað þær. Á Windows og Linux er gervigreindardreifing hljóðrása studd með NVIDIA CUDA, sem gerir vinnsluna um tífalt hraðari en með örgjörvanum einum.
 
-📂 Tónlistin þín, fullkomlega skipulögð  
-Lagavafrinn leitar leifturhratt á drifum og í möppum – annaðhvort í Explorer-ham eða í eigin, frjálslega völdum möppum, að vild endurkvæmt og með undirmöppum. Raðaðu eftir nafni, breytingardegi, síðast spilað, BPM, lengd eða einkunn. Nýjar skrár birtast sjálfkrafa með möppuvöktun og með draga-og-sleppa getur þú dregið lög beint inn í safnið eða spilunarlistann. Með stjörnugjöf ásamt lituðum tegundum og flokkum hefur þú jafnvel stór söfn auðveldlega í hendi þér. Ítarlegir eiginleikar hljóðskráa sýna snið, bitahraða, styrk, hljóðsveiflur, tíðnisvörun og allan spilunarferilinn.
+🥁 Hafðu BPM alltaf fyrir augum
+Sjálfvirk BPM-greining ákvarðar hraða laganna þinna — bæði fastan hraða fyrir allt lagið og dýnamískan hraða í rauntíma í kringum núverandi spilunarstöðu. Fyrir lög með skráða tónlistarstefnu eða tegund eru lituð hraðasvæði fyrir skilgreind BPM-bil og skýr flokkun frá „mjög hægt“ til „mjög hratt“. Þannig getur þú stillt spilunarhraðann að dansgerð lagsins og danspublikinu þínu á sem bestan hátt.
 
-💾 Spilunarlistar sem ferðast með þér  
-Vistaðu eins marga nafngreinda spilunarlista og þú vilt og hlaðaðu þeim inn með einum smelli. Listarnir þínir eru sjálfkrafa vistaðir á sömu gagnadrifum og tónlistin kemur frá – þannig hefur þú aðgang að þeim hvar sem er með USB-lykli eða utanáliggjandi harðdiski, óháð því í hvaða tölvu listinn var búinn til. Hægt er að vista núverandi spilunarlista sjálfkrafa þegar forritinu er lokað og endurheimta hann við næstu ræsingu.
+📂 Tónlistin þín, fullkomlega skipulögð
+Lagavafrinn leitar eldfljótt í drifum og möppum — annaðhvort í Explorer-ham eða í frjálslega völdum sérmöppum, að vild einnig endurkvæmt með undirmöppum. Flokkaðu eftir heiti, breytingardagsetningu, síðustu spilun, BPM, lengd eða einkunn. Nýjar skrár birtast sjálfkrafa með möppuvöktun og með því að draga og sleppa getur þú sett lög beint í safnið þitt eða lagalistann. Með stjörnugjöfum og lituðum tónlistarstefnum og flokkum hefur þú einnig stór söfn auðveldlega undir stjórn. Ítarlegir eiginleikar hljóðskráa sýna snið, bitahraða, hljóðstyrksstig, styrkleikasvið, tíðnisvörun og allan spilunarferilinn.
 
-📱 Snjallsíminn verður að fjarstýringu og streymisúttæki  
-Virkjaðu innbyggðu fjarstýringuna (án uppsetningar á sérstöku appi) úr hvaða farsíma sem er. Skannaðu QR-kóðann og stjórnaðu InstantDj hvaðan sem er: ræstu og stöðvaðu spilun, skiptu um lög, stilltu hljóðstyrkinn, endurraðaðu spilunarlistanum og bættu nýjum lögum við í gegnum farsímavafrann. Ef þú vilt geturðu jafnvel streymt lifandi hljóðinu beint í snjallsímann ef þú þarft að yfirgefa viðburðarstaðinn en vilt halda veislunni gangandi.
+💾 Lagalistar sem ferðast með þér
+Vistaðu eins marga nafngreinda lagalista og þú vilt og hlaðaðu þeim með einum smelli. Lagalistarnir þínir eru sjálfkrafa geymdir á sömu gagnageymslum og tónlistin kemur frá — þannig hefur þú aðgang að þeim alls staðar í gegnum USB-lykilinn þinn eða ytri harða diskinn, óháð því í hvaða tölvu listinn var búinn til. Núverandi lagalisti er, ef þess er óskað, vistaður sjálfkrafa þegar forritinu er lokað og endurheimtur við næstu ræsingu.
 
-⌚ Nákvæmur fyrirframútreikningur á upphafstíma  
-Upphafstími allra laga sem enn bíða í spilunarlistanum er reiknaður sjálfkrafa og birtur. Þannig veistu á hverjum tíma hvenær lag byrjar og getur skipulagt tímasetningu viðburðarins sem best. Tímaútreikningurinn er nákvæmur upp á sekúndu og tekur mið af stilltum inn- og útdeyfingartímum, biðtímum, hraðaaðlögun o.s.frv.
+📱 Snjallsíminn þinn verður að fjarstýringu og streymisútgangi
+Virkjaðu innbyggðu fjarstýringuna (án þess að setja upp sérstakt app) úr hvaða farsíma sem er. Skannaðu QR-kóðann og stjórnaðu InstantDj hvar sem er: ræstu og stöðvaðu afspilun, skiptu um lög, stilltu hljóðstyrkinn, breyttu röð lagalistans og settu ný lög í röð í gegnum lagavafra snjallsímans. Ef þú vilt getur þú jafnvel streymt hljóðinu í beinni beint í snjallsímann þegar þú þarft að yfirgefa viðburðarstaðinn en vilt samt halda veislunni gangandi.
 
-🔌 Stöðugt í hverri spilun  
-Aðal- og heyrnartólaúttak má tengja við föst tæki sitt í hvoru lagi, gefa þeim eigin tækjanöfn og virkja þau sjálfkrafa aftur um leið og tæki er tiltækt. Ef hljóðtæki aftengist fyrir slysni heldur InstantDj áfram að leita að því í bakgrunni og heldur spilun áfram um leið og það tengist aftur – eða skiptir yfir í annað tæki að eigin vali. Auk þess stýrir forritið hljóðtækjunum í gegnum einangraða kerfisferla þannig að hljóðúttakið sé nákvæmt og án truflana, jafnvel þegar kerfið er mikið álag – svo hljóðið þagni ekki þegar mest á reynir.
+⌚ Nákvæmur forútreikningur á upphafstíma
+Upphafstími allra laga sem enn eru eftir í lagalistanum er reiknaður út og sýndur sjálfkrafa. Þannig veistu á hverjum tíma hvenær lag mun hefjast og getur skipulagt tímasetningu viðburðarins sem best. Tímaútreikningurinn er nákvæmur upp á sekúndu og tekur mið af stilltum inn- og útdeyfingartímum, þagnartímum, tempóstillingum o.s.frv.
 
-⌨️ Fljótlegt með lyklaborðinu  
-Algengar aðgerðir má tengja við frjálslega úthlutanlegar flýtilykla – allt frá forhlustun og stökkum í heyrnartólsspiluninni til þess að setja valin lög inn á spilunarlistann. Þannig verður plötusnúðastarfið lipurt, einnig með forritanlegu hnappaborði.
+🔌 Stöðugt í hverri uppákomu
+Aðalútganginn og heyrnartólsútganginn er hægt að stilla aðskilið á föst tæki, gefa þeim eigin tækjanöfn og virkja sjálfkrafa aftur um leið og tæki verður tiltækt. Ef hljóðtæki aftengist óvart leitar InstantDj áfram að tækinu í bakgrunni og heldur afspilun áfram þegar það tengist aftur — eða skiptir yfir á annað tæki að eigin vali. Forritið stýrir hljóðtækjunum einnig í gegnum einangraða kerfisferla, þannig að hljóðúttakið er nákvæmt og án truflana jafnvel þegar kerfið er undir miklu álagi — svo ekkert þagnar þegar mest á reynir.
 
-💡 Skipulagt og tilbúið strax  
-Nútímalegt, dökkt viðmót er skýrt uppbyggt, auðskilið og hannað fyrir lipra vinnu. Fullskjástilling færir tónlistina í brennidepil – án truflana.
+⌨️ Hratt með lyklaborðinu
+Algengar aðgerðir er hægt að tengja við frjálslega úthlutanlega flýtilykla — allt frá forhlustun og því að hoppa í afspilun heyrnartóla til að setja valin lög í lagalistann. Þannig gengur plötusnúðastarfið lipurt fyrir sig, jafnvel með forritanlegu takkaborði.
 
-🔒 Algjörlega staðbundið  
-InstantDj vinnur eingöngu með skrárnar þínar beint á tækinu. Engin upphleðsla, engin innskráning, engin rakning, enginn aðgangur – og engin nettenging nauðsynleg. Athugið: Fyrir farsímaaðgang þarf að sjálfsögðu staðarnet og/eða internetaðgang, eftir því hvernig farsímaaðgangurinn hefur verið stilltur.
+💡 Snyrtilegt og tilbúið strax
+Nútímalegt, dökkt viðmót er skýrt uppbyggt, auðskilið og hannað fyrir lipurt vinnuflæði. Fullskjár setur tónlistina í miðpunktinn — án truflana.
 
-🔇 Ekki fyrir faglega DJ-blöndun  
-Þetta forrit er ekki ætlað fyrir faglega DJ-blöndun með mörgum spilunarborðum, samplera, lykkjum, MIDI-stýringum, ytri tækjum, lifandi endurblöndun, scratchi, taktjasamræmingu, tóntegundarsamræmingu o.s.frv.
+🔇 Engin fagleg DJ-hljóðblöndun
+Þetta app er ekki ætlað fyrir faglega DJ-hljóðblöndun með mörgum spilurum, samplerum, lykkjum, MIDI-stýringum, ytri tækjum, lifandi endurhljóðblöndun, scratch-spilun, taktasanröðun, tóntegundasamræmingu o.s.frv.

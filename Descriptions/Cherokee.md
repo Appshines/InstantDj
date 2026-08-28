@@ -1,71 +1,70 @@
-InstantDj ᎤᏁᎫᏥ ᏗᎪᏪᎵ ᎠᎴ software ᎠᏗᏍᏙᏗ ᎠᏂᎦᏔᎾᎢ ᎠᏗᏍᏙᏗ ᎠᎴ ᎠᏂᏣᎳᎩ DJ ᎤᏁᎳᏗᏍᏗ ᎤᏁᎫᏥ ᎠᏗᏍᏙᏗ ᎤᏪᏘᏗᏍᏗ — professional DJ software ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎠᎴ ᎠᏕᎳ ᎤᏩᏒ, ᎠᎴ ᏗᎪᏪᎵ music ᎠᎴ stream player ᎬᏗ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎤᏩᏒ ᎠᏗᏍᏙᏗ ᎠᎴ ᏂᎦᏓ ᎠᏓᏅᏙᎯ ᎤᎬᏩᎵ ᎠᎴ ᎤᏁᎫᏥ ᎠᎵᏍᏙᏗ ᎤᏍᏗ ᎠᏗᏍᏙᏗ.  
-ᎠᏂᎦᏔᎾᎢ ᎯᎠ app ᎤᏩᏒ ᎠᏗᏍᏙᏗ audio processing ᎤᏁᎫᏥ ᎤᎬᏩᎵ: equalizer, tempo ᎠᏓᏅᏙᎯ, compressor, limiter, ᎠᏴᏫᏍᏗ ᎠᎴ ᎤᏁᎫᏥ effects — ᎤᏁᎫᏥ ᎠᏗᏍᏙᏗ ᎠᎴ ᎠᏓᏅᏙᎯ ᎤᏓᏅᏙᎯ ᎤᏙᎯᏳ ᏂᎦᏓ ᎤᏪᏘᏗᏍᏗ.  
-ᏂᎯ ᏂᎯᏯ ᎠᏓᏅᏙᎯ ᎢᏳᏍᏗ ᎠᎴ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ ᎤᏓᏅᏙᎯ ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ, ᎠᏂᏴᏫ ᎠᎴᏅ ᎤᎾᏓᏅᏙᎯ ᎤᏪᏘᏗᏍᏗ ᎠᏓᏅᏙᎯ ᎤᏂᏴᏫ ᎠᏗᏍᏙᏗ, ᎠᎴ ᎠᏓᏅᏙᎯ ᎤᏁᎫᏥ ᎤᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎤᏪᏘᏗᏍᏗ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᏂᎦᏓ ᎢᎦ ᎤᏩᏒ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎠᎴ ᎤᏬᏚᎯ ᎤᏪᏘᏗᏍᏗ.
+InstantDj ᎤᏓᏅᏖᏗ ᎠᏂᏴᏫ Ballroom DJ, dancer ᎠᎴ software developer ᎤᏓᏅᏖᏗ ᎯᎠ DJ app ᎾᎿ ᎤᏩᏒ ᎠᎴ ᎤᎵᏍᏙᏗ. ᎯᎠ app ᎤᏁᎳᏅᎯ ᎤᏓᏅᏖᏗ ᎤᏟ ᎤᏍᏗ ᎠᎴ ᎤᏬᏚᎯ professional DJ software ᎤᏓᏅᏖᏗ ᎤᏁᎳᏅᎯ complexity ᎠᎴ cost, ᎠᎴ ᎤᏟ features ᎥᎿᏉ simple music ᎠᎴ stream player.
+ᎤᏓᏅᏖᏗ ᎯᎠ app ᎤᏁᎳᏅᎯ professional audio processing ᎠᎴ equalizer, tempo adjustment, compressor, limiter, beginning/end silence detection ᎠᎴ ᎤᏟ effects. ᎯᎠ ᎤᏓᏅᏖᏗ ᎤᏓᏅᏖᏗ ᎤᏬᏚᎯ sound ᎾᎿ ᎾᏂᎥ song ᎤᏁᎳᏅᎯ ᎤᏓᏅᏖᏗ, ᎠᎴ ᎤᏬᏚᎯ ᎠᎴ ᎤᏁᎳᏅᎯ.
+ᎯᎠ ᎤᏬᏚᎯ ᎤᏩᏒ ᎤᏓᏅᏖᏗ next title ᎾᎿ headphones, ᎾᎿ audience ᎤᏓᏅᏖᏗ current song; ᎠᎴ ᎤᏁᎳᏅᎯ ᎤᏓᏅᏖᏗ whole evenings ᎤᏩᏒ ᎤᏓᏅᏖᏗ soft ᎠᎴ clear transitions.
 
-ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎤᎬᏩᎵ:
-- ᏂᎯ ᎠᏓᏅᏙᎯ ᎤᏩᏒ ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ ᎠᎴ ᎤᏁᎫᏥ ᎤᏬᏚᎯ audio quality ᎠᎴ smartphone ᎬᏗ ᎠᏓᏅᏙᎯ
-- ᏗᎦᏓᏂ ᎤᎾᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎠᎴ remote control ᎬᏗ, ᎤᏩᏒ ᎡᎵᏏ ᎠᏗᏍᏙᏗ ᎤᏓᏅᏙᎯ ᎤᏂᎦᏔᎾᎢ ᎤᏂᏴᏫ
-- ᏂᎦᏓ ᎠᏗᏍᏙᏗ ballroom ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎤᏓᏅᏙᎯ ᎤᏂᏣᎳᎩ ᎤᎾᏓᏅᏙᎯ
-- ᎤᏍᏗ ᎠᎴ ᎠᏰᎵ ᎠᏗᏍᏙᏗ ᎠᎴ social dance events ᎠᏂᏴᏫ ᎤᎾᏓᏡᎩ ᎤᎾᏓᏅᏙᎯ ᎤᏂᎾᏫᏍᏗ
-- ᎠᏰᎵ ᎠᏂᎦᏔᎾᎢ, ᎢᎦᏓ ᎠᎴ ᎠᏂᏓᏅᏙᎯ ᎤᎾᏓᏅᏙᎯ, ᎠᎴ ᏐᎢ
-- ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ, workshops ᎠᎴ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎠᎴ tempo, volume ᎠᎴ ᏐᎢ ᎬᏗ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ
-- ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎠᏗᏍᏙᏗ ᎠᎴ volume ᎠᎴ ᎠᏓᏅᏙᎯ ᎠᏂᎦᏔᎾᎢ  
-🡆 ᎯᎠ app ᎠᏓᏅᏙᎯ ᎤᏂᏴᏫ ᎤᎾᏓᏅᏙᎯ ᎠᎴ ᎤᏂᏴᏫ ᎤᏂᏯᏫᏍᏗ ᎠᏓᏅᏙᎯ ᎤᎾᏓᏅᏙᎯ ᎤᏁᎫᏥ ᎤᏪᏘᏗᏍᏗ ᎠᎴ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎤᎾᏓᏅᏙᎯ ᎤᏂᎦᏔᎾᎢ ᎠᎴ ᏂᎦᏓ ᎠᏗᏍᏙᏗ ᎤᏂᏴᏫ. ᎾᏍᎩ ᎾᏍᎩ ᎯᎠ app ᎤᏩᏒ ᎾᏍᎩ ᎠᏓᏅᏙᎯ live-remixing beatmatching ᎤᏁᎫᏥ ᎤᏩᏒ ᎤᏓᏅᏙᎯ.
+ᎾᎿ ᎤᏓᏅᏖᏗ:
+- ᏣᏤᎵ music ᎤᏓᏅᏖᏗ ᎤᏩᏒ ᎾᎿ home, ᎤᏟ ᎤᏬᏚᎯ sound ᎠᎴ smartphone remote control
+- ᏣᏤᎵ parties ᎾᎿ music playback ᎠᎴ remote control, ᎤᏁᎳᏅᎯ computer ᎤᏓᏅᏖᏗ ᎤᏩᏒ
+- ᎾᏂᎥ Ballroom dance events ᎾᎿ songs ᎤᏓᏅᏖᏗ ᎤᏁᎳᏅᎯ
+- ᎤᏍᏗ ᎠᎴ ᎠᏎᏉᎯ dance parties ᎠᎴ social dance events ᎾᎿ partner changes
+- weddings, birthdays, club celebrations ᎠᎴ ᎯᎠ ᎠᏂᏴᏫ
+- dance classes, workshops ᎠᎴ practice evenings ᎾᎿ song choice, tempo, volume ᎠᎴ ᎯᎠ ᎤᏓᏅᏖᏗ
+- instructors ᎾᎿ dance floor ᎤᏓᏅᏖᏗ start ᎠᎴ volume ᎤᏁᎳᏅᎯ
+🡆 ᎯᎠ app ᎤᏓᏅᏖᏗ audience ᎾᎿ music ᎤᏓᏅᏖᏗ original ᎠᎴ ᎤᏓᏅᏖᏗ ᎾᏂᎥ title ᎤᏓᏅᏖᏗ ᎠᎴ ᎤᏁᎳᏅᎯ. ᎾᎿ ᎯᎠ app live-remixing ᎠᎴ beatmatching ᎤᏓᏅᏖᏗ.
 
+ᎤᏓᏅᏖᏗ ᎤᏂᏣᏘ ᎤᏩᏒ
 
-ᎤᏁᎫᏥ ᎤᎬᏩᎵ ᎠᏓᏅᏙᎯ
+🎛️ ᎤᏟ ᎤᏓᏅᏖᏗ sound ᎠᎴ effects - ᎾᏂᎥ song ᎤᏓᏅᏖᏗ ᎤᏩᏒ
+🎧 ᏔᎵ separated audio outputs: main output ᎾᎿ audience, headphone output ᎾᎿ preview
+🎚️ ᎤᏩᏒ automatic playback ᎠᎴ beginning/end silence detection ᎠᎴ exact crossfades (Auto-play)
+🔊 dynamic normalizer ᎾᎿ ᎤᏁᎳᏅᎯ volume ᎠᎴ compressor ᎾᎿ controlled sound
+✀ AI audio stem separation - vocals, drums, bass ᎠᎴ other instruments ᎤᏓᏅᏖᏗ ᎠᎴ ᎤᏓᏅᏖᏗ
+📈 waveform, spectrum ᎠᎴ BPM display ᎾᎿ real time
+📂 integrated song browser ᎠᎴ search, sorting by BPM, rating, recently played ᎠᎴ ᎯᎠ
+📱 smartphone remote control ᎠᎴ switchable live audio stream (main output ᎠᎴ preview)
+⭐ ratings ᎠᎴ genres/dances ᎠᎴ categories ᎤᏓᏅᏖᏗ music collection
+💾 playlists ᎤᏓᏅᏖᏗ settings ᎾᎿ ᎾᏂᎥ song, load ᎠᎴ automatic backup
+✨ intelligent background analysis ᎾᎿ length, BPM, level, dynamics, frequency distribution ᎠᎴ ᎯᎠ
+🎵 support ᎾᏂᎥ common ᎠᎴ high-quality audio formats
+⌚ precise calculation ᎾᎿ start time ᎾᏂᎥ upcoming songs
 
-🎛️ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎠᎴ effects ᎠᏓᏅᏙᎯ — ᏂᎦᏓ ᎠᏗᏍᏙᏗ ᎤᏩᏒ ᎠᎴᏫᏍᏗ  
-🎧 ᏔᎵ ᎤᏓᏅᏙᎯ audio outputs: ᎠᏂᏴᏫ ᎤᎾᏓᏅᏙᎯ ᎠᎴ headphones ᎬᏗ ᎠᏓᏅᏙᎯ  
-🎚️ ᎤᏩᏒ ᎠᏗᏍᏙᏗ ᎠᎴ ᎠᏴᏫᏍᏗ ᎠᏂᎦᏔᎾᎢ ᎠᎴ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ (Auto-playback)  
-🔊 Dynamic normalizer ᎠᎴ compressor ᎤᏁᎫᏥ ᎤᏬᏚᎯ volume ᎠᎴ ᎤᏓᏅᏙᎯ ᎤᏁᎫᏥ ᎤᏁᎫᏥ  
-📈 Waveform, spectrum ᎠᎴ BPM ᎠᏓᏅᏙᎯ realtime  
-📂 Song browser ᎠᏓᏅᏙᎯ ᎠᎴ search, BPM ᎬᏗ ᎠᏓᏅᏙᎯ, rating, ᎤᏩᏒ ᎠᏗᏍᏙᏗ, ᎠᎴ ᏐᎢ  
-📱 Smartphone remote control ᎠᎴ live audio stream ᎠᏓᏅᏙᎯ (ᎠᏂᏴᏫ ᎠᏓᏅᏙᎯ ᎠᎴ headphones ᎬᏗ)  
-⭐ Ratings, genres/dances ᎠᎴ categories ᎤᏓᏅᏙᎯ ᎤᎾᏓᏅᏙᎯ  
-💾 Playlists ᎤᏁᎫᏥ ᎠᏗᏍᏙᏗ ᎤᏩᏒ ᎠᏓᏅᏙᎯ, ᎠᏓᏅᏙᎯ ᎠᎴ ᎤᏩᏒ ᎠᏓᏅᏙᎯ  
-✨ ᎤᏁᎫᏥ background analysis ᎠᏓᏅᏙᎯ, BPM, level, dynamics, frequency distribution ᎠᎴ ᏐᎢ  
-🎵 ᎤᎬᏩᎵ ᏂᎦᏓ ᎤᏂᏴᏫ ᎠᎴ ᎤᏁᎫᏥ audio formats  
-⌚ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ ᎤᎾᏓᏅᏙᎯ ᎠᎴᏫᏍᏗ ᎠᏗᏍᏙᏗ
+ᎤᏓᏅᏖᏗ ᎤᏂᏣᏘ
 
+🎧 Parallel preview ᎾᎿ DJ ᎤᏓᏅᏖᏗ
+InstantDj ᏔᎵ fully separated audio outputs ᎠᎴ devices ᎤᏓᏅᏖᏗ. Main output ᎤᏓᏅᏖᏗ music ᎾᎿ audience; headphone output ᎤᏓᏅᏖᏗ next song ᎾᎿ ᎤᏩᏒ, ᎤᏓᏅᏖᏗ entry ᎠᎴ transition. ᎯᎠ workflow ᎤᏓᏅᏖᏗ difference simple player ᎠᎴ real DJ.
 
-ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ
+🎚️ Automatic ᎠᎴ manual
+Auto-play ᎤᏓᏅᏖᏗ playlist ᎤᏩᏒ ᎠᎴ ᎤᏓᏅᏖᏗ ᎾᏂᎥ song ᎤᏟ ᎠᏓᏅᏖᏗ ᎾᎿ next. ᎾᎿ ᎤᏁᎳᏅᎯ, fade-in ᎠᎴ fade-out times, overlap ᎠᎴ early start ᎤᏓᏅᏖᏗ ᎤᏓᏅᏖᏗ ᎠᎴ ᎾᏂᎥ song ᎤᏩᏒ.
 
-🎧 ᎠᏓᏅᏙᎯ ᎤᏩᏒ ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ DJ ᎠᏗᏍᏙᏗ  
-InstantDj ᏔᎵ ᎤᏓᏅᏙᎯ audio outputs ᎠᎴ devices ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ. ᎠᏂᏴᏫ ᎤᎾᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎬᏗ ᎤᏂᏴᏫ ᎤᎾᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ, headphones ᎬᏗ ᎠᎴ ᎠᏂᏴᏫ ᎠᎴᏅ ᎤᎾᏓᏅᏙᎯ ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎤᏓᏅᏙᎯ ᎠᎴ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ. ᎯᎠ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎤᏙᎯᏳ ᎠᏓᏅᏙᎯ ᎠᎴ ᎤᏍᏗ player ᎠᏗᏍᏙᏗ ᎠᎴ ᎤᏙᎯᏳ DJ ᎠᏗᏍᏙᏗ.
+🎛️ Professional sound ᎤᏟ ᎤᏓᏅᏖᏗ
+ᎯᎠ clear interface ᎤᏓᏅᏖᏗ ᎤᏁᎳᏅᎯ audio processing: three-band equalizer (bass, mids, treble), separate tempo ᎠᎴ pitch control, echo, ambience, compressor, limiter/maximizer, harmonic exciter, stereo widening, transient shaper ᎤᏟ presets, ᎠᎴ chorus, flanger ᎠᎴ phaser. Dynamic normalizer ᎤᏓᏅᏖᏗ loud ᎠᎴ quiet passages ᎾᏂᎥ song, ᎾᎿ ᎥᎿᏉ ᎤᏓᏅᏖᏗ ᎠᎴ ᎤᏁᎳᏅᎯ. ᎾᏂᎥ settings ᎤᏓᏅᏖᏗ ᎾᏂᎥ song.
 
-🎚️ ᎤᏩᏒ ᎠᎴ ᎬᏗ ᎠᏗᏍᏙᏗ  
-Auto-playback ᎬᏗ playlist ᎤᏩᏒ ᎠᏗᏍᏙᏗ ᎠᎴ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ — ᎤᏁᎫᏥ ᎤᎾᏓᏅᏙᎯ ᎾᏍᎩ ᎯᎠ ᎢᏳᏍᏗ ᏂᎯ ᏐᎢ ᎠᏓᏅᏙᎯ. ᎩᎳ ᏂᎯ ᏂᎯᏯ ᎠᏓᏅᏙᎯ: ᎠᎴᏫᏍᏗ ᎠᎴ ᎠᏴᏫᏍᏗ ᎢᏳᏍᏗ, ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ ᎠᎴ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎤᏩᏒ ᎬᏗ ᎠᏓᏅᏙᎯ ᎠᎴ ᏂᎦᏓ ᎠᏗᏍᏙᏗ ᎤᏩᏒ ᎠᎴᏫᏍᏗ.
+✀ AI audio stem separation ᎾᎿ 6 stems
+ᎩᎳᏫᏍᏗ AI model ᎤᏓᏅᏖᏗ, ᎤᏁᎳᏅᎯ 6 audio stems ᎤᏓᏅᏖᏗ ᎤᏩᏒ: vocals, drums, bass ᎠᎴ other instruments. ᎯᎠ ᎤᏓᏅᏖᏗ ᎤᏓᏅᏖᏗ ᎠᏓᏅᏖᏗ ᎠᎴ ᎤᏓᏅᏖᏗ. Windows ᎠᎴ Linux ᎤᏓᏅᏖᏗ NVIDIA CUDA, ᎾᎿ processing ᎤᏟ 10 ᎢᏳᏓᏂᏗ ᎤᏟ CPU.
 
-🎛️ Profi-sound ᎤᏁᎫᏥ ᎤᏓᏅᏙᎯ  
-ᎠᏓᏅᏙᎯ ᎤᏁᎫᏥ ᎠᏗᏍᏙᏗ audio processing ᎤᏁᎫᏥ: ᏦᎢ-band equalizer (bass, mids, treble), tempo ᎠᎴ pitch ᎠᏓᏅᏙᎯ ᎤᏩᏒ, compressor, limiter/maximizer, harmonic exciter, stereo widening, transient shaper, echo ᎤᏁᎫᏥ presets, chorus, flanger ᎠᎴ phaser. Dynamic normalizer ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎤᏬᏚᎯ ᎠᎴ ᎤᏍᏗ ᎤᏓᏅᏙᎯ, ᎾᏍᎩ Ꮭ ᎩᎳ ᎤᏁᎫᏥ ᎠᎴ ᎤᏩᏒ ᎤᏓᏅᏙᎯ. ᏂᎦᏓ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᏂᎦᏓ ᎠᏗᏍᏙᏗ ᎤᏩᏒ ᎠᎴᏫᏍᏗ.
+🥁 BPM ᎾᎿ ᎠᏎᏉᎯ
+Automatic BPM detection ᎤᏓᏅᏖᏗ tempo ᎾᏂᎥ song - static ᎾᎿ whole song ᎠᎴ dynamic ᎾᎿ current playback position. ᎾᏂᎥ song ᎤᏓᏅᏖᏗ genre/type ᎠᎴ BPM range ᎤᏓᏅᏖᏗ colored speed zones ᎠᎴ rating ᎥᎿᏉ “very slow” ᎠᎴ “very fast.” ᎯᎠ playback speed ᎤᏓᏅᏖᏗ dance type ᎠᎴ audience.
 
-🥁 BPM ᎩᎳ ᎠᎾᏓᏅᏙᎯ  
-ᎤᏩᏒ BPM ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎤᏪᏘᏗᏍᏗ — ᎤᏙᎯᏳ ᏂᎦᏓ ᎠᏗᏍᏙᏗ ᎠᎴ dynamic realtime ᎠᏓᏅᏙᎯ ᎠᏂᎦᏔᎾᎢ. ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ genre ᎠᎴ type ᎤᎾᏓᏙᏗ BPM ᎤᏓᏅᏙᎯ ᎤᏁᎫᏥ ᎤᏓᏅᏙᎯ ᎠᎴ ᎤᏂᏴᏫ ᎠᏓᏅᏙᎯ ᎬᏗ “ᎤᏍᏗ ᎠᏗᏍᏙᏗ” ᎬᏂ “ᎤᏁᎫᏥ ᎠᏗᏍᏙᏗ”. ᎾᏍᎩ ᎬᏗ ᏂᎯ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎤᏬᏚᎯ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎠᎴ ᎠᏗᏍᏙᏗ ᎤᏂᏴᏫ.
+📂 ᏣᏤᎵ music ᎤᏓᏅᏖᏗ
+Song browser ᎤᏓᏅᏖᏗ drives ᎠᎴ folders ᎤᏩᏒ - Explorer mode ᎠᎴ custom folders, ᎠᎴ recursive subfolders. Sort ᎾᎿ name, modified date, recently played, BPM, length ᎠᎴ rating. New files ᎤᏓᏅᏖᏗ folder monitoring, ᎠᎴ drag & drop songs ᎾᎿ collection ᎠᎴ playlist. Star ratings ᎠᎴ colored genres ᎠᎴ categories ᎤᏓᏅᏖᏗ large libraries. Detailed audio properties ᎤᏓᏅᏖᏗ format, bitrate, level, dynamics, frequency response ᎠᎴ playback history.
 
-📂 ᏂᎯ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎤᏓᏅᏙᎯ  
-Song browser ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎠᎴ folders ᎤᏁᎫᏥ ᎦᏟᏏᏍᏗ — Explorer mode ᎠᎴ ᏂᎯ ᎤᏩᏒ ᎠᏓᏅᏙᎯ folders, ᎾᏍᎩ ᏂᎯ ᎬᏗ recursive ᎠᎴ subfolders. ᎠᏓᏅᏙᎯ name, ᎠᏓᏅᏙᎯ ᎢᎦ, ᎤᏩᏒ ᎠᏗᏍᏙᏗ, BPM, length ᎠᎴ rating ᎬᏗ. ᎢᏤ files ᎤᏩᏒ ᎠᎴ folder monitoring ᎬᏗ, ᎠᎴ drag & drop ᎬᏗ ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ ᎠᎴ playlist ᎨᏒ. ᏦᏗ ratings ᎠᎴ ᎤᏓᏅᏙᎯ genres ᎠᎴ categories ᎬᏗ ᎠᏓᏅᏙᎯ ᎤᏁᎫᏥ ᎠᏗᏍᏙᏗ ᎤᏓᏅᏙᎯ. ᎤᏁᎫᏥ audio file properties ᎠᏓᏅᏙᎯ format, bitrate, level, dynamics, frequency response ᎠᎴ ᏂᎦᏓ ᎠᏗᏍᏙᏗ ᎤᏪᏘᏗᏍᏗ.
+💾 Playlists ᎾᎿ ᎤᏓᏅᏖᏗ
+Save ᎤᏁᎳᏅᎯ named playlists ᎠᎴ load ᎾᎿ one click. Lists ᎤᏓᏅᏖᏗ same drives ᎾᎿ music ᎤᏁᎳᏅᎯ, ᎾᎿ USB stick ᎠᎴ external hard drive ᎤᏓᏅᏖᏗ access ᎾᏂᎥ computer. Current playlist ᎤᏓᏅᏖᏗ automatic backup ᎾᎿ exit ᎠᎴ restore ᎾᎿ next start.
 
-💾 Playlists ᎠᏓᏅᏙᎯ ᎤᎾᏓᏅᏙᎯ  
-ᎤᏁᎫᏥ ᎤᏂᏴᏫ ᏂᎦᏓ ᎡᎵᏏ ᎤᏁᎫᏥ ᎠᏗᏍᏙᏗ ᎠᎴ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ. ᏂᎯ ᎠᏓᏅᏙᎯ ᎤᏩᏒ ᎠᏂᎦᏔᎾᎢ ᎤᎾᏓᏅᏙᎯ ᎦᏁᎳ ᎠᏓᏅᏙᎯ ᎾᎿ ᎠᏗᏍᏙᏗ ᎤᎾᏓᏅᏙᎯ — ᎾᏍᎩ USB stick ᎠᎴ external hard drive ᎬᏗ ᏂᎦᏓ ᎡᎵᏏ ᎤᎬᏩᎵ, ᎥᎥ ᎦᏙ ᎠᏂᏴᏫ ᎠᏓᏅᏙᎯ ᎤᏁᎫᏥ. ᎯᎠ playlist ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎤᏩᏒ ᎤᏪᏘᏗᏍᏗ ᎠᎴ ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ ᎠᎴ ᎢᎬᏱ ᎢᎦ ᎤᏩᏒ ᎠᏓᏅᏙᎯ.
+📱 Smartphone ᎤᏓᏅᏖᏗ remote control ᎠᎴ streaming output
+Activate integrated remote control ᎾᎿ any mobile device, ᎤᏁᎳᏅᎯ extra app installation. Scan QR code ᎠᎴ control InstantDj ᎾᎿ ᎾᏂᎥ: start ᎠᎴ stop playback, change songs, adjust volume, reorder playlist ᎠᎴ add new songs ᎾᎿ mobile song explorer. ᎤᏁᎳᏅᎯ live sound ᎤᏓᏅᏖᏗ ᎾᎿ smartphone ᎾᎿ venue ᎤᏓᏅᏖᏗ ᎠᎴ party ᎤᏓᏅᏖᏗ.
 
-📱 ᏂᎯ smartphone ᎤᎬᏩᎵ remote control ᎠᎴ streaming output  
-ᎠᏓᏅᏙᎯ integrated remote control (Ꮭ extra app ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ) ᏂᎦᏓ ᎠᏓᏅᏙᎯ mobile device ᎬᏗ. QR code ᎠᏓᏅᏙᎯ ᎠᎴ InstantDj ᎠᏗᏍᏙᏗ ᎠᏂᎦᏔᎾᎢ: ᎠᏗᏍᏙᏗ ᎠᎴ ᎠᏴᏫᏍᏗ, ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ, volume ᎠᏓᏅᏙᎯ, playlist ᎠᏓᏅᏙᎯ ᎠᎴ mobile song explorer ᎬᏗ ᎢᏤ ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ. ᎾᏍᎩ ᎤᏁᎫᏥ, live audio ᎤᏩᏒ ᎬᏗ smartphone ᎨᏒ ᎾᎿ ᎠᎴᏫᏍᏗ ᎠᎴ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎤᏩᏒ ᎠᎴᏅ ᎠᏓᏅᏙᎯ.
+⌚ Precise start-time calculation
+Start time ᎾᏂᎥ upcoming songs ᎾᎿ playlist ᎤᏓᏅᏖᏗ ᎠᎴ display. ᎯᎠ ᎤᏁᎳᏅᎯ ᎤᏓᏅᏖᏗ ᎾᎿ song ᎤᏁᎳᏅᎯ ᎠᎴ event schedule. Calculation ᎤᏓᏅᏖᏗ exact to the second ᎠᎴ ᎤᏓᏅᏖᏗ fade times, idle times, tempo adjustments ᎠᎴ ᎯᎠ.
 
-⌚ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎠᎴᏫᏍᏗ  
-ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ ᎤᎾᏓᏅᏙᎯ ᎤᏩᏒ ᎠᎴ ᎠᏓᏅᏙᎯ. ᎾᏍᎩ ᎬᏗ ᏂᎯ ᎢᏳᏍᏗ ᎦᏙ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎠᎴ ᎠᏓᏅᏙᎯ ᎤᎾᏓᏅᏙᎯ. ᎢᎦᏘ ᎤᏁᎫᏥ ᎠᏓᏅᏙᎯ ᎠᎴ ᎠᏴᏫᏍᏗ, ᎤᏩᏒ ᎢᏳᏍᏗ, tempo ᎠᏓᏅᏙᎯ ᎠᎴ ᏐᎢ ᎬᏗ.
+🔌 Stable ᎾᎿ ᎾᏂᎥ performance
+Main ᎠᎴ headphone outputs ᎤᏓᏅᏖᏗ fixed devices, custom device names ᎠᎴ automatic reactivation ᎾᎿ device ᎤᏓᏅᏖᏗ. ᎾᎿ audio device ᎤᏓᏅᏖᏗ, InstantDj ᎤᏓᏅᏖᏗ search ᎠᎴ resume playback ᎾᎿ device ᎤᏓᏅᏖᏗ, ᎠᎴ switch ᎾᎿ other device. Program ᎤᏓᏅᏖᏗ audio devices ᎾᎿ isolated system processes, ᎾᎿ audio output ᎤᏁᎳᏅᎯ ᎤᏓᏅᏖᏗ ᎠᎴ uninterrupted ᎾᎿ heavy system load.
 
-🔌 ᎤᏙᎯᏳ ᏂᎦᏓ ᎠᏓᏅᏙᎯ  
-ᎠᏂᏴᏫ ᎠᎴ headphones ᎠᏓᏅᏙᎯ Ꮭ ᏌᏊ ᎤᏓᏅᏙᎯ ᏂᎦᏓ ᏗᎪᏪᎵ ᎬᏗ ᎠᎴ ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ, ᎠᎴ ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎢᎬᏱ ᎨᏒ ᎤᏓᏅᏙᎯ. ᎾᏍᎩ ᎠᏓᏅᏙᎯ ᎤᏩᏒ ᎤᏓᏅᏙᎯ, InstantDj ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎠᎴ ᎤᏩᏒ ᎢᏤ ᎤᏓᏅᏙᎯ ᎬᏗ ᎠᏗᏍᏙᏗ ᎠᏴᏫᏍᏗ. ᎾᏍᎩ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ ᎤᏓᏅᏙᎯ ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎤᏙᎯᏳ ᎠᎴ ᎠᎴᏫᏍᏗ Ꮭ ᎤᏩᏒ ᎠᏓᏅᏙᎯ — ᎾᏍᎩ ᎤᏩᏒ ᎢᏳᏍᏗ ᎤᏓᏅᏙᎯ.
+⌨️ Fast keyboard control
+Frequent actions ᎤᏓᏅᏖᏗ assignable keyboard shortcuts - preview ᎠᎴ seek headphone playback, ᎠᎴ add selected songs ᎾᎿ playlist. ᎯᎠ ᎤᏓᏅᏖᏗ DJ work ᎤᏩᏒ, ᎠᎴ programmable keypad.
 
-⌨️ ᎩᎳ ᎠᏓᏅᏙᎯ keyboard  
-ᎤᏁᎫᏥ ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ ᎤᏩᏒ ᎠᏓᏅᏙᎯ shortcuts ᎬᏗ — headphones ᎠᏓᏅᏙᎯ ᎠᎴ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ ᎬᏗ ᎠᏓᏅᏙᎯ ᎠᎴ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎠᏓᏅᏙᎯ ᎠᏓᏅᏙᎯ. ᎾᏍᎩ ᎬᏗ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ ᎠᎴ ᎤᏩᏒ programmable keypad ᎬᏗ.
+💡 Clean ᎠᎴ ready immediately
+Modern dark interface ᎤᏓᏅᏖᏗ clear ᎠᎴ easy to understand, ᎾᎿ smooth work. Fullscreen mode ᎤᏓᏅᏖᏗ music ᎤᏓᏅᏖᏗ - ᎤᏁᎳᏅᎯ distraction.
 
-💡 ᎤᏓᏅᏙᎯ ᎠᎴ ᎩᎳ ᎠᏗᏍᏙᏗ  
-ᎢᏤ, ᎤᏓᏅᏙᎯ ᎤᏕᎵᏍᏗ ᎤᏓᏅᏙᎯ ᎤᏁᎫᏥ ᎠᎴ ᎤᏩᏒ ᎠᏗᏍᏙᏗ. Fullscreen mode ᎤᏩᏒ ᎠᏓᏅᏙᎯ ᎠᏗᏍᏙᏗ ᎤᏁᎫᏥ — Ꮭ ᎤᏩᏒ ᎠᏓᏅᏙᎯ.
-
-🔒 ᏂᎦᏓ ᎯᎠ ᎡᎵᏏ  
-InstantDj ᎤᏩᏒ ᏂᎯ ᏗᎪᏪᎵ ᎠᏓᏅᏙᎯ ᎯᎠ device ᎠᏂᏴᏫ. Ꮭ uploads, Ꮭ sign-in, Ꮭ tracking, Ꮭ account — ᎠᎴ Ꮭ internet connection ᎤᎬᏩᎵ. ᎠᏓᏅᏙᎯ: mobile access ᎤᎬᏩᎵ ᏂᎯ local network ᎠᎴ/ᎠᎴ internet access ᎤᎬᏩᎵ, ᎾᏍᎩ ᏂᎯ mobile access ᎤᏁᎫᏥ ᎬᏗ.
-
-🔇 Ꮭ professional DJing  
-ᎯᎠ app Ꮭ ᎤᏓᏅᏙᎯ professional DJ mixing ᎤᏂᏴᏫ decks, samplers, loops, MIDI controllers, external devices, live-remixing, scratching, beatmatching, key-matching, ᎠᎴ ᏐᎢ.
+🔇 ᎤᏁᎳᏅᎯ professional DJing
+ᎯᎠ app ᎤᏁᎳᏅᎯ professional DJ mixing ᎤᏓᏅᏖᏗ multiple decks, samplers, loops, MIDI controllers, external devices, live remixing, scratching, beatmatching, key matching ᎠᎴ ᎯᎠ.

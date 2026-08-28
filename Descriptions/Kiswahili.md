@@ -1,71 +1,72 @@
-InstantDj iliundwa na DJ wa densi za Ballroom, mchezaji na msanidi wa programu mwenye kujitolea, kwa lengo la kuunda programu ya DJ iliyo rahisi kutumia - bila ugumu na gharama za programu za kitaalamu za DJ, lakini ikiwa na vipengele vingi zaidi kuliko kicheza muziki au stream rahisi.  
-Ndani ya programu kuna uchakataji wa kitaalamu wa sauti wenye kusawazisha sauti, urekebishaji wa tempo, kompresor, limiter, utambuzi wa ukimya mwanzoni/mwishoni na aina mbalimbali za athari - kwa sauti yenye nguvu na iliyosawazika, inayosikika vizuri kwa kiwango kilekile kutoka wimbo mmoja hadi mwingine.  
-Rekebisha kwa utulivu wimbo unaofuata kupitia vichwa vya sauti huku hadhira ikisikiliza wimbo unaochezwa tayari, au acha jioni nzima iendelee kiotomatiki kwa mabadiliko laini lakini yaliyo wazi kati ya nyimbo.
+InstantDj iliundwa na DJ wa dansi za Ballroom, mcheza-dansi na mtengenezaji wa programu mwenye kujituma, kwa lengo la kuunda programu ya DJ iliyo rahisi kutumia - bila ugumu na gharama za programu za kitaalamu za DJ, lakini ikiwa na vipengele vingi zaidi kuliko kicheza muziki au kicheza mtiririko rahisi.
+Ndani ya programu kuna uchakataji wa sauti wa kitaalamu wenye udhibiti wa toni, urekebishaji wa kasi, compressor, limiter, utambuzi wa ukimya wa mwanzo/mwisho na athari mbalimbali - kwa sauti yenye nguvu na iliyosawazishwa, inayosikika kwa ubora uleule kutoka wimbo mmoja hadi mwingine.
+Jirekebishie mwenyewe wimbo unaofuata kwa utulivu kupitia vichwa vya sauti, huku hadhira ikiwa tayari inasikiliza wimbo unaochezwa, au acha jioni nzima iendelee kiotomatiki kwa mivukano laini lakini iliyo wazi kati ya nyimbo.
 
 Inafaa kwa:
-- Kusikiliza muziki binafsi nyumbani kwa ubora bora wa sauti na udhibiti wa simu mahiri
-- Sherehe za kibinafsi za kucheza muziki kwa kutumia rimoti, bila wewe kukaa mwenyewe kwenye kompyuta
-- Aina zote za matukio ya dansi ya Ballroom yenye nyimbo zilizotenganishwa wazi
-- Sherehe ndogo na za ukubwa wa kati za dansi pamoja na matukio ya Social Dance yenye kubadilishana wapenzi wa dansi
+- Kufurahia muziki binafsi nyumbani kwa ubora bora wa sauti na udhibiti wa mbali kupitia simu mahiri
+- Sherehe za kibinafsi za kucheza muziki kwa kutumia rimoti, bila wewe kulazimika kukaa mwenyewe kwenye kompyuta
+- Aina zote za matukio ya dansi za Ballroom yenye nyimbo zilizotenganishwa wazi
+- Sherehe ndogo na za ukubwa wa kati za dansi na matukio ya Social Dance yenye kubadilishana wenza
 - Harusi, siku za kuzaliwa, sherehe za vyama, n.k.
-- Madarasa ya dansi, warsha na jioni za mazoezi ambapo uteuzi wa nyimbo, tempo, sauti n.k. unapaswa kurekebishwa kwa urahisi
-- Wakufunzi wanaotaka kuanzisha uchezaji na kudhibiti sauti kwa rimoti wakiwa kwenye sakafu ya dansi  
-🡆 Programu hii imeundwa kwa hadhira inayotaka kucheza au kusikiliza muziki ulio karibu iwezekanavyo na toleo lake asili, huku kila wimbo ukibaki umetenganishwa wazi. Kwa sababu hiyo, programu hii imeacha kwa makusudi remixing ya moja kwa moja yenye beatmatching.
+- Masomo ya dansi, warsha na jioni za mazoezi ambapo uteuzi wa nyimbo, kasi, sauti n.k. unapaswa kubadilishwa kwa urahisi
+- Waelekezaji wa kozi wanaotaka kudhibiti kwa mbali uanzishaji na sauti wakiwa kwenye sakafu ya dansi
+🡆 Programu hii imeundwa kwa hadhira inayotaka kucheza au kusikiliza muziki karibu kabisa kama ulivyorekodiwa, huku kila wimbo ukibaki umetenganishwa wazi. Kwa sababu hiyo, programu hii imeacha kwa makusudi kuchanganya nyimbo moja kwa moja kwa beatmatching.
 
 
 Muhtasari wa vipengele muhimu
 
-🎛️ Uchakataji mpana wa sauti na athari - unaweza kuhifadhiwa kwa kila wimbo binafsi  
-🎧 Matokeo mawili tofauti ya sauti: pato kuu kwa hadhira, pato la vichwa vya sauti kwa kusikiliza wimbo kabla ya kuucheza  
-🎚️ Uchezaji wa kiotomatiki kabisa wenye utambuzi wa ukimya mwanzoni/mwishoni na hivyo kuleta crossfade sahihi (Uchezaji wa Kiotomatiki)  
-🔊 Normalizer inayobadilika kwa sauti yenye ujazo unaofanana kila wakati, pamoja na kompresor kwa sauti inayodhibitiwa  
-📈 Onyesho la waveform, spektrum na BPM kwa wakati halisi  
-📂 Kivinjari jumuishi cha nyimbo chenye utafutaji, upangaji kwa BPM, ukadiriaji, iliyochezwa hivi karibuni, n.k.  
-📱 Udhibiti wa rimoti kupitia simu mahiri wenye stream ya moja kwa moja ya sauti inayoweza kubadilishwa (pato kuu au kusikiliza kabla ya kuucheza)  
-⭐ Ukadiriaji pamoja na aina za muziki/dansi na kategoria za kupanga mkusanyiko wako wa muziki  
-💾 Hifadhi, pakia na uhifadhi kiotomatiki orodha za nyimbo zenye mipangilio maalum kwa kila wimbo  
-✨ Uchambuzi mahiri wa chinichini wa urefu, BPM, kiwango cha sauti, dinamiki, mgawanyo wa masafa na zaidi  
-🎵 Usaidizi wa miundo yote ya kawaida na yenye ubora wa juu ya sauti  
-⌚ Ukokotoaji sahihi wa mapema wa muda wa kuanza kucheza kwa nyimbo zote zinazosubiri
+🎛️ Uhariri mpana wa sauti na athari - unaweza kuhifadhiwa kibinafsi kwa kila wimbo
+🎧 Matokeo mawili yaliyotenganishwa ya sauti: njia kuu kwa ajili ya hadhira, na njia ya vichwa vya sauti kwa ajili ya kusikiliza awali
+🎚️ Uchezaji wa kiotomatiki kabisa wenye utambuzi wa ukimya wa mwanzo/mwisho na hivyo mivukano sahihi (Uchezaji wa kiotomatiki)
+🔊 Normalizer inayobadilika kwa ajili ya sauti yenye ulinganifu kila wakati na compressor kwa sauti inayodhibitiwa
+✀ Utenganishaji wa nyimbo za sauti kwa AI - sisitiza au nyamazisha kwa mabadiliko ya wakati halisi sauti, ngoma, besi na vyombo vingine
+📈 Onyesho la waveform, spectrum na BPM katika wakati halisi
+📂 Kivinjari cha nyimbo kilichojengewa ndani pamoja na utafutaji, upangaji kwa BPM, ukadiriaji, zilizochezwa hivi karibuni, n.k.
+📱 Udhibiti wa mbali kupitia simu mahiri wenye mitiririko ya sauti ya moja kwa moja inayoweza kubadilishwa (njia kuu au kusikiliza awali)
+⭐ Ukadiriaji pamoja na aina za muziki/dansi na kategoria za kupanga mkusanyiko wako wa muziki
+💾 Hifadhi, pakia na uhifadhi kiotomatiki orodha za kucheza zenye mipangilio maalum kwa kila wimbo
+✨ Uchambuzi mahiri wa chinichini wa urefu, BPM, kiwango, dinamiki, mgawanyo wa masafa na mengineyo
+🎵 Usaidizi kwa miundo yote ya kawaida na ya ubora wa juu ya sauti
+⌚ Ukokotoaji wa mapema na sahihi wa wakati wa kuanza kucheza kwa nyimbo zote zinazofuata
 
 
 Mambo muhimu
 
-🎧 Sikiliza wimbo unaofuata sambamba kama DJ halisi  
-InstantDj inasaidia matokeo mawili ya sauti au vifaa viwili vilivyotenganishwa kabisa. Muziki wa hadhira hupita kwenye pato kuu, huku kupitia pato la vichwa vya sauti ukisikiliza kwa wakati mmoja, bila wengine kusikia, wimbo unaofuata, ukitafuta mwanzo unaofaa na kuandaa mpito. Utaratibu huu wa kazi ndio unaotofautisha kicheza muziki rahisi na u-DJ halisi.
+🎧 Kusikiliza awali kwa sambamba kama DJ halisi
+InstantDj inasaidia matokeo au vifaa viwili vya sauti vilivyotenganishwa kikamilifu. Kupitia njia kuu muziki wa hadhira huchezwa, huku kupitia njia ya vichwa vya sauti ukisikiliza kwa sambamba bila wengine kusikia wimbo unaofuata, ukitafuta sehemu inayofaa kuanzia na kuandaa mabadiliko. Huo ndio mtiririko wa kazi unaotofautisha kicheza muziki rahisi na u-DJ halisi.
 
-🎚️ Kiotomatiki kabisa au kwa mkono  
-Kwa Uchezaji wa Kiotomatiki, orodha yako ya nyimbo hujiendesha yenyewe na kuingiza kila wimbo kwa upole ndani ya unaofuata - bora kwa sherehe ambazo ungependa kushughulikia mambo mengine. Wakati wowote unapotaka, unaweza kuchukua tena udhibiti mwenyewe: muda wa kuingiza na kutoa sauti, mwingiliano wa nyimbo na kuanza mapema kwa wimbo unaofuata vinaweza kuwekwa kwa uhuru, na hata kuhifadhiwa kando kwa kila wimbo.
+🎚️ Kiotomatiki kabisa au kwa mkono
+Kwa Uchezaji wa kiotomatiki, orodha yako ya kucheza hujiendesha yenyewe na kila wimbo huvukwa kwa upole kwenda kwenye unaofuata - bora kwa sherehe ambako ungependa kushughulikia mambo mengine. Wakati wowote unapotaka, unaweza kuchukua udhibiti tena mwenyewe: nyakati za kufifisha kuingia na kutoka, mwingiliano wa nyimbo na kuanza mapema kwa wimbo unaofuata vinaweza kuwekwa kwa uhuru na hata kuhifadhiwa kivyake kwa kila wimbo.
 
-🎛️ Sauti ya kitaalamu yenye kina  
-Nyuma ya mwonekano ulio wazi kuna uchakataji wenye nguvu wa sauti: kusawazisha sauti kwa bendi tatu za kawaida (besi, sauti za kati, treble), udhibiti tofauti wa tempo na pitch, kompresor, limiter/maximizer, Harmonic Exciter, kupanua stereo, Transient Shaper, echo yenye preset nyingi pamoja na chorus, flanger na phaser. Normalizer inayobadilika husawazisha kiotomatiki sehemu za nyimbo zenye viwango tofauti vya sauti, ili hakuna sehemu inayojitokeza kupita kiasi au kupotea. Mipangilio yote inaweza kuhifadhiwa kabisa kwa kila wimbo.
+🎛️ Sauti ya kitaalamu yenye kina
+Nyuma ya mwonekano ulio wazi kuna uchakataji wenye nguvu wa sauti: udhibiti wa sauti wa bendi tatu wa kawaida (besi, masafa ya kati, treble), udhibiti tofauti wa tempo na toni, echo, sauti ya mazingira, compressor, limiter/maximizer, Harmonic Exciter, upanuzi wa stereo, Transient Shaper wenye mipangilio mingi ya awali, pamoja na Chorus, Flanger na Phaser. Normalizer inayobadilika huoanisha kiotomatiki vipande vya nyimbo vilivyorekodiwa kwa viwango tofauti vya sauti, ili hakuna kinachojitokeza kupita kiasi au kuzama. Mipangilio yote inaweza kuhifadhiwa kabisa kwa kila wimbo.
 
-🥁 BPM daima iko mbele ya macho  
-Utambuzi wa kiotomatiki wa BPM huamua tempo ya nyimbo zako - kwa kiwango kisichobadilika kwa wimbo mzima na kwa namna inayobadilika kwa wakati halisi karibu na sehemu inayochezwa sasa. Kwa nyimbo zenye aina ya muziki au aina ya dansi, maeneo ya kasi yenye rangi huonyeshwa kwa masafa ya BPM yaliyowekwa, pamoja na uainishaji unaoeleweka kutoka "polepole sana" hadi "haraka sana". Hivyo unaweza kurekebisha kasi ya uchezaji kulingana na aina ya dansi ya wimbo na kwa njia inayofaa zaidi hadhira yako ya dansi.
+✀ Utenganishaji wa nyimbo za sauti kwa AI hadi nyimbo 6
+Baada ya kupakua modeli inayofaa ya AI, hadi nyimbo 6 za sauti zinaweza kutenganishwa kiotomatiki: sauti, ngoma, besi na vyombo vingine. Kwa njia hii unaweza kusisitiza au kunyamazisha nyimbo binafsi kwa mabadiliko ya wakati halisi. Kwenye Windows na Linux, utenganishaji wa nyimbo za sauti kwa AI unaauniwa na NVIDIA CUDA, jambo linalofanya uchakataji kuwa wa haraka takribani mara kumi kuliko kwenye CPU.
 
-📂 Muziki wako, umepangwa kikamilifu  
-Kivinjari cha nyimbo hutafuta viendeshi na folda zako kwa kasi sana - kwa hiari katika hali ya Explorer au kupitia folda zako maalum unazoweza kuchagua kwa uhuru, na kwa hiari kikitafuta pia ndani ya folda ndogo. Panga kwa jina, tarehe ya mabadiliko, iliyochezwa hivi karibuni, BPM, urefu au ukadiriaji. Faili mpya huonekana kiotomatiki kutokana na ufuatiliaji wa folda, na kwa Drag & Drop unaweza kuvuta nyimbo moja kwa moja kwenye mkusanyiko au orodha yako ya nyimbo. Kwa ukadiriaji wa nyota pamoja na aina za muziki na kategoria zenye rangi, hata maktaba kubwa inabaki rahisi kudhibiti. Sifa za kina za faili za sauti huonyesha muundo, bitrate, kiwango cha sauti, dinamiki, mwitikio wa masafa na historia kamili ya uchezaji.
+🥁 BPM iko wazi kila wakati
+Utambuzi wa kiotomatiki wa BPM huamua tempo ya nyimbo zako - bila kubadilika kwa wimbo mzima na kwa mabadiliko ya wakati halisi kuzunguka nafasi ya sasa ya uchezaji. Kwa nyimbo zilizo na aina au mtindo na zenye maeneo ya BPM yaliyowekwa, kuna maeneo ya kasi yenye rangi na uainishaji unaoeleweka kuanzia "polepole sana" hadi "haraka sana". Hivyo unaweza kurekebisha kasi ya uchezaji ipasavyo kulingana na aina ya dansi ya wimbo na hadhira yako ya dansi.
 
-💾 Orodha za nyimbo zinazosafiri nawe  
-Hifadhi idadi yoyote ya orodha za nyimbo zenye majina na zipakie kwa kubofya mara moja. Orodha zako huhifadhiwa kiotomatiki kwenye vifaa vilevile vya kuhifadhi ambako muziki umetoka - hivyo kupitia USB stick au diski yako kuu ya nje unaweza kuzifikia popote, bila kujali orodha iliundwa kwenye kompyuta ipi. Orodha ya nyimbo ya sasa inaweza kuhifadhiwa kiotomatiki unapotoka, na kurejeshwa tena wakati wa kuanzisha programu ijayo.
+📂 Muziki wako, umepangwa kikamilifu
+Kivinjari cha nyimbo hutafuta kwenye viendeshi na folda zako kwa kasi kubwa - ukiamua kutumia hali ya Explorer au folda maalum unazochagua mwenyewe, na kwa hiari ikijumuisha folda ndogo kwa utafutaji wa kina. Panga kwa jina, tarehe ya mabadiliko, iliyochezwa hivi karibuni, BPM, urefu au ukadiriaji. Faili mpya huonekana kiotomatiki kutokana na ufuatiliaji wa folda, na kwa Drag & Drop unaweza kuvuta nyimbo moja kwa moja kwenye mkusanyiko au orodha yako ya kucheza. Kwa ukadiriaji wa nyota pamoja na aina za muziki na kategoria zenye rangi, unaweza kudhibiti kwa urahisi hata maktaba kubwa. Sifa za kina za faili za sauti huonyesha muundo, bitrate, kiwango, dinamiki, mwitikio wa masafa na historia kamili ya uchezaji.
 
-📱 Simu yako mahiri inakuwa rimoti na kifaa cha kutoa stream  
-Washa udhibiti jumuishi wa rimoti (bila kusakinisha programu ya ziada) kutoka kwenye kifaa chochote cha mkononi. Changanua msimbo wa QR na udhibiti InstantDj kutoka popote: anza na simamisha uchezaji, badilisha nyimbo, rekebisha sauti, panga upya orodha ya nyimbo na ongeza nyimbo mpya kupitia kivinjari cha nyimbo cha simu. Ukipenda, unaweza hata kutuma sauti ya moja kwa moja moja kwa moja kwenye simu mahiri ikiwa itabidi uondoke kwenye eneo la tukio huku ukitaka sherehe iendelee.
+💾 Orodha za kucheza zinazosafiri nawe
+Hifadhi idadi yoyote ya orodha za kucheza zenye majina na uzipakie kwa kubofya mara moja. Orodha zako huhifadhiwa kiotomatiki kwenye vifaa vilevile vya kuhifadhia ambako muziki unatoka - hivyo unaweza kuzifikia kupitia kifimbo chako cha USB au diski kuu ya nje popote, bila kujali orodha hiyo iliundwa kwenye kompyuta gani. Orodha ya sasa ya kucheza inaweza kuhifadhiwa kiotomatiki unapofunga programu na kurejeshwa unapoianzisha tena.
 
-⌚ Ukokotoaji sahihi wa mapema wa muda wa kuanza kucheza  
-Muda wa kuanza kucheza wa kila wimbo ambao bado unasubiri kwenye orodha ya nyimbo hukokotolewa na kuonyeshwa kiotomatiki. Hivyo unajua kila wakati wimbo utaanza lini na unaweza kupanga vizuri ratiba ya tukio. Ukokotoaji wa muda ni sahihi hadi sekunde na huzingatia muda uliowekwa wa kuingiza na kutoa sauti, muda wa kusubiri, marekebisho ya tempo, n.k.
+📱 Simu yako mahiri inakuwa rimoti na kifaa cha kutoa mtiririko
+Washa udhibiti wa mbali uliojengewa ndani (bila kusakinisha programu ya ziada) kutoka kwenye kifaa chochote cha mkononi. Changanua msimbo wa QR na udhibiti InstantDj kutoka popote: anza na simamisha uchezaji, badilisha nyimbo, rekebisha sauti, panga upya orodha ya kucheza na ongeza nyimbo mpya kupitia kivinjari cha nyimbo cha simu. Kwa hiari, unaweza hata kutiririsha sauti ya moja kwa moja moja kwa moja kwenye simu yako unapohitaji kuondoka eneo la tukio huku sherehe ikiendelea.
 
-🔌 Imara katika kila tukio  
-Pato kuu na pato la vichwa vya sauti vinaweza kuwekwa kando kwenye vifaa maalum, kupewa majina maalum ya vifaa na kuwashwa tena kiotomatiki kifaa kinapopatikana. Kifaa cha sauti kikitenganishwa kwa bahati mbaya, InstantDj huendelea kukitafuta chinichini na kuendelea na uchezaji mara kinaporudi - au hubadilisha hadi kifaa kingine unachochagua. Zaidi ya hayo, programu hudhibiti vifaa vya sauti kupitia michakato ya mfumo iliyotengwa, ili pato la sauti liwe sahihi na lisikatike hata mfumo unapokuwa na mzigo mkubwa - ili sauti isinyamaze wakati jambo hilo ni muhimu.
+⌚ Ukokotoaji wa mapema na sahihi wa wakati wa kuanza kucheza
+Wakati wa kuanza kucheza kwa nyimbo zote ambazo bado zinasubiri kwenye orodha ya kucheza hukokotolewa na kuonyeshwa kiotomatiki. Hivyo unajua wakati wowote wimbo utaanza na unaweza kupanga kwa njia bora mtiririko wa muda wa tukio. Ukokotoaji wa muda una usahihi wa sekunde na huzingatia nyakati zilizowekwa za kufifisha kuingia na kutoka, nyakati za kutokuwa na sauti, marekebisho ya tempo, n.k.
 
-⌨️ Haraka kwa kibodi  
-Vitendo vinavyotumiwa mara kwa mara vinaweza kuwekewa mikato ya kibodi inayoweza kugawiwa kwa uhuru - kuanzia kusikiliza kabla na kuruka katika uchezaji wa vichwa vya sauti hadi kuingiza nyimbo zilizochaguliwa kwenye orodha ya nyimbo. Hivyo u-DJ unaendelea kwa urahisi, hata kwa kutumia kibodi yenye vitufe vinavyoweza kupangwa.
+🔌 Imara katika kila tukio
+Njia kuu na ya vichwa vya sauti zinaweza kuwekwa kando kwenye vifaa maalum, kupewa majina yako ya vifaa na kuwashwa tena kiotomatiki pindi kifaa kinapopatikana. Kifaa cha sauti kikitenganishwa kwa bahati mbaya, InstantDj huendelea kukitafuta chinichini na kuendelea na uchezaji mara tu kinaporudi - au kubadilisha kwenda kwenye kifaa kingine unachochagua. Zaidi ya hayo, programu hudhibiti vifaa vya sauti kupitia michakato ya mfumo iliyotengwa, ili utoaji wa sauti uwe sahihi na uendelee bila kukatika hata mfumo unapokuwa na mzigo mkubwa - ili sauti isinyamaze inapohitajika zaidi.
 
-💡 Imepangwa vizuri na iko tayari kuanza mara moja  
-Mwonekano wa kisasa wenye rangi nyeusi umepangwa kwa uwazi, ni rahisi kuelewa na umeundwa kwa kazi yenye mtiririko mzuri. Hali ya skrini nzima huweka muziki katikati - bila visumbufu.
+⌨️ Haraka kwa kibodi
+Vitendo vinavyotumiwa mara kwa mara vinaweza kuwekewa mikato ya kibodi inayoweza kugawiwa kwa uhuru - kuanzia kusikiliza awali na kuruka ndani ya uchezaji wa vichwa vya sauti hadi kuingiza nyimbo zilizochaguliwa kwenye orodha ya kucheza. Hivyo u-DJ huwa mwepesi na rahisi, hata ukitumia kibodi yenye vitufe vinavyoweza kupangwa.
 
-🔒 Kwenye kifaa chako pekee  
-InstantDj hufanya kazi pekee na faili zako moja kwa moja kwenye kifaa chako. Hakuna kupakia faili, hakuna kuingia, hakuna ufuatiliaji, hakuna akaunti - wala hakuna muunganisho wa intaneti unaohitajika. Kumbuka: Ili kufikia programu kwa simu, bila shaka unahitaji mtandao wa ndani na/au muunganisho wa intaneti, kulingana na jinsi ulivyosanidi ufikiaji wa simu.
+💡 Nadhifu na tayari kuanza mara moja
+Mwonekano wa kisasa wenye rangi nyeusi umeundwa kwa mpangilio wazi, ni rahisi kueleweka na umeboreshwa kwa kazi laini. Hali ya skrini nzima huiweka muziki katikati ya shughuli - bila visumbufu.
 
-🔇 Si ya u-DJ wa kitaalamu  
-Programu hii haijakusudiwa kwa uchanganyaji wa kitaalamu wa DJ wenye deck nyingi, sampleri, loops, vidhibiti vya MIDI, vifaa vya nje, remixing ya moja kwa moja, scratching, beatmatching, key-matching, n.k.
+🔇 Si ya u-DJ wa kitaalamu
+Programu hii haijakusudiwa kwa uchanganyaji wa kitaalamu wa DJ wenye deki nyingi, sampuli, loops, vidhibiti vya MIDI, vifaa vya nje, uchanganyaji wa moja kwa moja, scratching, beatmatching, key-matching, n.k.

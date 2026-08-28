@@ -1,71 +1,72 @@
-InstantDj jẹ́ ohun tí Ballroom DJ kan tó ní ìfẹ́ sí iṣẹ́ rẹ̀, oníjó àti olùgbékalẹ̀ sọfitiwia ṣe pẹ̀lú ète láti ṣẹ̀dá ìṣàfilọ́lẹ̀ DJ tó rọrùn fún olùmúlò—láìsí ìdíjú àti iye owó sọfitiwia DJ ọjọ́gbọn, ṣùgbọ́n pẹ̀lú àwọn iṣẹ́ púpọ̀ ju ẹrọ orin orin tàbí ẹrọ ṣiṣàn rọrùn lọ.  
-Ní inú ìṣàfilọ́lẹ̀ náà ni ìṣàkóso ohun ọjọ́gbọn ti ń ṣiṣẹ́, pẹ̀lú ìṣàtúnṣe ohùn, ìṣàtúnṣe ìyára, compressor, limiter, ìṣàwárí ìdákẹ́jẹ̀ ìbẹ̀rẹ̀ àti ìparí, àti onírúurú ipa—fún ohun alágbára, tó dọ́gba, tí ó máa ń dun dáadáa bákan náà láti orin kan sí òmíràn.  
-Ṣàtúnṣe orin tó tẹ̀lé láìsí ìkánjú nípasẹ̀ agbekọ́rò, nígbà tí àwọn olùgbọ́ ń gbọ́ orin tó ń ṣiṣẹ́, tàbí jẹ́ kí gbogbo alẹ́ kọjá pẹ̀lú àwọn ìyípadà rírọ̀ ṣùgbọ́n tó ṣe kedere láìfọwọ́wọ́ ṣe.
+InstantDj jẹ́ àbájáde DJ Ballroom kan tó jẹ́ onífẹ̀ẹ́, oníjó àti olùgbékalẹ̀ sọ́fitiwia, tí ó ní ète láti dá ohun èlò DJ kan tí ó rọrùn fún lílo sílẹ̀ - láìsí ìdiju àti iye owó sọ́fitiwia DJ amọ̀ja, ṣùgbọ́n pẹ̀lú àwọn iṣẹ́ púpọ̀ ju ẹrọ orin tàbí ẹrọ ṣiṣàn orin tó rọrùn lọ.
+Nínú ohun èlò náà ni ìṣàkóso ohun amọ̀ja ti ń ṣiṣẹ́, pẹ̀lú ìṣàkóso ìró, ìtúnṣe ìyára, kompresọ̀, limiter, ìwádìí ìdákẹ́jẹ̀rẹ̀bẹrẹ/ìparí àti ọ̀pọ̀lọpọ̀ ipa - fún ohun tó lágbára tí ó sì wà ní ìwọ̀ntúnwọ̀nsì, tí ó máa ń dún dáadáa bákan náà láti orin kan sí òmíràn.
+Ṣàtúnṣe orin tó kàn fúnra rẹ ní ìtura pẹ̀lú ẹ̀rọ agbekọ́rọ́, nígbà tí àwùjọ ti ń gbọ́ orin tó ń lọ, tàbí jẹ́ kí gbogbo ìrọ̀lẹ́ ṣíṣeré pẹ̀lú àwọn ìyípadà tó rọ̀ àti tó ṣe kedere láìfọwọ́wọ́ máa lọ.
 
 Ó dára fún:
-- Gbadùn orin fúnra ẹni ní ilé pẹ̀lú dídún ohun tó dára gan-an àti ìṣàkóso alágbèéká nípasẹ̀ fóònù alágbèéká
-- Àwọn àjọyọ̀ aládàáni fún píṣiṣẹ́ orin pẹ̀lú ìṣàkóso latọ̀ọ́rọ̀, láìjẹ́ pé o ní láti jókòó sí kọ̀ǹpútà fúnra rẹ
-- Gbogbo irú àwọn ìṣẹ̀lẹ̀ ijó Ballroom pẹ̀lú àwọn orin tí a yà sọ́tọ̀ dáadáa
-- Àwọn ayẹyẹ ijó kékeré àti alabọ̀ọ̀dẹ̀ àti Social Dance Events pẹ̀lú yíyí alábàákẹ́gbẹ́
-- Ìgbéyàwó, ọjọ́ ìbí, àjọyọ̀ ẹgbẹ́, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ
-- Àwọn kíláàsì ijó, àwọn ìdánilẹ́kọ̀ọ́ àti àwọn alẹ́ ìdánrawọ̀, níbi tí a fẹ́ kí a lè ṣàtúnṣe yíyan orin, ìyára, ìwọ̀n ohùn, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ ní ìrọ̀rùn
-- Àwọn olùkọ́ tí ó fẹ́ ṣàkóso ìbẹ̀rẹ̀ àti ìwọ̀n ohùn latọ̀ọ́rọ̀ láti ibi ijó  
-🡆 A ṣe ìṣàfilọ́lẹ̀ yìí fún àwọn olùgbọ́ tí wọ́n fẹ́ jó tàbí gbọ́ orin ní irú atilẹba rẹ̀ bí ó ti ṣeé ṣe, tí orin kọ̀ọ̀kan sì yẹ kí ó wà ní ààlà tó ṣe kedere. Nítorí náà, a mọ̀ọ́mọ̀ kọ̀ láti fi live remixing pẹ̀lú beatmatching sí ìṣàfilọ́lẹ̀ yìí.
+- Ìgbọ́ orin fúnra ẹni ní ilé pẹ̀lú dídún tó dára gan-an àti ìṣàkóso alágbèéká nípasẹ̀ fóònù alágbèéká
+- Àwọn ayẹyẹ aládàáni fún ṣíṣeré orin pẹ̀lú ìṣàkóso jíjìnnà, láìjẹ́ pé o ní láti jókòó síwájú kọ̀ǹpútà fúnra rẹ
+- Gbogbo irú àwọn ìṣẹ̀lẹ̀ ijó Ballroom pẹ̀lú àwọn orin tí a yà sọ́tọ̀ kedere
+- Àwọn ayẹyẹ ijó kékeré àti alábọ̀ọ́dé àti àwọn ìṣẹ̀lẹ̀ Social Dance pẹ̀lú yíyí alábàáṣiṣẹ́ padà
+- Ìgbéyàwó, ọjọ́ ìbí, ayẹyẹ ẹgbẹ́, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ
+- Àwọn kíláàsì ijó, àwọn àdánwò iṣẹ́ àti àwọn ìrọ̀lẹ́ ìdánilẹ́kọ̀ọ́, níbi tí a ti fẹ́ kí a lè yí àṣàyàn orin, ìyára, ìwọ̀n ohùn, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ padà ní ìrọ̀rùn
+- Àwọn olùkọ́ni tí wọ́n fẹ́ láti ṣàkóso ìbẹ̀rẹ̀ àti ìwọ̀n ohùn láti orí ilẹ̀ ijó
+🡆 A ṣe ohun èlò yìí fún àwùjọ tí ó fẹ́ jó tàbí gbọ́ orin ní ìrísí atilẹba rẹ̀ bí ó ti ṣeé ṣe, tí orin kọ̀ọ̀kan sì yẹ kí ó wà ní ààlà kedere. Nítorí náà, a mọ̀ọ́mọ̀ kò fi ìdápọ̀ orin láàyè pẹ̀lú Beatmatching sí ohun èlò yìí.
 
 
 Àkótán àwọn iṣẹ́ pàtàkì
 
-🎛️ Ìṣàtúnṣe ohùn àti ipa lọ́pọ̀—a lè ṣàfipamọ́ wọn lọ́tọ̀ fún orin kọ̀ọ̀kan  
-🎧 Àwọn ìjáde ohun méjì tí ó yàtọ̀ pátápátá: ìjáde pàtàkì fún àwọn olùgbọ́, àti ìjáde agbekọ́rò fún fífetí sí orin ṣáájú píṣiṣẹ́ rẹ̀  
-🎚️ Píṣiṣẹ́ laifọwọ́ọ̀kan pátápátá pẹ̀lú ìṣàwárí ìdákẹ́jẹ̀ ìbẹ̀rẹ̀ àti ìparí, àti àwọn ìdápọ̀ orin tó péye (Auto-Wiedergabe)  
-🔊 Normalizer oníyípadà fún ìwọ̀n ohùn tó wà ní ìṣọ̀kan ní gbogbo ìgbà, àti compressor fún ohun tí a ń ṣàkóso dáadáa  
-📈 Ìfihàn waveform, spectrum àti BPM ní àkókò gidi  
-📂 Àwárí orin tó wà nínú ìṣàfilọ́lẹ̀ pẹ̀lú ìwáàrí, títò lẹ́sẹẹsẹ́ gẹ́gẹ́ bí BPM, ìṣàyẹ̀wò, orin tí a ṣẹ̀ṣẹ̀ kọ́kọ́ ṣiṣẹ́, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ  
-📱 Ìṣàkóso latọ̀ọ́rọ̀ pẹ̀lú fóònù alágbèéká àti live-audiostream tí a lè yí padà (ìjáde pàtàkì tàbí fífetí sí orin ṣáájú píṣiṣẹ́ rẹ̀)  
-⭐ Àwọn ìṣàyẹ̀wò àti àwọn ẹ̀yà orin/ijó àti ẹ̀ka fún títò àkójọpọ̀ orin rẹ  
-💾 Ṣíṣàfipamọ́, gbígbé àti ṣíṣe àfipamọ́ laifọwọ́ọ̀kan àwọn playlist pẹ̀lú àwọn ètò pàtàkì fún orin kọ̀ọ̀kan  
-✨ Ìtúpalẹ̀ abẹ́lẹ̀ ọlọ́gbọ́n ti gígùn orin, BPM, ìpele, ìyípadà ohùn, pínpín frequency àti púpọ̀ síi  
-🎵 Àtìlẹ́yìn fún gbogbo àwọn àgbékalẹ̀ ohun tó wọ́pọ̀ àti tó ní dídára gíga  
-⌚ Ìṣírò tó péye ṣáájú ti àkókò ìbẹ̀rẹ̀ píṣiṣẹ́ gbogbo àwọn orin tó ń bọ̀
+🎛️ Àtúnṣe ohun àti ipa tó gbòòrò - a lè fi pamọ́ lọ́tọ̀ fún orin kọ̀ọ̀kan
+🎧 Àwọn àbájáde ohun méjì tí ó yàtọ̀: àbájáde pàtàkì fún àwùjọ, àbájáde ẹ̀rọ agbekọ́rọ́ fún ìgbọ́ ṣáájú
+🎚️ Ṣíṣeré aláìfọwọ́wọ́ pátápátá pẹ̀lú ìwádìí ìdákẹ́jẹ̀rẹ̀bẹrẹ/ìparí àti, nítorí náà, àwọn ìyípadà orin tó péye (Ṣíṣeré-laifọwọ́yi)
+🔊 Normalizer tó ń yípadà fún ìwọ̀n ohùn tó dọ́gba ní gbogbo ìgbà àti kompresọ̀ fún ohun tí a ń ṣàkóso dáadáa
+✀ Ìpín orin ohun pẹ̀lú AI - gbé ohùn akọrin, ìlù, baasi àti àwọn ohun èlò míì ga ní ìmúdàgba tàbí pa wọ́n lẹ́nu mọ́
+📈 Àfihàn ìrísí ìgbì, spectrum àti BPM ní àkókò gidi
+📂 Ẹ̀rọ aṣàwákiri orin tí a ti ṣàkópọ̀ pẹ̀lú ìwádìí, yíyan létòlétò gẹ́gẹ́ bí BPM, ìdíyelé, àwọn tí a ṣeré jù lọ láìpẹ́, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ
+📱 Ìṣàkóso fóònù alágbèéká jíjìnnà pẹ̀lú ṣiṣàn ohun láàyè tí a lè yí padà (àbájáde pàtàkì tàbí ìgbọ́ ṣáájú)
+⭐ Àwọn ìdíyelé àti àwọn ẹ̀ka orin/ijó àti àwọn ẹ̀ka ìtọ́kasí fún ṣíṣètò àkójọpọ̀ orin rẹ
+💾 Fi àwọn àkójọ orin pamọ́ pẹ̀lú àwọn ètò pàtó fún orin kọ̀ọ̀kan, gbé wọ́n wọlé, kí o sì ṣe àfipamọ́ wọn láìfọwọ́wọ́
+✨ Ìtúpalẹ̀ abẹ́lẹ̀ ọlọ́gbọ́n ti gígùn, BPM, ìpele, ìmúdàgba, pínpín igbohunsafẹfẹ àti púpọ̀ síi
+🎵 Àtìlẹ́yìn fún gbogbo àwọn ọ̀nà fáìlì ohun tó wọ́pọ̀ tí ó sì ní dídára gíga
+⌚ Ìṣírò ṣáájú tó péye ti àkókò ìbẹ̀rẹ̀ ṣíṣeré gbogbo àwọn orin tó ń bọ̀
 
 
 Àwọn kókó pàtàkì
 
-🎧 Fífetí sí orin míì lẹ́gbẹ̀ẹ́ píṣiṣẹ́ orin, bí DJ gidi  
-InstantDj ṣe àtìlẹ́yìn fún àwọn ìjáde ohun méjì tàbí àwọn ẹ̀rọ méjì tí ó yàtọ̀ pátápátá. Orin fún àwọn olùgbọ́ rẹ ń jáde nípasẹ̀ ìjáde pàtàkì; nípasẹ̀ ìjáde agbekọ́rò, o lè gbọ́ orin tó tẹ̀lé ní àkókò kan náà láìjẹ́ pé àwọn ẹlòmíràn gbọ́ ọ, wá ibi ìbẹ̀rẹ̀ tó yẹ, kí o sì pèsè ìyípadà náà. Ìṣàn iṣẹ́ yìí gan-an ni ó ń yà ẹrọ orin rọrùn kúrò lọ́dọ̀ DJ gidi.
+🎧 Gbọ́ ṣáájú ní àkókò kan náà bí DJ gidi
+InstantDj ń ṣe àtìlẹ́yìn fún àwọn àbájáde ohun méjì tàbí àwọn ẹ̀rọ méjì tí ó yàtọ̀ pátápátá. Orin fún àwùjọ rẹ ń jáde láti àbájáde pàtàkì, nígbà tí o ń gbọ́ orin tó kàn ní àkókò kan náà, tí àwọn ẹlòmíràn kò sì gbọ́, láti inú àbájáde ẹ̀rọ agbekọ́rọ́; o lè wá ibi ìbẹ̀rẹ̀ tó yẹ kí o sì pèsè ìyípadà náà. Ìlànà iṣẹ́ yìí gan-an ni ó ń yà ẹrọ orin tó rọrùn sílẹ̀ kúrò nínú DJ gidi.
 
-🎚️ Laifọwọ́ọ̀kan pátápátá tàbí pẹ̀lú ọwọ́  
-Pẹ̀lú Auto-Wiedergabe, playlist rẹ máa ń ṣiṣẹ́ fúnra rẹ̀, ó sì máa ń dapọ̀ orin kọ̀ọ̀kan rọ̀ sínú orin tó tẹ̀lé—ó dára fún àwọn àjọyọ̀ tí o fẹ́ fi àkókò rẹ ṣe ohun mìíràn. Nígbàkigbà tí o bá fẹ́, o lè tún gba ìṣàkóso padà: a lè ṣètò àkókò ìfara wọlé àti ìfara jáde, bí àwọn orin ṣe máa ń bò ara wọn, àti ìbẹ̀rẹ̀ ṣáájú ti orin tó tẹ̀lé láìsí ààlà; a sì lè ṣàfipamọ́ wọn lọ́tọ̀ fún orin kọ̀ọ̀kan.
+🎚️ Laifọwọ́yi pátápátá tàbí pẹ̀lú ọwọ́
+Pẹ̀lú Ṣíṣeré-laifọwọ́yi, àkójọ orin rẹ máa ń ṣeré fúnra rẹ̀, ó sì máa ń yí orin kọ̀ọ̀kan padà lọ́nà rọ̀ sí orin tó kàn - ó dára fún àwọn ayẹyẹ tí o fẹ́ kí o lè bójú tó àwọn nǹkan mìíràn. Nígbàkigbà tí o bá fẹ́, o lè tún gba ìṣàkóso fúnra rẹ: a lè ṣètò àkókò fífi ohùn wọlé àti fífi ohùn jáde, bí àwọn orin ṣe ń bọ̀ ara wọn, àti ìbẹ̀rẹ̀ ṣáájú ti orin tó kàn ní òmìnira, a sì lè fi wọ́n pamọ́ lọ́tọ̀ fún orin kọ̀ọ̀kan pàápàá.
 
-🎛️ Ohùn ọjọ́gbọn tó ní ìjìnlẹ̀  
-Lẹ́yìn ojú ìwòye tó mọ́ wà ìṣàkóso ohun tó lágbára: ìṣàtúnṣe ohùn ẹgbẹ́ mẹ́ta ìbílẹ̀ (bass, mid àti treble), ìṣàkóso ìyára àti gíga ohùn lọ́tọ̀, compressor, limiter/maximizer, Harmonic Exciter, ìfẹ̀hónúhàn stereo, Transientenformer, echo pẹ̀lú ọ̀pọ̀ preset, àti chorus, flanger àti phaser. Normalizer oníyípadà máa ń bá àwọn apá orin tí a gbé sókè sí àwọn ìwọ̀n ohùn tí ó yàtọ̀ mu laifọwọ́ọ̀kan, kí apá kankan má bàa yọ jáde ju tàbí sọnù. A lè fi gbogbo àwọn ètò pamọ́ títí láé fún orin kọ̀ọ̀kan.
+🎛️ Ohun amọ̀ja pẹ̀lú ìjìnlẹ̀
+Lẹ́yìn ojú-ìwé tó mọ́ọ̀nà wà ìṣàkóso ohun tó lágbára: ìṣàkóso ohun ìbílẹ̀ oní-ẹ̀gbẹ́-mẹ́ta (baasi, àárín àti gíga), ìṣàkóso ìyára àti gíga ohùn lọ́tọ̀ọ̀tọ̀, Echo, ohun àyíká, kompresọ̀, Limiter/Maximizer, Harmonic Exciter, fífi ìtẹ̀síwájú sí stereo, Transientenformer pẹ̀lú ọ̀pọ̀ preset, àti Chorus, Flanger àti Phaser. Normalizer tó ń yípadà máa ń bá àwọn apá orin tí a gbé ohùn wọn sókè ní onírúurú ìwọ̀n mu láìfọwọ́wọ́, kí ohunkóhun má bàa yọ̀ jáde tàbí sọnù. A lè fi gbogbo àwọn ètò pamọ́ títí láé fún orin kọ̀ọ̀kan.
 
-🥁 BPM wà ní ojú rẹ ní gbogbo ìgbà  
-Ìṣàwárí BPM laifọwọ́ọ̀kan máa ń mọ ìyára orin rẹ—gẹ́gẹ́ bí ìwọ̀n tí ó dúró fún gbogbo orin, àti pẹ̀lú ìṣàwárí oníyípadà ní àkókò gidi yí ibi tí orin ti ń ṣiṣẹ́ ká. Fún àwọn orin tí a ti yan genre tàbí type fún, àwọn àgbègbè ìyára aláwọ̀ wà bí BPM ṣe ṣètò wọn, pẹ̀lú ìpín tó rọrùn láti lóye láti “lọ́ra gan-an” títí dé “yára gan-an”. Báyìí o lè ṣàtúnṣe ìyára píṣiṣẹ́ gẹ́gẹ́ bí irú ijó orin náà àti fún àwọn olùjó rẹ ní ọ̀nà tó dára jù.
+✀ Ìpín orin ohun pẹ̀lú AI fún títí dé àwọn orin 6
+Lẹ́yìn tí a bá ti gba àwòṣe AI tó yẹ sílẹ̀, a lè pín títí dé àwọn orin ohun 6 láìfọwọ́wọ́: ohùn akọrin, ìlù, baasi àti àwọn ohun èlò míì. Báyìí o lè gbé àwọn orin lọ́kọ̀ọ̀kan ga ní ìmúdàgba tàbí pa wọ́n lẹ́nu mọ́. Lórí Windows àti Linux, ìpín orin ohun pẹ̀lú AI ń ṣe àtìlẹ́yìn fún NVIDIA CUDA, èyí tó ń jẹ́ kí ìṣètò náà yára tó ìgbà mẹ́wàá ju lílo CPU lọ.
 
-📂 Orin rẹ, tí a ṣètò dáadáa  
-Songbrowser máa ń wá àwọn drive àti folda rẹ ní kíákíá gan-an—o lè lo Explorer mode tàbí àwọn folda tirẹ̀ tí o yan fúnra rẹ, pẹ̀lú aṣàyàn láti wá inú àwọn àpótí abẹ́ wọn pẹ̀lú. Tò wọn gẹ́gẹ́ bí orúkọ, ọjọ́ ìyípadà, orin tí a ṣẹ̀ṣẹ̀ ṣiṣẹ́, BPM, gígùn tàbí ìṣàyẹ̀wò. Àwọn fáìlì tuntun máa ń hàn laifọwọ́ọ̀kan nípasẹ̀ àbójútó folda, àti pẹ̀lú Drag & Drop o lè fà àwọn orin tààrà sínú àkójọpọ̀ rẹ tàbí playlist. Pẹ̀lú ìṣàyẹ̀wò ìràwọ̀ àti àwọn genre àti ẹ̀ka aláwọ̀, o lè ṣàkóso àwọn ilé-ìkàwé ńlá láìsí ìṣòro. Àwọn àlàyé fáìlì ohun tó kún fọ́ọ̀mù máa ń fi format, bitrate, ìpele, ìyípadà ohùn, ìdáhùn frequency àti gbogbo ìtàn píṣiṣẹ́ hàn.
+🥁 BPM wà ní ojú rẹ ní gbogbo ìgbà
+Ìwádìí BPM aláìfọwọ́wọ́ máa ń pinnu ìyára àwọn orin rẹ - ó dúró ṣinṣin fún orin náà ní gbogbo rẹ̀, ó sì tún ń yípadà ní àkókò gidi yí àyè tí orin ti dé báyìí ká. Fún àwọn orin tí ẹ̀ka orin tàbí irú wọn wà, àwọn àgbègbè ìyára aláwọ̀ àti ìpín tó rọrùn láti lóye láti "ó lọ́ra gan-an" títí dé "ó yára gan-an" máa ń hàn nígbà tí a bá ti ṣètò àwọn àgbègbè BPM. Báyìí o lè ṣàtúnṣe ìyára ṣíṣeré kí ó bá irú ijó orin náà mu, kí ó sì dára jù lọ fún àwọn oníjó rẹ.
 
-💾 Playlists tí ń bá ọ rìn  
-Ṣàfipamọ́ iye playlist tí o fẹ́, fún wọn ní orúkọ, kí o sì gbé wọn wá pẹ̀lú ìtẹ̀ kan. A máa ń fi àwọn àkójọ rẹ pamọ́ laifọwọ́ọ̀kan sínú àwọn ohun ìpamọ́ kan náà tí orin ti wá—báyìí o lè wọ̀lé sí wọn níbi gbogbo nípasẹ̀ USB stick tàbí hard drive ìta rẹ, láìka kọ̀ǹpútà tí a ti dá àkójọ náà sí. Bí o bá fẹ́, a máa ń ṣàfipamọ́ playlist tó wà lọ́wọ́ọ́wọ́ laifọwọ́ọ̀kan nígbà tí o bá ń jáde, a sì máa ń mú un padà wá nígbà tí o bá bẹ̀rẹ̀ lẹ́ẹ̀kansi.
+📂 Orin rẹ, tí a ṣètò dáadáa
+Ẹ̀rọ aṣàwákiri orin máa ń ṣàyẹ̀wò àwọn drive àti fódà rẹ ní kíákíá gan-an - yálà ní ìrísí Explorer tàbí nípasẹ̀ àwọn fódà tirẹ̀ tí o lè yan ní òmìnira, pẹ̀lú aṣàyàn láti ṣàyẹ̀wò àwọn fódà abẹ́lẹ̀. Ṣètò wọn gẹ́gẹ́ bí orúkọ, ọjọ́ àtúnṣe, tí a ṣeré jù lọ láìpẹ́, BPM, gígùn tàbí ìdíyelé. Àwọn fáìlì tuntun máa ń hàn láìfọwọ́wọ́ nítorí àbójútó fódà, àti pẹ̀lú Drag & Drop o lè fà àwọn orin sí àkójọpọ̀ tàbí àkójọ orin rẹ tààrà. Pẹ̀lú àwọn ìdíyelé ìràwọ̀ àti àwọn ẹ̀ka orin àti ẹ̀ka ìtọ́kasí aláwọ̀, o lè ṣàkóso àwọn ilé-ìkàwé ńlá pàápàá láìní ìṣòro. Àwọn ohun-ìní fáìlì ohun tó ṣàlàyé dáadáa máa ń fi ọ̀nà fáìlì, bitrate, ìpele, ìmúdàgba, ìdáhùn igbohunsafẹfẹ àti gbogbo ìtàn ṣíṣeré hàn.
 
-📱 Fóònù alágbèéká rẹ di ìṣàkóso latọ̀ọ́rọ̀ àti ẹ̀rọ ìjáde ṣiṣàn  
-Mú ìṣàkóso latọ̀ọ́rọ̀ tí a kọ́ sínú ìṣàfilọ́lẹ̀ ṣiṣẹ́ (láìsí fifi app mìíràn sílẹ̀) láti inú ẹ̀rọ alágbèéká èyíkéyìí. Ṣàyẹ̀wò kóòdù QR kí o sì ṣàkóso InstantDj láti ibikíbi: bẹ̀rẹ̀ àti dá píṣiṣẹ́ dúró, yí orin padà, ṣàkóso ìwọ̀n ohùn, tún playlist ṣe lẹ́sẹẹsẹ́, àti fi àwọn orin tuntun kún un nípasẹ̀ song explorer alágbèéká. Bí o bá fẹ́, o tún lè ṣiṣàn ohun live náà tààrà sí fóònù alágbèéká rẹ, bí o bá ní láti kúrò ní ibi ayẹyẹ ṣùgbọ́n tí o fẹ́ kí ayẹyẹ náà máa bá a lọ.
+💾 Àwọn àkójọ orin tí ń rìn pẹ̀lú rẹ
+Fi iye àìlópin àwọn àkójọ orin tí a fún ní orúkọ pamọ́, kí o sì gbé wọn wọlé pẹ̀lú títẹ̀ kan. A máa ń fi àwọn àkójọ rẹ pamọ́ láìfọwọ́wọ́ sínú àwọn ohun ìpamọ́ dátà kan náà tí orin ti wà lórí wọn - nítorí náà o lè wọ̀lé sí wọn níbi gbogbo pẹ̀lú USB stick tàbí hard drive àtàrí rẹ, láìka kọ̀ǹpútà tí a ti dá àkójọ náà sí. A lè fi àkójọ orin tó ń ṣiṣẹ́ pamọ́ láìfọwọ́wọ́ nígbà tí o bá ń pa ohun èlò náà, kí a sì tún gbé e padà nígbà tí o bá bẹ̀rẹ̀ lẹ́ẹ̀kan síi.
 
-⌚ Ìṣírò tó péye ṣáájú ti àkókò ìbẹ̀rẹ̀ píṣiṣẹ́  
-A máa ń ṣírò àti fi àkókò píṣiṣẹ́ gbogbo àwọn orin tó ṣì ń bọ̀ nínú playlist hàn laifọwọ́ọ̀kan. Báyìí o máa mọ̀ ní gbogbo ìgbà ìgbà tí orin kan yóò bẹ̀rẹ̀, o sì lè ṣètò ìṣàn àkókò ìṣẹ̀lẹ̀ náà dáadáa. Ìṣírò àkókò náà péye dé ìṣẹ́jú-aaya, ó sì máa ń gbé àwọn àkókò ìfara wọlé àti ìfara jáde, àwọn àkókò ìdákẹ́jẹ̀, ìṣàtúnṣe ìyára, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ sínú ìṣírò.
+📱 Fóònù alágbèéká rẹ di ìṣàkóso jíjìnnà àti ẹ̀rọ àbájáde ṣiṣàn
+Mú ìṣàkóso jíjìnnà tí a ti ṣàkópọ̀ ṣiṣẹ́ (láìsí ìfẹ́ sí fifi app àfikún sílẹ̀) láti orí ẹ̀rọ alágbèéká èyíkéyìí. Ṣàyẹ̀wò kóòdù QR kí o sì ṣàkóso InstantDj láti ibi gbogbo: bẹ̀rẹ̀ àti dá ṣíṣeré dúró, yí orin padà, ṣàkóso ìwọ̀n ohùn, tún àkójọ orin ṣe, kí o sì fi àwọn orin tuntun sínú rẹ̀ nípasẹ̀ aṣàwákiri orin alágbèéká. Bí o bá fẹ́, o lè tún ṣiṣàn ohùn láàyè tààrà sí fóònù alágbèéká rẹ, bí o bá nílò láti kúrò ní ibi ayẹyẹ ṣùgbọ́n tí o fẹ́ kí ayẹyẹ náà máa bá a lọ.
 
-🔌 Ó dúró ṣinṣin ní gbogbo ìṣe  
-A lè yan àwọn ẹ̀rọ tó wa titi fún ìjáde pàtàkì àti ìjáde agbekọ́rò lọ́tọ̀, fún wọn ní orúkọ tirẹ̀, kí a sì tún mú wọn ṣiṣẹ́ laifọwọ́ọ̀kan nígbà tí ẹ̀rọ bá wà. Bí a bá yọ ẹ̀rọ ohun kúrò láìròtẹ́lẹ̀, InstantDj máa ń tẹ̀síwájú láti wá a ní abẹ́lẹ̀, ó sì máa ń bá píṣiṣẹ́ lọ nígbà tí ẹ̀rọ náà bá padà—tàbí ó máa ń yí sí ẹ̀rọ mìíràn tí o bá yan. Yàtọ̀ síyẹn, ìṣàfilọ́lẹ̀ náà máa ń ṣàkóso àwọn ẹ̀rọ ohun nípasẹ̀ àwọn ìlànà ètò tí a ya sọ́tọ̀, kí ìjáde ohun lè péye kí ó sì má ṣe dáwọ́ dúró kódà nígbà tí ètò bá ń ṣiṣẹ́ takuntakun—kí ohunkóhun má bàa dákẹ́ nígbà tó ṣe pàtàkì.
+⌚ Ìṣírò ṣáájú tó péye ti àkókò ìbẹ̀rẹ̀ ṣíṣeré
+A máa ń ṣírò àti ṣàfihàn àkókò tí gbogbo àwọn orin tó kù nínú àkójọ orin máa bẹ̀rẹ̀ ṣíṣeré láìfọwọ́wọ́. Báyìí o máa mọ̀ ní gbogbo ìgbà ìgbà tí orin kan máa bẹ̀rẹ̀, o sì lè pèsè ìtòlẹ́sẹẹsẹ àkókò ìṣẹ̀lẹ̀ náà dáadáa. Ìṣírò àkókò náà péye títí dé ìṣẹ́jú-àáyá, ó sì ń ka àwọn àkókò fífi ohùn wọlé àti fífi ohùn jáde, àwọn àkókò ìdákẹ́jẹ̀, àwọn ìtúnṣe ìyára, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ sí.
 
-⌨️ Yára pẹ̀lú bọ́tìnì keyboard  
-A lè fi àwọn iṣẹ́ tí a máa ń lò lọ́pọ̀ sí àwọn kókó keyboard tí o lè pín fúnra rẹ—láti fífetí sí orin ṣáájú píṣiṣẹ́ àti fo nínú píṣiṣẹ́ agbekọ́rò, títí dé fífi àwọn orin tí a yan kún playlist. Báyìí iṣẹ́ DJ máa ń lọ lọ́wọ́ dáadáa, kódà pẹ̀lú pátákó bọ́tìnì tí a lè ṣe ètò.
+🔌 Ó dúró ṣinṣin ní gbogbo ìṣẹ̀lẹ̀
+A lè ṣètò àbájáde pàtàkì àti ti ẹ̀rọ agbekọ́rọ́ lọ́tọ̀ sí àwọn ẹ̀rọ pàtó, fún wọn ní orúkọ tirẹ̀, kí a sì tún mú wọn ṣiṣẹ́ láìfọwọ́wọ́ nígbà tí ẹ̀rọ kan bá wà. Bí a bá yọ ẹ̀rọ ohun kan kúrò láìmọ̀ọ́mọ̀, InstantDj máa ń wá ẹ̀rọ náà lọ́wọ́lọ́wọ́ ní abẹ́lẹ̀, ó sì máa ń tẹ̀síwájú ṣíṣeré nígbà tí ẹ̀rọ náà bá padà - tàbí kí ó yí padà sí ẹ̀rọ mìíràn tí o bá yàn. Ní àfikún, ètò náà ń ṣàkóso àwọn ẹ̀rọ ohun nípasẹ̀ àwọn ìlànà ètò tí a yà sọ́tọ̀, kí àbájáde ohun lè jẹ́ pàtó, kí ó sì má bàa dáwọ́ dúró pàápàá nígbà tí ètò náà bá ń ṣiṣẹ́ lọ́pọ̀ - kí ohùn má bàa dákẹ́ nígbà tí ó ṣe pàtàkì jù.
 
-💡 Ó mọ́, ó sì ti ṣetán láti bẹ̀rẹ̀ lẹ́sẹ̀kẹsẹ̀  
-Ojú ìwòye òde òní tó dúdú jẹ́ kedere, ó ṣètò dáadáa, ó sì rọrùn láti lóye, tí a sì ṣe fún iṣẹ́ tó ń lọ láìdáwọ́dúró. Ìpo ojú-iboju-kíkún máa ń fi orin sí àárín àfiyèsí—láìsí ohun tó máa ń pín ọkàn.
+⌨️ Yára pẹ̀lú bọtìnì kọ́ǹpútà
+A lè yan àwọn ìṣe tí a máa ń ṣe lọ́pọ̀ sí àwọn àkótẹ́lẹ̀ bọtìnì tí o lè pín fúnra rẹ - láti inú ìgbọ́ ṣáájú àti fo nínú ṣíṣeré ẹ̀rọ agbekọ́rọ́ títí dé fífi àwọn orin tí a yàn sínú àkójọ orin. Báyìí DJing máa ń lọ láìdádúró, pàápàá pẹ̀lú pánẹ́ẹ̀lì bọtìnì tí a lè ṣe ètò rẹ̀.
 
-🔒 Gbogbo rẹ wà lórí ẹ̀rọ rẹ  
-InstantDj ń ṣiṣẹ́ pẹ̀lú àwọn fáìlì rẹ nìkan, tààrà lórí ẹ̀rọ rẹ. Kò sí ìgbésókè fáìlì, kò sí ìforúkọsílẹ̀, kò sí ìtọ́pinpin, kò sí àkọọ́lẹ̀—kò sì nílò ìsopọ̀ Íńtánẹ́ẹ̀tì. Àkíyèsí: Fún ìwọlé alágbèéká, dájúdájú o nílò nẹ́tíwọ́ọ̀kì àdúgbò àti/tàbí ìwọlé Íńtánẹ́ẹ̀tì, gẹ́gẹ́ bí o ṣe ti ṣètò ìwọlé alágbèéká náà.
+💡 Ṣètò dáadáa, ṣetan láti bẹ̀rẹ̀ lẹ́sẹ̀kẹsẹ̀
+Ojú-ìwé òde-òní tó dúdú ní ìṣètò tó mọ́, ó rọrùn láti lóye, ó sì ṣe é fún iṣẹ́ tó ń lọ láìdádúró. Ìrísí ojú-ìwé kíkún máa ń fi orin sí àárín àkíyèsí - láìsí ohun tó ń pín àkíyèsí.
 
-🔇 Kì í ṣe DJ ọjọ́gbọn  
-A kò ṣe ìṣàfilọ́lẹ̀ yìí fún dídapọ̀ orin DJ ọjọ́gbọn pẹ̀lú decks púpọ̀, samplers, loops, àwọn olùdarí MIDI, àwọn ẹ̀rọ ìta, live remixing, fífọ́ orin, beatmatching, key-matching, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.
+🔇 Kì í ṣe DJing amọ̀ja
+A kò ṣe ohun èlò yìí fún dídapọ̀ DJ amọ̀ja pẹ̀lú decks púpọ̀, samplers, loops, àwọn olùṣàkóso MIDI, àwọn ẹ̀rọ ìta, ìdápọ̀ orin láàyè, Scratch, Beatmatching, Key-Matching, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ.

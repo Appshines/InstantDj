@@ -1,71 +1,72 @@
-I whakawhanakehia a InstantDj e tētahi DJ kanikani Ballroom, he kaikanikani, he kaiwhakawhanake pūmanawa hoki, he tangata ngākau nui, me te whāinga ki te waihanga i tētahi taupānga DJ ngāwari ki te whakamahi — kāore i te uaua me ngā utu o te pūmanawa DJ ngaio, engari he nui ake ōna āhuatanga i te kaitākaro pūoro, kaitākaro roma rānei.  
-Kei roto i te taupānga he tukatuka ororongo ngaio me te whakatikatika oro, te whakarite tere, te compressor, te limiter, te kimi wahangu i te tīmatanga me te whakamutunga, me te tini o ngā pānga — kia kaha, kia taurite te oro, ā, kia ōrite te pai o ia waiata.  
-Whakaritea marire e koe te waiata e whai ake nei mā ngā taringa, i te wā e whakarongo ana te hunga ki te waiata e whakatangihia ana, kātahi rānei waiho ngā ahiahi katoa kia rere aunoa me ngā whakawhitinga māeneene, engari he mārama te wehe.
+I waihangatia a InstantDj e tētahi DJ mō ngā kanikani Ballroom, he kanikani, he kaiwhakawhanake pūmanawa hoki, me te whāinga kia hangaia he taupānga DJ ngāwari ki te whakamahi — kāore he uaua me ngā utu o ngā pūmanawa DJ ngaio, engari he nui ake ngā āhuatanga i tētahi kaiwhakatangi waiata, awa oro rānei.
+Kei roto i te taupānga he tukatuka oro ngaio me te whakahaere i te oro, te whakatikatika i te tere, te kōpeketanga, te whakawhāiti, te kimi i te wahangu i te tīmatanga me te mutunga, me te tini o ngā pānga — kia kaha, kia taurite te oro, ā, kia rite te kounga mai i tētahi waiata ki tētahi.
+Whakaritea marire e koe te waiata e whai ake nei mā ngā taringa, i te wā e whakarongo tonu ana te hunga whakarongo ki te waiata e whakatangi ana, ka waiho rānei mā te taupānga ngā pō katoa e whakahaere aunoa, me ngā whakawhitinga ngohengohe engari tino mārama.
 
-He tino pai mō:
-- Te pārekareka ki te pūoro i te kāinga, me te kounga ororongo tino pai me te whakahaere pūkoro mā te waea atamai
-- Ngā hui tūmataiti mō te whakatangi pūoro mā te mana mamao, kia kore ai koe e noho ki te rorohiko
-- Ngā momo kaupapa kanikani Ballroom katoa, me ngā waiata kua mārama te wehe
-- Ngā pāti kanikani iti, waenga hoki, me ngā kaupapa kanikani pāpori e huri ai ngā hoa kanikani
-- Ngā mārena, rā whānau, hui a ngā rōpū, me ērā atu
-- Ngā akoranga kanikani, awheawhe me ngā ahiahi whakaharatau, e hiahia ana kia ngāwari te whakarerekē i te kōwhiringa waiata, te tere, te kaha oro, me ērā atu
-- Ngā kaiwhakaako e hiahia ana ki te whakahaere mamao i te tīmata me te kaha oro mai i te papa kanikani  
-🡆 I hangaia tēnei taupānga mō te hunga e hiahia ana ki te kanikani, ki te whakarongo rānei ki te pūoro kia tata tonu ki te taketake, me te noho mārama o ia waiata hei wāhanga motuhake. Nō reira, i āta waihohia te remixing ora me te beatmatching i tēnei taupānga.
+He pai mō:
+- Te whakarongo waiata mōu ake i te kāinga, me te kounga oro tino pai me te whakahaere pūkoro mā te waea atamai
+- Ngā hui tūmataiti mō te whakatangi waiata mā te pūmana mamao, kia kore ai koe e noho ki te rorohiko
+- Ngā momo hui kanikani Ballroom katoa, me ngā waiata kua tino wehewehea
+- Ngā pāti kanikani iti, reo-rahi hoki, me ngā hui Social Dance e panoni ana ngā hoa
+- Ngā mārena, ngā rā whānau, ngā hui a ngā rōpū, aha atu
+- Ngā akoranga kanikani, ngā awheawhe me ngā pō whakaharatau, ina hiahia kia ngāwari te whakarerekē i te kōwhiringa waiata, te tere, te kaha oro, aha atu
+- Ngā kaiwhakahaere akoranga e hiahia ana ki te whakahaere mamao i te tīmata me te kaha oro mai i te papa kanikani
+🡆 I hangaia tēnei taupānga mō te hunga e hiahia ana ki te kanikani, ki te whakarongo rānei ki te waiata kia rite tonu ki te mea taketake, me te noho mārama o ia waiata hei waiata motuhake. Nō reira, i āta waiho ki waho i tēnei taupānga te whakaranu ora me te Beatmatching.
 
 
 Tirohanga whānui o ngā āhuatanga matua
 
-🎛️ Te whakatikatika whānui i te oro me ngā pānga — ka taea te tiaki motuhake mō ia waiata  
-🎧 E rua ngā putanga ororongo motuhake: ko te putanga matua mō te hunga whakarongo, ko te putanga taringa mō te whakarongo whakamātau  
-🎚️ Te whakatangi aunoa katoa me te kimi wahangu i te tīmatanga me te whakamutunga, hei whakawhitinga tino tika (whakatangi aunoa)  
-🔊 He normalizer hihiri mō te ōrite tonu o te kaha oro, me te compressor mō te oro whakahaere  
-📈 Te whakaaturanga wā-tūturu o te āhua ngaru, te tūāwhiorangi me te BPM  
-📂 He pūtirotiro waiata kua whakaurua, tae atu ki te rapu, te whakaraupapa mā te BPM, te whakatauranga, ngā waiata kua whakatangihia inā tata nei, me ērā atu  
-📱 Te mana mamao mā te waea atamai, me ngā roma ororongo ora ka taea te whakawhiti (putanga matua, putanga whakarongo whakamātau rānei)  
-⭐ Ngā whakatauranga, ngā momo pūoro/kanikani me ngā kāwai hei whakarite i tō kohinga pūoro  
-💾 Te tiaki, te uta me te pūrua aunoa i ngā rārangipurei me ngā tautuhinga motuhake mō ia waiata  
-✨ Te tātari papamuri atamai o te roa, te BPM, te taumata, te hihiko, te tohatoha auau, me ērā atu  
-🎵 Te tautoko i ngā momo kōnae ororongo rongonui, kounga teitei hoki  
-⌚ Te tātai tōmua tika i te wā tīmata whakatangi o ngā waiata katoa kei te tatari mai
+🎛️ He whānui te whakatika oro me ngā pānga — ka taea te penapena takitahi mō ia waiata
+🎧 E rua ngā putanga oro motuhake: ko te putanga matua mō te hunga whakarongo, ko te putanga taringa mō te whakarongo arokē
+🎚️ He whakatangi tino aunoa me te kimi i te wahangu i te tīmatanga me te mutunga, ā, he whakawhitinga tika (Whakatangi Aunoa)
+🔊 He Pūwhakarite Taumata hihiri mō te kaha oro ōrite tonu, me te kōpeke oro mō te oro kua whakahaerehia
+✀ Wehenga ara oro mā AI — ka taea te whakanui hihiri, te whakaweto rānei i te waiata ā-waha, ngā pahu, te panguru me ētahi atu taputapu puoro
+📈 He whakaaturanga wā-ora mō te āhua ngaru oro, te tūāwhānui me te BPM
+📂 He Pūtirotiro Waiata whakauru me te rapu, te whakaraupapa mā te BPM, te whakatauranga, ngā waiata kua whakatangihia inā tata nei, aha atu
+📱 He pūmana mamao mā te waea atamai, me te awa oro ora ka taea te whakawhiti (te putanga matua, te whakarongo arokē rānei)
+⭐ He whakatauranga, me ngā momo/kanikani me ngā kāwai hei whakaraupapa i tō kohinga waiata
+💾 Ka taea te penapena, te uta me te pūrua aunoa i ngā rārangipāpāho me ngā tautuhinga motuhake mō ia waiata
+✨ He tātari papamuri mō te roa, te BPM, te taumata, te hihiri, te tohatoha auau me ētahi atu
+🎵 He tautoko mō ngā momo kōnae oro rongonui katoa me ngā momo kounga teitei
+⌚ He tātai tōmua tika i te wā tīmata o ngā waiata katoa e tū mai ana
 
 
-Ngā aronga matua
+Ngā āhuatanga matua
 
-🎧 Whakarongo whakamātau whakarara pēnei i te DJ tūturu  
-E tautoko ana a InstantDj i ngā putanga ororongo, i ngā pūrere rānei, e rua kua tino motuhake. Ka whakatangihia te pūoro mō te hunga whakarongo mā te putanga matua, ā, mā te putanga taringa ka taea e koe te whakarongo whakarara, me te kore e rangona e ērā atu, ki te waiata e whai ake nei, te kimi i te wāhi tīmatanga tika me te whakarite i te whakawhitinga. Ko tēnei rerenga mahi tonu te mea e wehewehe ana i te kaitākaro māmā me te mahi DJ tūturu.
+🎧 Whakarongo arokē whakarara pēnei i te DJ tūturu
+E tautoko ana a InstantDj i ngā putanga oro, i ngā pūrere oro rānei, e rua, kua tino motuhake. Mā te putanga matua ka whakatangihia te waiata mō te hunga whakarongo; mā te putanga taringa ka taea e koe te whakarongo whakarara, me te kore e rangona e ētahi atu, ki te waiata e whai ake nei, te kimi i te tīmatanga tika, me te whakarite i te whakawhitinga. Ko tēnei rerenga mahi tonu te mea e wehe ai tētahi kaiwhakatangi noa i te mahi DJ tūturu.
 
-🎚️ Aunoa katoa, ā-ringa rānei  
-Mā te whakatangi aunoa ka rere takitahi tō rārangipurei, ka memeha māeneene ia waiata ki roto i te waiata e whai ake nei — he pai mō ngā pāti e hiahia ana koe ki te aro ki ētahi atu mahi. Ina hiahia koe, ka taea anō e koe te whakahaere: ka taea te whakarite noa i ngā wā memeha-mai me te memeha atu, te inaki o ngā waiata me te tīmata tōmua o te waiata e whai ake nei, ā, ka taea hoki te tiaki motuhake mō ia waiata.
+🎚️ He tino aunoa, he ā-ringa rānei
+Mā te Whakatangi Aunoa ka rere motuhake tō rārangipāpāho, ā, ka whakawhiti mā te memeha ngāwari ia waiata ki te waiata e whai ake nei — he pai mō ngā hui e hiahia ana koe ki te aro ki ētahi atu mahi. Ina hiahia koe, ka taea anō e koe te whakahaere: ka taea te whakarite noa i ngā wā memeha-mai me te memeha-atu, te inaki o ngā waiata me te tīmata wawe o te waiata e whai ake nei, ā, ka taea hoki te penapena takitahi mō ia waiata.
 
-🎛️ He oro ngaio, he hōhonu  
-Kei muri i te atanga mārama he tukatuka ororongo kaha: he whakatikatika oro matarohia e toru ngā pēne (pūngao raro, oro waenga, oro teitei), he mana motuhake mō te tere me te teitei oro, he compressor, limiter/maximizer, harmonic exciter, whakaroa stereo, transient shaper, echo me ngā preset maha, me te chorus, flanger me te phaser. Mā te normalizer hihiri e taurite aunoa ngā wāhanga waiata kua rerekē te kaha oro, kia kore ai tētahi e tino puta ki mua, e ngaro rānei. Ka taea te tiaki pūmau i ngā tautuhinga katoa mō ia waiata.
+🎛️ He oro ngaio, he hōhonutanga
+Kei muri i te atanga mārama he tukatuka oro kaha: he whakahaere oro matarohia e toru ngā pēne (te panguru, ngā oro waenga, ngā oro tiketike), he mana motuhake mō te tere me te teitei oro, he paoro tōruarua, he oro rūma, he kōpeke oro, he whakawhāiti/whakanuinga, he Harmonic Exciter, he whakawhānui oro tīreo-rua, he kaiwhakawhiti oro tīmatanga me te tini o ngā tatūkē, me te Chorus, Flanger me Phaser. Mā te Pūwhakarite Taumata hihiri e taurite aunoa ngā wāhanga waiata kua rerekē te kaha o te whakatikatika, kia kore ai tētahi mea e tino puta ki mua, e ngaro rānei. Ka taea te penapena pūmau i ngā tautuhinga katoa mō ia waiata.
 
-🥁 Kia kitea tonu te BPM  
-Mā te kimi BPM aunoa e whakatau te tere o ngā waiata — he tere pūmau mō te waiata katoa, he tere hihiri hoki i te wā-tūturu huri noa i te wāhi whakatangi o nāianei. Mō ngā waiata kua whakaritea he momo pūoro, he momo kanikani rānei, ka whakaaturia ngā rohe tere tae, i runga i ngā awhe BPM kua tiakina, me tētahi whakarōpūtanga ngāwari te mārama, mai i te “tino pōturi” ki te “tino tere”. Mā konei ka taea te whakarite tika i te tere whakatangi ki te momo kanikani o te waiata me tō hunga kanikani.
+✀ Wehenga ara oro mā AI mō te 6 ara teitei rawa
+Kia oti te tikiake i te tauira AI tika, ka taea te wehe aunoa kia 6 ara oro: te waiata ā-waha, ngā pahu, te panguru me ētahi atu taputapu puoro. Mā konei ka taea e koe te whakanui hihiri, te whakaweto rānei i ngā ara takitahi. I Windows me Linux, ka tautokona te wehenga ara oro mā AI e NVIDIA CUDA, ā, tata ki te tekau whakareanga te tere ake o te tukatuka i te tukatuka mā te PTM.
 
-📂 Kua tino whakaritea tō pūoro  
-Ka rapu tere te pūtirotiro waiata i ō puku me ō kōpaki — ka taea te whakamahi i te aratau Explorer, i ngā kōpaki ritenga ka kōwhiria e koe, ā, ki te hiahia, ka rapu hohonu hoki i ngā kōpakiroto. Whakaraupapatia mā te ingoa, te rā whakarerekē, te waiata i whakatangihia inā tata nei, te BPM, te roa, te whakatauranga rānei. Ka puta aunoa ngā kōnae hou nā te aroturuki kōpaki, ā, mā te tō-me-te-whakataka ka taea te tō tika i ngā waiata ki tō kohinga, ki tō rārangipurei rānei. Mā ngā whakatauranga whetū me ngā momo pūoro me ngā kāwai tae ka ngāwari tonu te whakahaere i ngā kohinga nui. Mā ngā āhuatanga taipitopito o te kōnae ororongo e whakaatu te hōputu, te bitrate, te taumata, te hihiko, te urupare auau me te hītori whakatangi katoa.
+🥁 Kei te kitea tonutia te BPM
+Mā te kimi BPM aunoa e whakatau te tere o ō waiata — he tere pūmau mō te waiata katoa, me te tere hihiri i te wā-ora huri noa i te tūranga whakatangi o nāianei. Mō ngā waiata kua tautuhia te momo, te kāhua rānei, ka whakaaturia ngā rohe tere karakara me tētahi whakarōpūtanga mārama mai i te “tino pōturi” ki te “tino tere”, ina kua whakaritea ngā awhe BPM. Mā konei ka taea e koe te whakatika pai i te tere whakatangi kia hāngai ki te momo kanikani o te waiata me tō hunga kanikani.
 
-💾 Rārangipurei ka taea te kawe haere  
-Tiakina ngā rārangipurei ingoa ahakoa te maha, ā, utaina mā te pāwhiri kotahi. Ka tiakina aunoa ō rārangi ki ngā pūrere rokiroki kotahi i ahu mai ai te pūoro — nō reira ka taea e koe te uru atu ki aua rārangi mā tō USB, tō puku mārō ā-waho rānei ki hea, ahakoa ko tēhea rorohiko i hangaia ai te rārangi. Ki te hiahia, ka tiakina aunoa te rārangipurei o nāianei ina puta atu, ā, ka whakahokia ina tīmata anō.
+📂 Kua tino whakaraupapatia ō waiata
+Ka rapua e te Pūtirotiro Waiata ō puku me ō kōpaki i te tere — mā te aratau Explorer, mā ō kōpaki ake kua kōwhiria rānei, ā, ki te hiahia, me ngā kōpakiroto katoa. Whakaraupapatia mā te ingoa, te rā whakarerekētanga, te waiata i whakatangihia inā tata nei, te BPM, te roa, te whakatauranga rānei. Ka puta aunoa ngā kōnae hou nā te aroturuki kōpaki, ā, mā te Tōia me te Whakataka ka taea te tō tika i ngā waiata ki tō kohinga, ki tō rārangipāpāho rānei. Mā ngā whakatauranga whetū me ngā momo me ngā kāwai karakara ka noho ngā whare pukapuka nui ki raro i tō mana, me te kore uaua. Mā ngā āhuatanga kōnae oro taipitopito e whakaatu te hōputu, te tere moka, te taumata, te hihiri, te urupare auau me te hītori whakatangi katoa.
 
-📱 Ka noho tō waea atamai hei mana mamao, hei pūrere putanga roma hoki  
-Whakakāngia te mana mamao kua whakaurua, kāore he tāutanga taupānga anō e hiahiatia ana, mai i tētahi pūrere pūkoro. Matawaihia te waehere QR, ā, whakahaerehia a InstantDj mai i hea: tīmata, whakamutua rānei te whakatangi, hurihia te waiata, whakaritea te kaha oro, whakaraupapatia anō te rārangipurei, ā, tāpirihia he waiata mā te pūtirotiro waiata pūkoro. Ki te hiahia, ka taea hoki te tuku roma tika o te oro ora ki tō waea atamai, mēnā me wehe koe i te wāhi whakahaere engari me haere tonu te pāti.
+💾 Ka haere tahi ngā rārangipāpāho
+Penapenahia ngā rārangipāpāho kua whakaingoatia ahakoa te tini, ā, utaina mā te pāwhiri kotahi. Ka penapenahia aunoatia ō rārangi ki ngā puku rokiroki ōrite kei reira ngā waiata — nō reira ka taea e koe te uru atu ki aua rārangi ki hea mā tō rakau USB, mā tō puku mārō ā-waho rānei, ahakoa ko tēhea rorohiko i waihangatia ai te rārangi. Ki te hiahia, ka pūruatia aunoa te rārangipāpāho o nāianei ina puta atu, ā, ka whakahokia anō ina tīmata ā muri ake.
 
-⌚ Te tātai tōmua tika i te wā tīmata whakatangi  
-Ka tātai, ka whakaatu aunoa te wā tīmata whakatangi o ngā waiata katoa kei te tatari mai i te rārangipurei. Mā konei ka mōhio tonu koe āhea tīmata ai tētahi waiata, ā, ka taea e koe te whakamahere pai i te rerenga wā o te kaupapa. He tika te tātai ki te hēkona, ā, ka whai whakaaro ki ngā wā memeha-mai me te memeha atu, ngā wā kore whakatangi, ngā whakarerekētanga tere, me ērā atu.
+📱 Ka noho tō waea atamai hei pūmana mamao, hei pūrere putanga awa hoki
+Whakakāngia te pūmana mamao whakauru (me te kore e tāuta i tētahi taupānga anō) mai i tētahi pūrere pūkoro. Matawaihia te waehere QR, ā, whakahaerehia a InstantDj mai i hea: tīmatahia, whakamutua hoki te whakatangi, whakawhitia ngā waiata, whakaritea te kaha oro, whakaraupapatia anō te rārangipāpāho, ā, mā te pūtirotiro waiata pūkoro whakarārangihia he waiata hou. Ki te hiahia, ka tuku awa tika hoki i te oro ora ki tō waea atamai, ina me wehe koe i te wāhi hui engari me haere tonu te pāti.
 
-🔌 He pūmau i ia whakaaturanga  
-Ka taea te whakarite motuhake i te putanga matua me te putanga taringa ki ngā pūrere pūmau, te hoatu ingoa pūrere ritenga, me te whakahohe anō aunoa ina wātea mai tētahi pūrere. Mēnā ka momotu ohorere tētahi pūrere ororongo, ka rapu tonu a InstantDj i taua pūrere i muri, ā, ka haere tonu te whakatangi ina hoki mai — ka whakawhiti rānei ki tētahi atu pūrere i kōwhiria e koe. Ka whakahaere hoki te hōtaka i ngā pūrere ororongo mā ngā tukanga pūnaha kua wehea, kia tika tonu te putanga oro, kia kore hoki e motu ahakoa he nui te kawenga o te pūnaha — kia kore ai te oro e ngū ina tino matea.
+⌚ He tātai tōmua tika i te wā tīmata o te whakatangi
+Ka tātai aunoa, ka whakaatu hoki i te wā whakatangi o ia waiata e toe ana i te rārangipāpāho. Mā konei ka mōhio koe i ngā wā katoa āhea tīmata ai tētahi waiata, ā, ka taea te whakamahere pai i te rere o te wā o te hui. He tika te tātai wā ki te hēkona, ā, ka whai whakaaro ki ngā wā memeha-mai me te memeha-atu kua whakaritea, ngā wā noho kore mahi, ngā whakatikatika tere, aha atu.
 
-⌨️ Kia tere mā te papapātuhi  
-Ka taea te tautapa i ngā mahi auau ki ngā pokatata papapātuhi ka taea te whakarite — mai i te whakarongo whakamātau me te peke i te whakatangi taringa, tae atu ki te tāpiri i ngā waiata kua kōwhiria ki te rārangipurei. Mā konei ka rere pai te mahi DJ, tae atu ki te whakamahi i tētahi papapātuhi pātene ka taea te hōtaka.
+🔌 He pūmau i ia whakaaturanga
+Ka taea te tautapa motuhake i te putanga matua me te putanga taringa ki ngā pūrere pūmau, te hoatu ingoa pūrere ake, me te whakakā aunoa anō ina wātea mai tētahi pūrere. Mēnā ka momotu ohorere tētahi pūrere oro, ka rapu tonu a InstantDj i taua pūrere i te papamuri, ā, ka haere tonu te whakatangi ina hoki mai — ka whakawhiti rānei ki tētahi atu pūrere kua kōwhiria e koe. Hei tāpiri, ka whakahaere te hōtaka i ngā pūrere oro mā ngā tukanga pūnaha kua wehea, kia tino tika te putanga oro, kia kore hoki e aukati ahakoa e taumaha ana te whakamahinga o te pūnaha — kia kore ai te oro e mutu ina tino hira.
 
-💡 He pai te whakaraupapa, kua rite tonu mō te tīmata  
-He atanga hou, pouri hoki, he mārama te hanganga, he ngāwari te mārama, ā, he mea hanga mō te mahi rere pai. Mā te aratau mata-katoa e whakakotahi te aro ki te pūoro — kāore he whakararuraru.
+⌨️ He tere mā te papapātuhi
+Ka taea te tautapa i ngā mahi auau ki ngā pokatata papapātuhi ka whakaritea e koe — mai i te whakarongo arokē me te peke i te whakatangi taringa, tae atu ki te whakauru i ngā waiata kua kōwhiria ki te rārangipāpāho. Mā konei ka rere pai te mahi DJ, tae atu ki te whakamahi i tētahi papapātuhi pātene ka taea te hōtaka.
 
-🔒 Kei te pūrere anake  
-Ka mahi a InstantDj me ō kōnae kei runga tonu i tō pūrere. Kāore he tukuake, he takiuru, he aroturuki, he pūkete rānei — kāore hoki he hononga ipurangi e hiahiatia ana. Kia mōhio: mō te uru pūkoro, me whai whatunga ā-rohe, me whai hononga ipurangi rānei, i runga i te āhua i whirihorahia ai e koe te uru pūkoro.
+💡 He raupapa, kua rite tonu ki te tīmata
+He mārama te whakatakotoranga o te atanga hou, pōuri, he ngāwari ki te mārama, ā, he mea hanga mō te mahi rere pai. Mā te aratau mata-katoa e whakakōkiri te waiata ki te pokapū — me te kore whakararuraru.
 
-🔇 Ehara mō te mahi DJ ngaio  
-Kāore tēnei taupānga i hangaia mō te whakaranu DJ ngaio me ngā deck maha, ngā sampler, ngā loop, ngā kaiwhakahaere MIDI, ngā pūrere ā-waho, te remixing ora, te scratch, te beatmatching, te key-matching, me ērā atu.
+🔇 Ehara mō te mahi DJ ngaio
+Kāore tēnei taupānga i hangaia mō te whakaranu DJ ngaio me ngā deck maha, ngā sampler, ngā koromeke, ngā pūmana MIDI, ngā pūrere ā-waho, te whakaranu ora, te scratch, te Beatmatching, te Key-Matching, aha atu.

@@ -1,71 +1,72 @@
-InstantDj e tlhamilwe ke DJ yo o ineetseng wa Ballroom, motantshi le motsweletsi wa mananeo, ka maikaelelo a go dira aplikeishene ya DJ e e bonolo go e dirisa - e se na bothata le ditshenyegelo tsa mananeo a porofešenale a DJ, mme e na le ditiro tse dintsi go feta sebapadi se se tlwaelegileng sa mmino kgotsa melapo ya inthanete.  
-Mo teng ga aplikeishene go dira tiriso ya porofešenale ya modumo e e nang le taolo ya modumo, go fetolwa ga lebelo, kompresara, limiter, go lemogiwa ga tidimalo kwa tshimologong le kwa bokhutlong, mmogo le ditlamorago tse dintsi - go dira modumo o o nonofileng, o o lekalekanang, o o utlwalang sentle ka go tshwana mo pineng nngwe le nngwe.  
-O ka baakanya pina e e latelang ka tidimalo ka ditsebe, fa bareetsi ba setse ba reeditse pina e e tshamekiwang, kgotsa wa letla maitseboa otlhe a tsamaya ka go itirisa ka diphetogo tse di borethe mme di tlhaloganyega sentle.
+InstantDj e tlhamilwe ke DJ wa Ballroom yo o ineetseng, motantshe le motsweletsi wa disoftware ka maikaelelo a go dira app ya DJ e e bonolo go e dirisa - ntle le bothata le ditshenyegelo tsa disoftware tsa porofešenale tsa DJ, mme e na le ditiro tse dintsi go feta seletsammino kgotsa seletsastream se se bonolo.
+Mo teng ga app go dira tsamaiso ya porofešenale ya go dira modumo, e e nang le taolo ya modumo, phetolo ya lebelo, compressor, limiter, go lemoga tidimalo kwa tshimologong le kwa bokhutlong, mmogo le ditlamorago tse dintsi - gore modumo o nne o o nonofileng, o o lekalekaneng, o o utlwalang sentle ka go tshwana go tswa mo pineng go ya go e nngwe.
+O ka baakanya ka boiketlo pina e e latelang ka di-headphone, fa bareetsi ba setse ba reeditse pina e e tshamekang, kgotsa wa letla maitseboa otlhe a tsamaya ka go itirisa ka diphetogo tse di borethe mme di tlhaloganyesega sentle.
 
 E siametse:
-- Go itumelela mmino kwa gae ka boleng jo bo kwa godimo jwa modumo le go e laola ka founo ya botlhale
-- Mekete ya sephiri ya go tshameka mmino ka remote control, o sa tlhoke go nna fa khomputareng ka bowena
-- Mefuta yotlhe ya ditiragalo tsa motantsho wa Ballroom tse dipina tsa tsone di kgaogantsweng sentle
-- Mekete ya motantsho e mennye le e e magareng, mmogo le ditiragalo tsa social dance tse batho ba refosanang balekane
-- Manyalo, matsalo, mekete ya mekgatlho, jalo le jalo
-- Dithuto tsa motantsho, di-workshop le maitseboa a boitlwaetso, kwa go tlhokegang gore kgetho ya pina, lebelo, bogodimo jwa modumo, jalo le jalo di fetolwe ka kgololesego
-- Barutisi ba dithuto ba ba batlang go simolola pina le go laola bogodimo jwa modumo ba le mo lebaleng la motantsho  
-🡆 Aplikeishene eno e diretswe bareetsi ba ba batlang go bina kgotsa go reetsa mmino o o batlang o tshwana le wa kwa tshimologong, mme pina nngwe le nngwe e nne e kgaogantswe sentle. Ka jalo, aplikeishene eno ga e a dirwa gore e dire live remixing ka beatmatching.
+- Go itumelela mmino kwa gae ka boleng jo bo kwa godimo jwa modumo le taolo ya mobile ka smartphone
+- Mekete ya poraefete ya go tshameka mmino ka remote control, kwa o sa tlhokeng go nna fa pele ga khomphiutha
+- Mefuta yotlhe ya ditiragalo tsa Ballroom dance tse dipina tsa tsone di kgaogantsweng sentle
+- Mekete e mennye le e e magareng ya tantshe le ditiragalo tsa Social Dance tse balekane ba fetolanang mo go tsone
+- Manyalo, matsalo, meletlo ya mekgatlho, jj.
+- Dithuto tsa tantshe, dithupelo le maitseboa a go ikatisa, kwa dipina, lebelo, modumo, jj. di tshwanetseng go baakanngwa ka go fetofetoga
+- Barutisi ba dithuto ba ba batlang go simolola le go laola modumo ba le mo mokatong wa tantshe
+🡆 App eno e diretswe bareetsi ba ba batlang go bina kgotsa go reetsa mmino o o batlang o le wa kwa tshimologong ka mo go ka kgonegang, mme pina nngwe le nngwe e tshwanetse go nna e kgaogantswe sentle. Ka jalo, go tsenya mmino o mosha ka nako ya go tshameka o dirisa beatmatching go tlogetswe ka boomo mo app eno.
 
 
-## Kakaretso ya ditiro tsa botlhokwa
+Kakaretso ya ditiro tsa botlhokwa
 
-🎛️ Taolo e e tseneletseng ya modumo le ditlamorago - e ka bolokwa ka nosi mo pineng nngwe le nngwe  
-🎧 Dikgonagalo tse pedi tse di kgaogantsweng tsa modumo: kgoro e kgolo ya bareetsi le kgoro ya ditsebe ya go reetsa pele  
-🎚️ Go tshameka ka go itirisa gotlhelele ka go lemoga tidimalo kwa tshimologong le kwa bokhutlong, ka jalo go dira diphetogo tse di nepagetseng (go tshameka ka go itirisa)  
-🔊 Normalizer e e fetolang go ya ka maemo a modumo gore bogodimo jwa modumo bo nne bongwe ka metlha, le kompresara ya modumo o o laolesegileng  
-📈 Pontsho ya waveform, spectrum le BPM ka nako ya nnete  
-📂 Sebatli sa dipina se se kopantsweng le patlo, go tlhatlhamanya ka BPM, ditekanyetso, tse di tshamekilweng la bofelo, jalo le jalo  
-📱 Taolo ya remote ka founo ya botlhale e e nang le live-audiostream e e ka fetolwang (kgoro e kgolo kgotsa go reetsa pele)  
-⭐ Ditekanyetso mmogo le mefuta ya mmino/metantsho le ditlhopha tsa go rulaganya pokello ya gago ya mmino  
-💾 Go boloka, go laisa le go boloka ka go itirisa manane a dipina a a nang le dithulaganyo tse di rileng mo pineng nngwe le nngwe  
-✨ Tshekatsheko e e botlhale ya kwa morago ya boleele, BPM, level, diphetogo tsa modumo, kabo ya maqhubu le tse dingwe  
-🎵 Tshegetso ya difomete tsotlhe tse di tlwaelegileng le tsa boleng jo bo kwa godimo tsa modumo  
-⌚ Go bonela pele ka nepo nako ya tshimologo ya go tshameka ya dipina tsotlhe tse di sa ntseng di tla
+🎛️ Phetolelo e e tseneletseng ya modumo le ditlamorago - e ka bolokwa ka bongwe mo pineng nngwe le nngwe
+🎧 Dikgonyeletso tse pedi tse di kgaoganeng tsa modumo: kgonyeletso e kgolo ya bareetsi le kgonyeletso ya di-headphone ya go reetsa pele
+🎚️ Go tshameka ka go itirisa gotlhelele ka go lemoga tidimalo kwa tshimologong le kwa bokhutlong, mme ka jalo go dira diphetogo tse di nepileng (Auto-Wiedergabe)
+🔊 Normalizer e e fetofetogang ya go nna le modumo o o lekanang ka dinako tsotlhe, le compressor ya modumo o o laolesegileng
+✀ Kgaoganyo ya dipina tsa modumo ka AI - totobatsa kgotsa didimatse ka go fetofetoga mantsoe, meropa, bass le didirisiwa tse dingwe
+📈 Pontsho ya waveform, spectrum le BPM ka nako ya nnete
+📂 Sebatli sa dipina se se kopantsweng, se se nang le go batla, go tlhaola ka BPM, tekanyetso, tse di tshamekilweng bosheng, jj.
+📱 Taolo ya smartphone ka remote control e e nang le live-audiostream e e ka fetolwang (kgonyeletso e kgolo kgotsa go reetsa pele)
+⭐ Ditekanyetso mmogo le mefuta ya mmino/metantsho le dikarolo tsa go rulaganya pokello ya gago ya mmino
+💾 Boloka, laela le go boloka ka go itirisa di-playlist tse di nang le dithulaganyo tse di kgethegileng mo pineng nngwe le nngwe
+✨ Tshekatsheko e e botlhale ya kwa morago ya boleele, BPM, bogodimo jwa modumo, maatla a modumo, kabo ya maqhubu le tse dingwe
+🎵 Tshegetso ya mefuta yotlhe e e tlwaelegileng le ya maemo a a kwa godimo ya modumo
+⌚ Pelepalo e e nepileng ya nako ya go simolola go tshameka ya dipina tsotlhe tse di sa ntseng di tla
 
 
-## Dintlha tse di botlhokwa
+Dintlha tse di kgethegileng
 
-🎧 Reetsa pina e e latelang pele ka nako e le nngwe jaaka DJ wa nnete  
-InstantDj e tshegetsa dikgoro kgotsa didiriswa tse pedi tsa modumo tse di kgaogantsweng gotlhelele. Ka kgoro e kgolo go tshamekiwa mmino wa bareetsi, mme ka kgoro ya ditsebe o reetsa pina e e latelang ka nako e le nngwe o sa utlwiwe ke ba bangwe, o batla tshimologo e e tshwanetseng mme o baakanya phetogo. Tsela eno ya go dira ke yone e e farologanyang sebapadi se se tlwaelegileng le go nna DJ wa nnete.
+🎧 Go reetsa pina e e latelang ka fa thoko ka nako e le nngwe jaaka DJ wa nnete
+InstantDj e tshegetsa dikgonyeletso kgotsa didirisiwa tse pedi tsa modumo tse di kgaoganeng ka botlalo. Mmino wa bareetsi o tswa ka kgonyeletso e kgolo, fa ka kgonyeletso ya di-headphone o ka reetsa pina e e latelang ka nako e le nngwe mme ba bangwe ba sa e utlwe, o batle ntlha e e tshwanetseng ya go simolola mme o baakanyetse phetogo. Tiriso eno ya tiro ke yone e e farologanyang seletsammino se se bonolo le go nna DJ wa nnete.
 
-🎚️ Ka go itirisa gotlhelele kgotsa ka seatla  
-Ka go tshameka ka go itirisa, lenane la gago la dipina le tsamaya ka bolone mme pina nngwe le nngwe e tsenngwa ka borethe mo go e e latelang - go siametse meketjana e o batlang go itlhokomela dilo tse dingwe mo go yone. Nako nngwe le nngwe fa o batla, o ka boa wa laola ka bowena: dinako tsa go tsenya le go ntsha modumo, go kgabaganya ga dipina le go simolola pina e e latelang pele ga nako di ka bewa ka kgololesego, gape di ka bolokwa ka nosi mo pineng nngwe le nngwe.
+🎚️ Ka go itirisa gotlhelele kgotsa ka seatla
+Ka Auto-Wiedergabe, playlist ya gago e tshameka ka boyone mme e fetolela pina nngwe le nngwe ka bonolo go e e latelang - go siametse mekete kwa o batlang go tlhokomela dilo tse dingwe. Nako nngwe le nngwe fa o batla, o ka boa wa tsaya taolo ka bowena: dinako tsa go tsenya le go ntsha modumo, go kopana ga dipina le go simolola pina e e latelang pele ga nako di ka rulaganngwa ka kgololesego, e bile di ka bolokwa ka bongwe mo pineng nngwe le nngwe.
 
-🎛️ Modumo wa porofešenale o o nang le boteng  
-Fa morago ga tebego e e phepa go na le tiriso ya modumo e e maatla: taolo ya modumo ya dibande tse tharo ya setso (bass, middle le treble), taolo e e kgaogantsweng ya lebelo le bogodimo jwa modumo, kompresara, limiter/maximizer, Harmonic Exciter, go atolosa stereo, Transient Former, echo e e nang le di-preset di le dintsi mmogo le chorus, flanger le phaser. Normalizer e e fetolang go ya ka maemo a modumo e lekalekanya ka go itirisa dikarolo tsa dipina tse di rekotilweng ka bogodimo jo bo farologaneng, gore go se ka ga nna le sepe se se tlhagelelang thata kgotsa se nyelela. Dithulaganyo tsotlhe di ka bolokwa ruri ka nosi mo pineng nngwe le nngwe.
+🎛️ Modumo wa porofešenale o o nang le boteng
+Ka fa tlase ga tebego e e phepa go na le tsamaiso e e maatla ya go dira modumo: taolo ya modumo ya dibande tse tharo ya setso (bass, medumo ya fa gare, medumo e e kwa godimo), taolo e e kgaoganeng ya lebelo le bogodimo jwa modumo, echo, modumo wa phaposi, compressor, limiter/maximizer, Harmonic Exciter, go anamisa stereo, Transientformer e e nang le di-preset tse dintsi, mmogo le chorus, flanger le phaser. Normalizer e e fetofetogang e lekalekanya ka go itirisa dikarolo tsa dipina tse di tsentsweng ka maemo a a farologaneng a modumo, gore go se ka ga nna le se se tlhomologang thata kgotsa se se nyelelang. Dithulaganyo tsotlhe di ka bolokwa ruri mo pineng nngwe le nngwe.
 
-🥁 BPM e bonala ka metlha  
-Go lemogiwa ga BPM ka go itirisa go bona lebelo la dipina tsa gago - le sa fetogeng mo pineng yotlhe, mmogo le le le fetogang ka nako ya nnete go dikologa boemo jwa gone jaanong jwa go tshameka. Mo dipineng tse di nang le mofuta kgotsa mofuta wa motantsho, mafelo a lebelo a mebalabala le tlhaloso e e bonolo go tswa go "bonya thata" go ya go "bonako thata" di bontshiwa fa melelwane ya BPM e setilwe. Ka jalo o ka baakanya lebelo la go tshameka gore le tsamaisane sentle le mofuta wa motantsho wa pina le bareetsi ba gago ba motantsho.
+✀ Kgaoganyo ya dipina tsa modumo ka AI go fitlha go dipina di le 6
+Fa model e e tshwanetseng ya AI e sena go kopololwa, go ka kgaoganngwa dipina tsa modumo di le 6 ka go itirisa: mantsoe, meropa, bass le didirisiwa tse dingwe. Ka jalo o ka totobatsa kgotsa wa didimatse dipina ka bongwe ka go fetofetoga. Mo Windows le Linux, kgaoganyo ya dipina tsa modumo ka AI e tshegediwa ke NVIDIA CUDA, se se dirang gore go dira go nne ka bonako mo e ka nnang ga lesome go feta fa go dirisiwa CPU.
 
-📂 Mmino wa gago o rulagantswe ka tsela e e siameng  
-Sebatli sa dipina se phuruphura didiriswa tsa gago tsa polokelo le difoldara ka bonako jo bogolo - o ka dirisa mokgwa wa Explorer kgotsa difoldara tsa gago tse o itlhophetseng tsone, mme fa o batla se ka akaretsa le difoldara tse di leng mo teng ga difoldara. Tlhopha ka leina, letlha la phetogo, nako ya bofelo e e tshamekilweng, BPM, boleele kgotsa tekanyetso. Difaele tse disha di tlhagelela ka go itirisa ka ntlha ya tlhokomelo ya difoldara, mme ka Drag & Drop o ka gogela dipina ka tlhamalalo mo pokellong kgotsa mo lenaneng la dipina. Ka ditekanyetso tsa dinaledi mmogo le mefuta ya mmino le ditlhopha tsa mebalabala, o ka laola le dipokello tse dikgolo ka bonolo. Dintlha tse di tseneletseng tsa faele ya modumo di bontsha fomete, bitrate, level, diphetogo tsa modumo, karabo ya maqhubu le hisitori yotlhe ya go tshameka.
+🥁 BPM ka metlha e le mo matlhong
+Go lemoga BPM ka go itirisa go bona lebelo la dipina tsa gago - le sa fetogeng mo pineng yotlhe le le fetofetogang ka nako ya nnete go dikologa lefelo la jaanong la go tshameka. Mo dipineng tse di nang le mofuta kgotsa mofuta wa tantshe, fa go beilwe mephato ya BPM, go bontshiwa mafelo a a nang le mebala a lebelo le tlhaloso e e utlwalang go tloga ka "bonya thata" go fitlha ka "bonako thata". Ka jalo o ka baakanya lebelo la go tshameka gore le tsamaisane sentle le mofuta wa tantshe wa pina le bareetsi ba gago ba tantshe.
 
-💾 Manane a dipina a tsamayang le wena  
-Boloka manane a dipina a le mantsi a o a reeletseng maina mme o a laise ka go tobetsa gangwe fela. Manane a gago a bewa ka go itirisa mo didirisiweng tse di tshwanang tsa polokelo tse mmino o tswang mo go tsone - ka jalo o ka a fitlhelela gongwe le gongwe ka thapo ya USB kgotsa hard drive ya kwa ntle, go sa kgathalesege gore lenane le dirilwe mo khomputareng efe. Lenane la dipina la gone jaanong le ka bolokwa ka go itirisa fa o tswala, mme la busediwa gape fa o simolola porokeramo mo nakong e e latelang.
+📂 Mmino wa gago, o rulagantswe sentle
+Sebatli sa dipina se phuruphutha didraeve le difoldara tsa gago ka bonako thata - o ka tlhopha mokgwa wa Explorer kgotsa difoldara tsa gago tse o di tlhophang ka kgololesego, mme fa o batla se ka akaretsa difoldara tse di kwa teng. Tlhaola ka leina, letlha la phetolo, se se tshamekilweng bosheng, BPM, boleele kgotsa tekanyetso. Difaele tse disha di tlhagelela ka go itirisa ka ntlha ya tlhokomelo ya difoldara, mme ka Drag & Drop o ka gogela dipina ka tlhamalalo mo pokellong kgotsa mo playlist. Ka ditekanyetso tsa dinaledi mmogo le mefuta ya mmino le dikarolo tse di nang le mebala, o ka laola le dipokello tse dikgolo motlhofo. Dintlha tse di tseneletseng tsa faele ya modumo di bontsha mofuta, bitrate, bogodimo jwa modumo, maatla a modumo, karabo ya maqhubu le hisitori yotlhe ya go tshameka.
 
-📱 Founo ya gago ya botlhale e nna remote control le sediriswa sa go romela modumo  
-Tsibosa remote control e e kopantsweng (o sa tlhoke go tsenya aplikeishene e nngwe) o dirisa sediriswa sefe fela sa mobile. Skena khoutu ya QR mme o laole InstantDj gongwe le gongwe: simolola le emisa go tshameka, fetola pina, laola bogodimo jwa modumo, fetola tatelano ya lenane la dipina, mme o tsenye dipina tse disha ka sebatli sa dipina sa mobile. Fa o batla, o ka romela modumo wa live ka tlhamalalo mo fonong ya botlhale, fa o tlhoka go tswa mo lefelong la tiragalo mme mokete o tshwanetse go tswelela.
+💾 Di-playlist tse di tsamayang le wena
+Boloka di-playlist di le dintsi tse di nang le maina a o a tlhophileng mme o di laele ka go tobetsa gangwe. Manane a gago a bolokwa ka go itirisa mo didirisiweng tseno tsa polokelo tse mmino o tswang mo go tsone - ka jalo o ka a fitlhelela gongwe le gongwe ka thupa ya gago ya USB kgotsa hard drive ya kwa ntle, go sa kgathalesege gore lenane le dirilwe mo khomphutheng efe. Playlist ya jaanong e ka bolokwa ka go itirisa fa o tswala, mme ya busediwa fa o simolola gape.
 
-⌚ Go bonela pele ka nepo nako ya tshimologo ya go tshameka  
-Nako ya tshimologo ya go tshameka ya dipina tsotlhe tse di sa ntseng di tla mo lenaneng la dipina e balwa le go bontshiwa ka go itirisa. Ka jalo o itse ka metlha gore pina e tla simolola leng, mme o ka rulaganya tsamaiso ya nako ya tiragalo sentle. Palo ya nako e nepagetse go fitlha kwa motsotsong mme e akaretsa dinako tse di beilweng tsa go tsenya le go ntsha modumo, dinako tsa go nna lolea, diphetogo tsa lebelo, jalo le jalo.
+📱 Smartphone ya gago e nna remote control le sedirisiwa sa go amogela streaming
+Dirisa remote control e e agilweng mo teng (ga go tlhokege go tsenya app e e oketsegileng) go tswa mo sedirisiweng sengwe le sengwe sa mobile. Skena QR-code mme o laole InstantDj go tswa gongwe le gongwe: simolola le emisa go tshameka, fetola pina, laola modumo, fetola thulaganyo ya playlist mme o tsenye dipina tse disha o dirisa sebatli sa dipina sa mobile. Fa o batla, o ka bo o romela modumo wa live ka tlhamalalo kwa smartphone, fa o tshwanelwa ke go tswa mo lefelong la tiragalo mme o batla gore mokete o tswelele.
 
-🔌 E ikanyega mo tiragalong nngwe le nngwe  
-Kgoro e kgolo le ya ditsebe di ka bewa ka nosi mo didirisiweng tse di tlhomilweng, wa di naya maina a gago a didiriswa, mme di bo di tsosolosiwa ka go itirisa fela fa sediriswa se bonala. Fa sediriswa sa modumo se kgaoganngwa ka phoso, InstantDj e tswelela go se batla mo morago mme e tsweletse go tshameka fela fa se boa - kgotsa e fetolela go sediriswa se sengwe se o se tlhophileng. Mo godimo ga moo, porokeramo e laola didiriswa tsa modumo ka ditsamaiso tsa tsamaiso tse di kgaogantsweng, gore modumo o tswe ka nepo mme o se ka wa kgaoga le fa tsamaiso e dirisiwa thata - gore go se ka ga nna le tidimalo fa go le botlhokwa.
+⌚ Pelepalo e e nepileng ya nako ya go simolola go tshameka
+Nako ya go simolola go tshameka ya dipina tsotlhe tse di sa ntseng di tla mo playlist e balelwa le go bontshiwa ka go itirisa. Ka jalo o itse ka dinako tsotlhe gore pina e tla simolola leng mme o ka rulaganya sentle tsamaiso ya nako ya tiragalo. Palo ya nako e nepa go fitlha kwa motsotsong mongwe le mongwe mme e akaretsa dinako tse di beilweng tsa go tsenya le go ntsha modumo, dinako tsa go nna lolea, diphetogo tsa lebelo, jj.
 
-⌨️ Ka bonako ka khiboto  
-Ditiro tse di dirwang gantsi di ka abelwa dikgaoletso tsa khiboto tse o ka di rulaganyang ka kgololesego - go simolola ka go reetsa pele le go tlola mo go tshamekiweng ka ditsebe, go fitlha kwa go tsenyeng dipina tse di tlhophilweng mo lenaneng la dipina. Ka jalo go nna bonolo go nna DJ, le fa o dirisa khiboto e e nang le dikonopo tse di rulaganyegang.
+🔌 E tlhomame mo tiragalong nngwe le nngwe
+Dikgonyeletso tse dikgolo le tsa di-headphone di ka bewa ka bongwe mo didirisiweng tse di tlhomilweng, wa di naya maina a gago a didirisiwa mme wa di dirisa gape ka go itirisa fela fa sedirisiwa se bonala. Fa sedirisiwa sa modumo se kgaoganngwa ka phoso, InstantDj e tswelela go se batla kwa morago mme e boe e tsweletse go tshameka fa se boa - kgotsa e fetolele kwa sedirisiweng se sengwe se o se tlhophileng. Mo godimo ga moo, lenaneo le laola didirisiwa tsa modumo le dirisa ditsamaiso tsa system tse di kgaoganeng, gore kgonyeletso ya modumo e nne e e nepileng mme e sa kgaogane le fa system e imetswe thata - gore modumo o se ka wa didimala fa go le botlhokwa.
 
-💡 E rulagantswe sentle mme e siametse go simolola  
-Tebego ya segompieno e e lefifi e rulagantswe sentle, e tlhaloganyega bonolo mme e diretswe go dira ka thelelo. Mokgwa wa skrine yotlhe o baya mmino mo bogareng - go se na dikgoreletsi.
+⌨️ Ka bonako ka keyboard
+Ditiro tse di dirwang gantsi di ka bewa mo dikonopong tsa keyboard tse o ka di tlhophang ka kgololesego - go simolola ka go reetsa pele le go tlola mo go tshamekeng ga di-headphone go fitlha go tsenya dipina tse di tlhophilweng mo playlist. Ka jalo go nna bonolo go nna DJ, le fa o dirisa keyboard e e ka rulaganngwang.
 
-🔒 E dira mo sedirisiweng sa gago fela  
-InstantDj e dira fela ka difaele tsa gago ka tlhamalalo mo sedirisiweng sa gago. Ga go na go romela difaele kwa ntle, ga go na go ikwadisa, ga go na go latediwa, ga go na akhaonto - gape ga go tlhokwe kgolagano ya inthanete. Tlhokomeliso: Gore o kgone go tsena ka mobile, o tlhoka netweke ya selegae le/kgotsa kgolagano ya inthanete, go ikaegile ka gore o rulagantse jang phitlhelelo ya mobile.
+💡 E phepa e bile e siametse go simolola ka bonako
+Sebopego sa segompieno se se lefifi se rulagantswe sentle, se tlhaloganyega motlhofo e bile se diretswe tiro e e tsamayang ka thelelo. Mokgwa wa sekirini se se tletseng o baya mmino kwa pele - ntle le dikgoreletsi.
 
-🔇 Ga se ya DJing ya porofešenale  
-Aplikeishene eno ga e direlwe go kopanya mmino ga DJ wa porofešenale ka di-deck di le dintsi, disampler, di-loop, balaodi ba MIDI, didiriswa tsa kwa ntle, live remixing, go scratcha, beatmatching, key-matching, jalo le jalo.
+🔇 Ga se DJing ya porofešenale
+App eno ga e a direlwa go kopanya mmino ga DJ wa porofešenale ka di-deck tse dintsi, di-sampler, di-loop, MIDI-controller, didirisiwa tsa kwa ntle, go tsenya mmino o mosha ka nako ya go tshameka, go scratcha, beatmatching, key-matching, jj.

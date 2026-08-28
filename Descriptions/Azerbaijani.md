@@ -1,71 +1,72 @@
-InstantDj ایستیفاده‌چی اوچون راحات DJ تطبیقی یاراتماق مقصدی ایله پئشه‌کار Ballroom DJ-ی، رقاص و پروقرام تأمیناتی ترتیباتچیسی طرفیندن حاضیرلانیب — پئشه‌کار DJ پروقراملارینین مورکبلییی و خرجلری اولمادان، ساده موسیقی و یا آخین پلئیریندن ایسه خئیلی چوخ فونکسیا ایله.  
-تطبیقین داخیلینده سس تنظیملمه‌سی، تمپین اویغونلاشدیریلماسی، کمپرسور، لیمیتر، ماهنینین اولینده‌کی و سونونداکی سسسیزلییین آشکارلانماسی و چوخسایلی افکتلری اولان پئشه‌کار اودیو ائمالی ایشله‌ییر — ماهنیدان ماهنییا عینی درجه‌ده گوجلو و بالانسلی سسلنمه اوچون.  
-دینله‌ییجیلر آرتیق جاری ماهنینی ائشیدرکن، نؤوبتی ماهنینی قولاقلیقلا ساکیتجه اؤزونوز اویغونلاشدیرین و یا بوتون آخشاملارین یومشاق، لاکین آیدین کئچیدلرله تام آوتوماتیک دوام ائتمه‌سینه ایمکان وئرین.
+InstantDj həvəsli Ballroom DJ-i, rəqqas və proqram təminatı tərtibatçısı tərəfindən istifadəçi dostu DJ tətbiqi yaratmaq məqsədilə hazırlanıb - peşəkar DJ proqramlarının mürəkkəbliyi və xərcləri olmadan, sadə musiqi və ya yayım pleyerindən xeyli çox funksiyaya malikdir.
+Tətbiqin daxilində səs tənzimlənməsi, tempin uyğunlaşdırılması, kompressor, limiter, başlanğıc/son səssizliyinin aşkarlanması və çoxsaylı effektlərə malik peşəkar audio emalı işləyir - mahnıdan mahnıya eyni dərəcədə yaxşı səslənən güclü, balanslı səs üçün.
+Dinləyicilər artıq səslənən mahnını eşidərkən, növbəti mahnını qulaqlıq vasitəsilə sakitcə özünüz tənzimləyin və ya bütün axşamların yumşaq, lakin aydın müəyyən edilmiş keçidlərlə tam avtomatik davam etməsinə imkan verin.
 
-ایدئال ایستیفاده ساحه‌لری:
-- موکمل سس کئیفیتی و اسمارتفونلا موبیل ایداره‌ائتمه ایله ائوده شخصی موسیقی دینلمک
-- کامپیوتر قارشیسیندا اوتورمانیزا احتیاج اولمادان پولتلا موسیقی سسلندیریلن شخصی تدبیرلر
-- آیدین شکیلده آیریلمیش ماهنیلارلا بوتون نؤوع Ballroom رقص تدبیرلری
-- پارتنیور دییشیمی اولان کیچیک و اورتا اؤلچولو رقص مجلیسلری و سوسیال رقص تدبیرلری
-- تویلار، آد گونلری، کلوب تدبیرلری و س.
-- ماهنی سئچیمینین، تمپین، سس سویه‌سینین و س. چئویک شکیلده اویغونلاشدیریلمالی اولدوغو رقص درسلری، سئمینارلار و مشق آخشاملاری
-- رقص مئیدانچاسیندان باشلانغیجی و سس سویه‌سینی اوزاقدان ایداره ائتمک ایسته‌ین تعلیمچیلر  
-🡆 بو تطبیق موسیقینی مومکون قدر اوریژینال شکیلده رقص ائدرک دینلمک و یا ائشیتمک ایسته‌ین، هر بیر ماهنینین ایسه آیدین شکیلده آیریلمالی اولدوغو آودیتوریا اوچون حاضیرلانیب. بونا گؤره تطبیقده beatmatching ایله جانلی رئمیکسدن شوعورلو شکیلده ایمتینا ائدیلیب.
-
-
-اساس فونکسیالارا عمومی باخیش
-
-🎛️ ماهنی اوزره آیریجا یاددا ساخلانیلا بیلن گئنیش سس و افکت ائمالی  
-🎧 ایکی آیری اودیو چیخیشی: آودیتوریا اوچون اساس چیخیش، اولجه‌دن دینلمه اوچون قولاقلیق چیخیشی  
-🎚️ ماهنینین اولینده‌کی و سونونداکی سسسیزلییین آشکارلانماسی ایله تام آوتوماتیک سسلندیرمه و بونونلا دقیق کئچیدلر (آوتوماتیک سسلندیرمه)  
-🔊 داوامی واحید سس سویه‌سی اوچون دینامیک نورماللاشدیریجی و ایداره اولونان سسلنمه اوچون کمپرسور  
-📈 رئال واخت رئژیمینده دالغا فورماسی، اسپکتر و BPM گؤستریجیسی  
-📂 آختاریش، BPM-ه، رئیتینقه، سون سسلندیریلمه واختینا و س. گؤره چئشیدلمه ایله اینتئقراسیا اولونموش ماهنی براوزری  
-📱 دییشدیریله بیلن جانلی اودیو آخینی (اساس چیخیش و یا اولجه‌دن دینلمه) ایله اسمارتفون پولتو  
-⭐ موسیقی کوللئکسیانیزی تشکیل ائتمک اوچون رئیتینقلر، همچنین ژانرلار/رقصلر و کاتئقوریالار  
-💾 ماهنی اوزره خصوصی پارامترلری اولان چالغی سیاهیلارینی یاددا ساخلاماق، یوکلمک و آوتوماتیک قوروماق  
-✨ اوزونلوغون، BPM-ین، سویه‌نین، دینامیکانین، تئزلیک پایلانماسینین و دیگر گؤستریجیلرین آغیللی فون آنالیزی  
-🎵 بوتون گئنیش یاییلمیش و یوکسک کئیفیتلی اودیو فورماتلارینا دستک  
-⌚ قارشیدا دوران بوتون ماهنیلارین باشلانما واختینین دقیق اولجه‌دن حسابلانماسی
+İdeal istifadə sahələri:
+- Əla səs keyfiyyəti və smartfon vasitəsilə mobil idarəetmə ilə evdə şəxsi musiqi dinləmək
+- Kompüter qarşısında oturmağınıza ehtiyac qalmadan uzaqdan idarəetmə ilə özəl tədbirlərdə musiqi səsləndirmək
+- Mahnıların bir-birindən aydın şəkildə ayrıldığı bütün növ Ballroom rəqs tədbirləri
+- Kiçik və orta ölçülü rəqs partiləri və partnyor dəyişimi olan sosial rəqs tədbirləri
+- Toylar, ad günləri, klub tədbirləri və s.
+- Mahnı seçiminin, tempin, səs səviyyəsinin və s. çevik şəkildə uyğunlaşdırılmalı olduğu rəqs kursları, seminarlar və məşq axşamları
+- Rəqs meydançasından mahnının başlanğıcını və səs səviyyəsini uzaqdan idarə etmək istəyən təlimçilər
+🡆 Bu tətbiq musiqini mümkün qədər orijinal şəkildə rəqs etmək və ya dinləmək istəyən, hər mahnının aydın şəkildə ayrı qalmasını vacib sayan auditoriya üçün hazırlanıb. Buna görə də bu tətbiqdə beatmatching ilə canlı remiksdən şüurlu şəkildə imtina edilib.
 
 
-اساس مقاملار
+Vacib funksiyalara ümumi baxış
 
-🎧 اصل DJ کیمی پارالئل اولجه‌دن دینلمه  
-InstantDj ایکی تامامیله آیری اودیو چیخیشینی و یا جهازینی دستکله‌ییر. اساس چیخیش واسیطه‌سیله موسیقی آودیتوریانیز اوچون سسلنیر، قولاقلیق چیخیشی واسیطه‌سیله ایسه باشقالارینین ائشیتمه‌دییی شکیلده نؤوبتی ماهنینی پارالئل دینله‌ییر، اویغون باشلانغیج نؤقطه‌سینی آختاریر و کئچیدی حاضیرلاییرسینیز. محض بو ایش آخینی ساده پلئیرله اصل DJ-لیک آراسینداکی فرقی یارادیر.
+🎛️ Geniş səs və effekt emalı - hər mahnı üçün ayrıca yadda saxlanıla bilər
+🎧 İki ayrı audio çıxışı: dinləyicilər üçün əsas çıxış, öncədən dinləmək üçün qulaqlıq çıxışı
+🎚️ Başlanğıc/son səssizliyinin aşkarlanması ilə tam avtomatik səsləndirmə və bununla da dəqiq keçidlər (avtomatik səsləndirmə)
+🔊 Davamlı eyni səs səviyyəsi üçün dinamik normallaşdırıcı və idarə olunan səs üçün kompressor
+✀ Süni intellektlə audio treklərinin ayrılması - vokalı, zərb alətlərini, bası və digər alətləri dinamik şəkildə ön plana çıxarmaq və ya səssizləşdirmək
+📈 Dalğa forması, spektr və BPM göstəricisi real vaxt rejimində
+📂 Axtarış, BPM-ə, reytinqə, son səsləndirilməyə və s. görə çeşidləmə daxil olmaqla inteqrasiya edilmiş mahnı brauzeri
+📱 Dəyişdirilə bilən canlı audio axını (əsas çıxış və ya ön dinləmə) ilə smartfon vasitəsilə uzaqdan idarəetmə
+⭐ Musiqi kolleksiyanızı təşkil etmək üçün reytinqlər, janrlar/rəqslər və kateqoriyalar
+💾 Mahnıya xas parametrlərlə çalğı siyahılarını yadda saxlamaq, yükləmək və avtomatik qorumaq
+✨ Uzunluğun, BPM-in, səviyyənin, dinamikanın, tezlik paylanmasının və s. ağıllı fon analizi
+🎵 Bütün geniş yayılmış və yüksək keyfiyyətli audio formatlarına dəstək
+⌚ Qarşıda olan bütün mahnıların başlanma vaxtının dəqiq əvvəlcədən hesablanması
 
-🎚️ تام آوتوماتیک و یا ال ایله  
-آوتوماتیک سسلندیرمه ایله چالغی سیاهینیز موستقیل شکیلده دوام ائدیر و هر ماهنینی نؤوبتی ماهنییا یومشاق کئچیدله بیرلشدیریر — دقتینیزی باشقا ایشلره آییرماق ایسته‌دیینیز مجلیسلر اوچون ایدئالدیر. ایسته‌دیینیز زامان ایداره‌ائتمه‌نی یئنیدن اؤز اوزرینیزه گؤتوره بیلرسینیز: گیریش و چیخیش سؤنوملنمه مودتلرینی، ماهنیلارین اوست-اوسته دوشمه‌سینی و نؤوبتی ماهنینین داها ائرکن باشلاماسینی سربست شکیلده تنظیملمک، حتی بونلاری هر ماهنی اوچون آیریجا یاددا ساخلاماق مومکوندور.
 
-🎛️ درینلیکلی پئشه‌کار سس  
-آیدین اینترفئیسین آرخاسیندا گوجلو اودیو ائمالی دایانیر: کلاسیک اوچ‌زولاقلی سس تنظیملمه‌سی (باس، اورتا تئزلیکلر، یوکسک تئزلیکلر)، تمپ و سس یوکسکلییینین آیری-آیریلیقدا ایداره ائدیلمه‌سی، کمپرسور، لیمیتر/ماکسیمایزر، هارمونیک اکسایتر، استریونون گئنیشلندیریلمه‌سی، ترانزیئنت فورمالاشدیریجی، چوخسایلی حاضیر پارامترلری اولان عکس-صدا، همچنین خوروس، فلانجئر و فازئر. دینامیک نورماللاشدیریجی موختلیف سویه‌لرده تنظیملنمیش ماهنی حیصه‌لرینی آوتوماتیک اویغونلاشدیریر کی، هئچ نه حدیندن آرتیق اؤنه چیخماسین و یا ایتیب گئتمه‌سین. بوتون پارامترلری هر ماهنی اوزره دایمی ساخلاماق مومکوندور.
+Əsas xüsusiyyətlər
 
-🥁 BPM همیشه گؤز اؤنونده  
-آوتوماتیک BPM آشکارلانماسی ماهنیلارینیزین تمپینی موعین ائدیر — بوتون ماهنی اوچون ثابیت شکیلده و جاری سسلندیرمه موقعینین اطرافیندا رئال واخت رئژیمینده دینامیک اولاراق. ژانری و یا تیپی موعین ائدیلمیش ماهنیلار اوچون، تعیین اولونموش BPM دیاپازونلارینا اساسن رنگلی سورعت زونالاری و "چوخ یاواش"دان "چوخ سورعتلی"یه قدر آنلاشیلان تصنیفات مؤوجوددور. بئله‌لیکله، سسلندیرمه سورعتینی ماهنینین رقص نؤوعونه و رقص ائدن آودیتوریانیزا اویغون اوپتیمال شکیلده تنظیمله‌یه بیلرسینیز.
+🎧 Əsl DJ kimi paralel ön dinləmə
+InstantDj iki tamamilə ayrı audio çıxışını və ya cihazını dəstəkləyir. Əsas çıxışdan musiqi dinləyiciləriniz üçün səslənir, qulaqlıq çıxışından isə başqalarının eşitmədiyi şəkildə növbəti mahnını paralel olaraq öncədən dinləyir, uyğun başlanğıc nöqtəsini axtarır və keçidi hazırlayırsınız. Məhz bu iş axını sadə pleyerlə əsl DJ işi arasındakı fərqi yaradır.
 
-📂 موسیقینیز موکمل تشکیل اولونوب  
-ماهنی براوزری دیسکلرینیزی و قوولوقلارینیزی ایلدیریم سورعتی ایله آختاریر — ایستگه گؤره Explorer رئژیمینده و یا سربست سئچیله بیلن اؤز قوولوقلارینیز واسیطه‌سیله، احتیاج اولدوقدا آلت قوولوقلار داخیل اولماقلا رئکورسیو شکیلده. آد، دییشدیریلمه تاریخی، سون سسلندیریلمه واختی، BPM، اوزونلوق و یا رئیتینقه گؤره چئشیدله‌یین. قوولوق ایزلمه‌سی سایه‌سینده یئنی فایللار آوتوماتیک گؤرونور، سوروکله‌ییب بوراخماقلا ایسه ماهنیلاری بیرباشا کوللئکسیانیزا و یا چالغی سیاهینیزا علاوه ائده بیلرسینیز. اولدوز رئیتینقلری، رنگلی ژانرلار و کاتئقوریالارلا بؤیوک موسیقی کیتابخانالارینی بئله آسانلیقلا ایداره ائده بیلرسینیز. اطرافلی اودیو فایل خصوصیتلری فورماتی، بیت سورعتینی، سویه‌نی، دینامیکانی، تئزلیک خاراکتئریستیکاسینی و تام سسلندیرمه تاریخچه‌سینی گؤستریر.
+🎚️ Tam avtomatik və ya əl ilə
+Avtomatik səsləndirmə ilə çalğı siyahınız müstəqil şəkildə ardıcıl ifa olunur və hər mahnı yumşaq keçidlə növbəti mahnıya birləşdirilir - başqa işlərlə məşğul olmaq istədiyiniz tədbirlər üçün idealdır. Nə vaxt istəsəniz idarəetməni yenidən öz üzərinizə götürə bilərsiniz: giriş və çıxış keçidlərinin müddətini, mahnıların üst-üstə düşməsini və növbəti mahnının daha erkən başlamasını sərbəst şəkildə tənzimləmək, hətta bu parametrləri hər mahnı üçün ayrıca yadda saxlamaq mümkündür.
 
-💾 سیزینله بیرلیکده هر یئره گئدن چالغی سیاهیلاری  
-ایسته‌نیلن سایدا آدلاندیریلمیش چالغی سیاهیسی ساخلایین و اونلاری بیر کلیکله یوکله‌یین. سیاهیلارینیز آوتوماتیک اولاراق موسیقینین یئرلشدییی عینی معلومات داشییجیلاریندا ساخلانیلیر — بئله‌لیکله سیاهینین هانسی کامپیوترده یارادیلماسیندان آسیلی اولمایاراق، USB یادداشینیز و یا خاریجی سرت دیسکینیز واسیطه‌سیله هر یئرده اونلارا چیخیشینیز اولور. جاری چالغی سیاهیسی ایستگه گؤره پروقرام باغلانارکن آوتوماتیک قورونور و نؤوبتی باشلادیلمادا برپا ائدیلیر.
+🎛️ Dərin imkanlara malik peşəkar səs
+Aydın interfeysin arxasında güclü audio emalı dayanır: klassik üçzolaqlı səs tənzimlənməsi (bas, orta və yüksək tezliklər), ayrıca temp və ton hündürlüyü idarəetməsi, exo, məkan səsi, kompressor, limiter/maksimayzer, harmonik eksayter, çoxsaylı hazır parametrlərə malik stereo genişləndirici və transient formalaşdırıcı, həmçinin chorus, flanger və phaser. Dinamik normallaşdırıcı səs səviyyəsi fərqli tənzimlənmiş mahnı hissələrini avtomatik uyğunlaşdırır ki, heç nə həddindən artıq önə çıxmasın və ya itib getməsin. Bütün parametrləri hər mahnı üçün daimi olaraq yadda saxlamaq mümkündür.
 
-📱 اسمارتفونونوز پولتا و آخین یاییمی چیخیش جهازینا چئوریلیر  
-اینتئقراسیا ائدیلمیش اوزاقدان ایداره‌ائتمه‌نی (علاوه تطبیق قورمادان) ایسته‌نیلن موبیل جهازدان آکتیولشدیرین. QR کودو اسکن ائدین و InstantDj-نی ایسته‌نیلن یئردن ایداره ائدین: سسلندیرمه‌نی باشلادین و دایاندیرین، ماهنیلاری دییشین، سس سویه‌سینی تنظیمله‌یین، چالغی سیاهیسینین سیراسینی دییشین و موبیل ماهنی براوزری واسیطه‌سیله یئنی ماهنیلاری نؤوبه‌یه علاوه ائدین. ایسته‌سه‌نیز، تدبیر مکانینی ترک ائتمه‌لی اولدوغونوز، لاکین مجلیسین دوام ائتمه‌لی اولدوغو حاللاردا جانلی سسی بیرباشا اسمارتفونونوزا دا یاییملایا بیلرسینیز.
+✀ 6 trekdək audio treklərinin süni intellektlə ayrılması
+Uyğun süni intellekt modeli yükləndikdən sonra 6-dək audio trek avtomatik ayrıla bilər: vokal, zərb alətləri, bas və digər alətlər. Beləliklə, ayrı-ayrı trekləri dinamik şəkildə ön plana çıxara və ya səssizləşdirə bilərsiniz. Windows və Linux sistemlərində süni intellektlə audio treklərinin ayrılması NVIDIA CUDA ilə dəstəklənir və emalı CPU ilə müqayisədə təxminən on dəfə sürətləndirir.
 
-⌚ باشلانما واختینین دقیق اولجه‌دن حسابلانماسی  
-چالغی سیاهیسیندا قارشیدا دوران بوتون ماهنیلارین سسلندیریلمه واختی آوتوماتیک حسابلانیر و گؤستریلیر. بئله‌لیکله، ماهنینین نه واخت باشلایاجاغینی هر آن بیلیرسینیز و تدبیرین واخت گئدیشاتینی اوپتیمال شکیلده پلانلاشدیرا بیلرسینیز. واخت حسابلاماسی ثانیه‌سینه قدر دقیقدیر و تعیین ائدیلمیش گیریش و چیخیش سؤنوملنمه مودتلرینی، بوشلوق واختلارینی، تمپ اویغونلاشدیرمالارینی و س. نظره آلیر.
+🥁 BPM hər zaman göz önündə
+Avtomatik BPM aşkarlanması mahnılarınızın tempini müəyyən edir - bütün mahnı üçün statik şəkildə və cari oxutma mövqeyinin ətrafında real vaxt rejimində dinamik olaraq. Janrı və ya növü olan, BPM diapazonları təyin edilmiş mahnılar üçün rəngli sürət zonaları və "çox yavaş"dan "çox sürətli"yədək anlaşılan təsnifat göstərilir. Beləliklə, oxutma sürətini mahnının rəqs növünə və rəqs edən auditoriyanıza uyğun optimal şəkildə tənzimləyə bilərsiniz.
 
-🔌 هر چیخیشدا ثابیت ایشله‌ییر  
-اساس و قولاقلیق چیخیشلاری ثابیت جهازلارا آیریجا تعیین ائدیله، اونلارا خصوصی جهاز آدلاری وئریله و جهاز الچاتان اولدوقدا آوتوماتیک یئنیدن آکتیولشدیریله بیلر. اودیو جهازی سهون آیریلارسا، InstantDj آرخا پلاندا همین جهازی آختارماغا دوام ائدیر و جهاز گئری قاییدان کیمی سسلندیرمه‌نی دوام ائتدیریر — و یا سئچدیینیز باشقا جهازا کئچیر. بوندان علاوه، پروقرام اودیو جهازلارینی تجرید اولونموش سیستم پروسئسلری واسیطه‌سیله ایداره ائدیر؛ بئله‌لیکله اودیو چیخیشی دقیق و حتی سیستم گوجلو یوکلنرکن بئله فاصیله‌سیز اولور — واجیب آندا سسین کسیلمه‌مه‌سی اوچون.
+📂 Musiqiniz mükəmməl şəkildə təşkil olunub
+Mahnı brauzeri disklərinizi və qovluqlarınızı ildırım sürəti ilə axtarır - istəyə görə Explorer rejimində və ya özünüz seçdiyiniz qovluqlar vasitəsilə, alt qovluqlar daxil olmaqla rekursiv şəkildə. Ad, dəyişdirilmə tarixi, son səsləndirilmə, BPM, uzunluq və ya reytinqə görə çeşidləyin. Qovluq izləməsi sayəsində yeni fayllar avtomatik görünür, sürüklə və burax vasitəsilə mahnıları birbaşa kolleksiyanıza və ya çalğı siyahınıza əlavə edə bilərsiniz. Ulduz reytinqləri, eləcə də rəngli janrlar və kateqoriyalar sayəsində böyük musiqi kitabxanalarını da asanlıqla idarə edirsiniz. Ətraflı audio fayl xüsusiyyətləri formatı, bit sürətini, səviyyəni, dinamikanı, tezlik xarakteristikasını və tam səsləndirmə tarixçəsini göstərir.
 
-⌨️ کلاویاتورا ایله سورعتلی ایداره‌ائتمه  
-تئز-تئز ایستیفاده اولونان عملیاتلاری سربست تعیین ائدیله بیلن کلاویاتورا قیسایوللارینا باغلاماق مومکوندور — قولاقلیقلا اولجه‌دن دینلمکدن و سسلندیرمه‌ده ایره‌لی-گئری کئچمکدن توتموش سئچیلمیش ماهنیلاری چالغی سیاهیسینا علاوه ائتمه‌یه قدر. بئله‌لیکله، پروقراملاشدیریلا بیلن دویمه پانئلی ایله بئله DJ-لیک روان شکیلده حیاتا کئچیریلیر.
+💾 Sizinlə səyahət edən çalğı siyahıları
+İstənilən sayda adlandırılmış çalğı siyahısı yadda saxlayın və onları bir kliklə yükləyin. Siyahılarınız avtomatik olaraq musiqinin yerləşdiyi eyni yaddaş qurğularında saxlanılır - beləliklə, siyahının hansı kompüterdə yaradılmasından asılı olmayaraq, USB yaddaşınız və ya xarici sabit diskiniz vasitəsilə onlara hər yerdə girişiniz olur. İstəyə görə cari çalğı siyahısı proqramdan çıxarkən avtomatik qorunur və növbəti başlanğıcda bərpa edilir.
 
-💡 صلیقه‌لی و درحال ایستیفاده‌یه حاضیر  
-موعاصیر، توند اینترفئیس آیدین شکیلده قورولوب، آسان باشا دوشولور و راحات ایشلمک اوچون نظرده توتولوب. تام اکران رئژیمی دقتی یاییندیرمادان موسیقینی اؤن پلانا چیخاریر.
+📱 Smartfonunuz uzaqdan idarəetmə və yayım çıxış cihazına çevrilir
+İnteqrasiya edilmiş uzaqdan idarəetməni əlavə tətbiq quraşdırmadan istənilən mobil cihazdan aktivləşdirin. QR kodu skan edin və InstantDj-ni istənilən yerdən idarə edin: səsləndirməni başladın və dayandırın, mahnıları dəyişin, səs səviyyəsini tənzimləyin, çalğı siyahısının sırasını dəyişin və mobil mahnı brauzeri vasitəsilə yeni mahnıları növbəyə əlavə edin. İstəyə görə, tədbir məkanını tərk etməli olduğunuz və buna baxmayaraq məclisin davam etməsini istədiyiniz zaman canlı səsi birbaşa smartfonunuza da yayımlaya bilərsiniz.
 
-🔒 تامامیله لوکال  
-InstantDj یالنیز جهازینیزداکی فایللارلا، بیرباشا همین جهازدا ایشله‌ییر. یوکلمه یوخدور، قئیدیات یوخدور، ایزلمه یوخدور، حساب یوخدور — اینترنت باغلانتیسی دا طلب اولونمور. قئید: موبیل گیریش اوچون، موبیل گیریشی نئجه کونفیقوراسیا ائتدیینیزدن آسیلی اولاراق، البته کی، لوکال شبکه و/و یا اینترنته چیخیش لازیمدیر.
+⌚ Başlanma vaxtının dəqiq əvvəlcədən hesablanması
+Çalğı siyahısında hələ qarşıda olan bütün mahnıların başlama vaxtı avtomatik hesablanır və göstərilir. Beləliklə, mahnının nə vaxt başlayacağını hər an bilirsiniz və tədbirin vaxt axınını optimal şəkildə planlaşdıra bilərsiniz. Vaxt hesablaması saniyəsinə qədər dəqiqdir və təyin edilmiş giriş və çıxış keçidlərinin müddətini, boşluq vaxtlarını, temp uyğunlaşdırmalarını və s. nəzərə alır.
 
-🔇 پئشه‌کار DJ-لیک اوچون دئییل  
-بو تطبیق چوخسایلی دئکلی پئشه‌کار DJ میکسینقی، سئمپلئرلر، loop-لار، MIDI کونتروللئرلری، خاریجی جهازلار، جانلی رئمیکس، جیزما، beatmatching، تون اویغونلاشدیرماسی و س. اوچون نظرده توتولماییب.
+🔌 Hər çıxışda stabil
+Əsas və qulaqlıq çıxışlarını ayrı-ayrılıqda sabit cihazlara təyin etmək, öz cihaz adlarınızı vermək və cihaz əlçatan olduqda onları avtomatik yenidən aktivləşdirmək mümkündür. Audio cihazı təsadüfən ayrılsa, InstantDj arxa planda cihazı axtarmağa davam edir və cihaz geri qayıtdıqda oxutmanı davam etdirir - yaxud seçdiyiniz başqa cihaza keçir. Bundan əlavə, proqram audio cihazlarını təcrid olunmuş sistem prosesləri vasitəsilə idarə edir; beləliklə, hətta sistem güclü yüklənəndə də audio çıxışı dəqiq və fasiləsiz olur - vacib anda heç nə səssiz qalmasın.
+
+⌨️ Klaviatura ilə sürətli idarəetmə
+Tez-tez istifadə olunan əməliyyatlara sərbəst təyin edilə bilən klaviatura qısayolları verə bilərsiniz - qulaqlıqla öncədən dinləməkdən və qulaqlıq oxutmasında irəli-geri keçməkdən tutmuş seçilmiş mahnıları çalğı siyahısına əlavə etməyə qədər. Proqramlaşdırıla bilən klaviatura ilə belə, DJ işi rahat və axıcı şəkildə görülür.
+
+💡 Səliqəli və dərhal istifadəyə hazır
+Müasir, tünd interfeys aydın qurulub, asan başa düşülür və rahat işləmək üçün nəzərdə tutulub. Tam ekran rejimi diqqəti yayındırmadan musiqini ön plana çıxarır.
+
+🔇 Peşəkar DJ işi üçün deyil
+Bu tətbiq çoxsaylı deck-lər, sampler-lər, loop-lar, MIDI kontrollerləri, xarici cihazlar, canlı remiks, scratch, beatmatching, key matching və s. ilə peşəkar DJ miksinqi üçün nəzərdə tutulmayıb.
