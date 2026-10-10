@@ -101,7 +101,7 @@ This app is not intended for professional DJ mixing with multiple decks, sampler
 | Platform | Availability |
 |----------|--------------|
 | **Windows** | [Microsoft Store](https://apps.microsoft.com/detail/9phr4qq9jgc7) |
-| **macOS** | App Store — coming soon |
+| **macOS** | [Mac App Store](https://apps.apple.com/app/instantdj-desktop/id6806766089) |
 | **Linux** | **Free of charge** — download below from [Releases](../../releases/latest) |
 
 ## Linux downloads
