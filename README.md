@@ -145,6 +145,7 @@ cd InstantDj
 ### System requirements
 
 - 64-bit Linux (x86_64)
+- glibc 2.28 or newer
 - X11 or Wayland desktop session
 - PulseAudio or PipeWire audio server
 
