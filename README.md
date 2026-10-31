@@ -2,6 +2,8 @@
 
 InstantDj is a DJ application for parties, events and mobile DJs. Preview, play, and control your music on the go like a DJ — professional sound and precise transitions. InstantDj combines main playback, headphone preview, playlist management and Song Browser in one shared workspace.
 
+🎬 **[Take the animated product tour](https://www.appshines.com/instantdj/)** to see InstantDj and its features in action.
+
 📖 The full app description below is also available in **[over 100 other languages](Descriptions)**.
 
 ![InstantDj main window](Assets/screenshots/screenshot-1.jpg)
