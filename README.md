@@ -9,16 +9,23 @@ InstantDj is a DJ application for parties, events and mobile DJs. Preview, play,
 ![InstantDj main window](Assets/screenshots/screenshot-1.jpg)
 
 <p>
-  <img src="Assets/screenshots/screenshot-2.jpg" width="49%" alt="Screenshot 2" />
-  <img src="Assets/screenshots/screenshot-3.jpg" width="49%" alt="Screenshot 3" />
+  <img src="Assets/screenshots/screenshot-2.jpg" width="49%" alt="Remote control on smartphones" />
+  <img src="Assets/screenshots/screenshot-3.jpg" width="49%" alt="Effects on the headphone player" />
 </p>
 <p>
-  <img src="Assets/screenshots/screenshot-4.jpg" width="49%" alt="Screenshot 4" />
-  <img src="Assets/screenshots/screenshot-5.jpg" width="49%" alt="Screenshot 5" />
+  <img src="Assets/screenshots/screenshot-4.jpg" width="49%" alt="Settings: audio devices and microphones" />
+  <img src="Assets/screenshots/screenshot-5.jpg" width="49%" alt="Genres and categories" />
 </p>
 <p>
-  <img src="Assets/screenshots/screenshot-6.jpg" width="49%" alt="Screenshot 6" />
-  <img src="Assets/screenshots/screenshot-7.jpg" width="49%" alt="Screenshot 7" />
+  <img src="Assets/screenshots/screenshot-6.jpg" width="49%" alt="Remote control and headphone monitoring on a mobile device" />
+  <img src="Assets/screenshots/screenshot-7.jpg" width="49%" alt="Stem separation in the headphone player" />
+</p>
+<p>
+  <img src="Assets/screenshots/screenshot-8.jpg" width="49%" alt="Microphone pass-through" />
+  <img src="Assets/screenshots/screenshot-9.jpg" width="49%" alt="Event page for guests and song requests" />
+</p>
+<p>
+  <img src="Assets/screenshots/screenshot-10.jpg" width="49%" alt="Automatic playlist filling" />
 </p>
 
 ## About InstantDj
